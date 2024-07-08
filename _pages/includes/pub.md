@@ -57,15 +57,14 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoGenesis</div><img src='images/cogenesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-  - ``ACL 2024`` CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following, Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
+``ACL 2024`` CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following, Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PaD</div><img src='images/pad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``NAACL 2024`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou
+``NAACL 2024`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou
 </div>
 </div>
 
@@ -92,7 +91,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Online DPO</div><img src='images/COFSDPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``Arxiv`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou
+``Arxiv`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou
 </div>
 </div>
 

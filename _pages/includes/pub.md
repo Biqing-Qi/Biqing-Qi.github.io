@@ -89,9 +89,14 @@
 
 - ``Arxiv`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Online DPO</div><img src='images/COFSDPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - ``Arxiv`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou
+</div>
+</div>
 
-- ``Arxiv`` [CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/pdf/2403.03129), Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
+
 
 - ``ACL 2024 (Findings)`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou
 

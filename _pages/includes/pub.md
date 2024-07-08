@@ -49,11 +49,13 @@
   
 - ``Arxiv`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou
 
+- ``Arxiv`` Efficient Adversarial High-Density Data Replay for Continual Learning, Junqi Gao, **Biqing Qi**, Kai Tian, Dong Li, Pengfei Li
+  
 - ``Submitted`` SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning, **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou
 
 - ``Submitted`` Fast and Slow Gradient Approximation for Binary Neural Network Optimization, Xinquan Chen, Junqi Gao, **Biqing Qi**, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 
 
-- ``Arxiv 2024``  [Advancing Large Language Models: A Survey from System 1 and 2 Fusion Perspective](), Kaiyan Zhang, **Biqing Qi**, Ning Ding, Eermo Hua, Bowen Zhou
+- ``Arxiv 2024`` [Advancing Large Language Models: A Survey from System 1 and 2 Fusion Perspective](), Kaiyan Zhang, **Biqing Qi**, Ning Ding, Eermo Hua, Bowen Zhou
 
 - ``ACL 2024`` [Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding](https://arxiv.org/pdf/2406.12295), Kaiyan Zhang, Jianyu Wang, Ning Ding, **Biqing Qi**, Eermo Hua, Xingtai Lv, Bowen Zhou
 

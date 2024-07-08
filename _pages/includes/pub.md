@@ -1,6 +1,7 @@
 
 # 📝 Publications 
-
+- Notes:（*）indicates the equal contribution and（\dag）indicates the corresponding author.
+  
 ## 👁 Survey and Position Papers
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">

@@ -13,7 +13,7 @@
   
   - ``Arxiv`` Towards Building Specialized Generalist AI with System 1 and System 2 Fusion, Bowen Zhou, Kaiyan Zhang, **Biqing Qi**, Ning Ding, Zhiyuan Ma, Xuekai Zhu, Eermo Hua.
   
-## 🎙 Theory: Trustworthy Machine Learning
+## 🎙 Trustworthy Machine Learning
 
 - ``Arxiv`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi**, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou
 
@@ -25,7 +25,7 @@
 
 - ``TNNLS 2023`` [Improving robustness of intent detection under adversarial attacks: A geometric constraint perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215063) **Biqing Qi**, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu
 
-## 🌱 Technology: Interactive continual Learning  
+## 🌱 Interactive continual Learning  
 
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
@@ -62,14 +62,14 @@
 
 
 
-## 👄 Technology: Knowledge Compositional Foundation Models
+## 👄 Foundation Models
 
 
 - ``Arxiv`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou
 
 - ``Arxiv`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou
 
-- ``Arxiv`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), Biqing Qi, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou
+- ``Arxiv`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou
 
 - ``Arxiv`` [CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/pdf/2403.03129), Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
 
@@ -79,7 +79,7 @@
 
 - ``Submitted`` On the token distance modeling ability of higher RoPE attention dimension, Xiangyu Hong, Che Jiang, **Biqing Qi**, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou
 
-## 📚 Application: Multimodal Human AI Collaboration Systems
+## 📚 Human-AI Collaboration Systems
 ### Embodied Decision Agents 
 - ``Submitted`` MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making, Dayuan Fu, **Biqing Qi**, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
 

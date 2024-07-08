@@ -55,6 +55,20 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoGenesis</div><img src='images/cogenesis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  - ``ACL 2024`` CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following, Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PaD</div><img src='images/pad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- ``NAACL 2024`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou
+</div>
+</div>
+
 - ``Arxiv`` Efficient Adversarial High-Density Data Replay for Continual Learning, Junqi Gao, **Biqing Qi**, Kai Tian, Dong Li, Pengfei Li
   
 - ``Submitted`` SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning, **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou
@@ -64,21 +78,7 @@
 - ``Submitted`` Fast and Slow Gradient Approximation for Binary Neural Network Optimization, Xinquan Chen, Junqi Gao, **Biqing Qi**, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 
 
 - ``Arxiv 2024`` [Advancing Large Language Models: A Survey from System 1 and 2 Fusion Perspective](), Kaiyan Zhang, **Biqing Qi**, Ning Ding, Eermo Hua, Bowen Zhou
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoGenesis</div><img src='images/cogenesis.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
   
-  - ``ACL 2024`` CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following, Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PaD</div><img src='images/cogenesis.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- ``NAACL 2024`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou
-</div>
-</div>
-
 - ``EMNLP 2023`` [CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model](https://arxiv.org/pdf/2310.15477), Kaiyan Zhang, Ning Ding, **Biqing Qi**, Xuekai Zhu, Xingwei Long, Bowen Zhou
 
 

@@ -44,10 +44,19 @@
   - This work was the first to propose the concept of **interactive continual learning**.
   - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).
   - An advanced continual learning framework with the novel structured **key-value pairs memory unit**.
+  - A novel method to building Specialized Generalist AI.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Contrastive Augmented Graph2Graph Memory Interaction</div><img src='images/contrastive augmented Graph2Graph.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  ``Arxiv`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou 
   
-- ``Arxiv`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou
+  - This work was the first to propose the concept of **interactive continual learning**.
+  - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).
+</div>
+</div>
 
 - ``Arxiv`` Efficient Adversarial High-Density Data Replay for Continual Learning, Junqi Gao, **Biqing Qi**, Kai Tian, Dong Li, Pengfei Li
   

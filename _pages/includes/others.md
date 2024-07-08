@@ -1,5 +1,5 @@
 
-# 📖 Teams
+# 💣 Teams
 ## Tsinghua ZhouGroup Human AI Collobration Team
 - Research fields:
 

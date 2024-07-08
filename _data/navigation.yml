@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected-Publications"
+    url: "/#-selected-publications"
 
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "Selected-Projects"
+    url: "/#-selected-projects"
 
   - title: "Teams"
     url: "/#-teams"

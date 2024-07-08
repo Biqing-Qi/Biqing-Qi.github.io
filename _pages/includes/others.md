@@ -2,9 +2,9 @@
 ## National Major Projects 
 
 
-# 💣 Teams
+# 💣 Teams (25+)
 ## Foundations of Machine Learning Teams (HIT Group)
-- Member (13+)
+- Member
   - Junqi Gao
   - Xingquan Chen
   - Dong Li
@@ -16,11 +16,12 @@
   - Xiang Zou
   - Yicheng Niu
   - Xueyao Wan
-  - Ying Ai 
+  - Ying Ai
+  - Shiyu Gao 
 - Research fields:
 
 ## Human-AI Colloboration Teams (Tsinghua ZhouGroup)  
-- Member (9+)
+- Member 
   - Che Jiang
   - Juncheng Wu
   - Yinhao Cheng

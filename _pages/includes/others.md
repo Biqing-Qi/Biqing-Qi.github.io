@@ -25,9 +25,9 @@
 
     
 # 💣 Teams
-## Foundations of Machine Learning Teams (HIT Group)
-- Member
-  - Junqi Gao
+## AI.Nirvana Team
+- Members
+  - Junqi Gao 
   - Xingquan Chen
   - Dong Li
   - Aijia Zhang
@@ -42,8 +42,8 @@
   - Shiyu Gao 
 - Research fields:
 
-## Human-AI Colloboration Teams (Tsinghua ZhouGroup)  
-- Member 
+## Human-AI Colloboration Team (Tsinghua ZhouGroup)
+- Members
   - Che Jiang
   - Kai Tian
   - Yinhao Cheng

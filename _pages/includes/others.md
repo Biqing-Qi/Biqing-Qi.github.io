@@ -30,11 +30,11 @@
 ## Human-AI Colloboration Teams (Tsinghua ZhouGroup)  
 - Member 
   - Che Jiang
-  - Juncheng Wu
-  - Yinhao Cheng
-  - Xiangyu Hong 
-  - Dayuan Du
   - Kai Tian
+  - Yinhao Cheng
+  - Xiangyu Hong
+  - Juncheng Wu
+  - Dayuan Du
   - Yuying Li
   - Sa Yan
   - Zhekai Cheng

@@ -52,9 +52,6 @@
 <div class='paper-box-text' markdown="1">
 
   ``Arxiv`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou 
-  
-  - XX.
-  - XX.
 </div>
 </div>
 

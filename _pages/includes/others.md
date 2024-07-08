@@ -32,6 +32,6 @@
   - Sa Yan
   - Zhekai Cheng
 - Research fields:
-- 
+  
 ## Multi-Agents for knowledge Discovery Teams (Shanghai AI Lab Group)
 - Research fields:

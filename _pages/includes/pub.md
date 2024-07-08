@@ -26,7 +26,7 @@
 
 - ``TNNLS 2023`` [Improving robustness of intent detection under adversarial attacks: A geometric constraint perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215063) **Biqing Qi**, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu
 
-## 🌱 Interactive continual Learning  
+## 🌱 System1 and System2
 
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
@@ -53,8 +53,8 @@
 
   ``Arxiv`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou 
   
-  - This work was the first to propose the concept of **interactive continual learning**.
-  - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).
+  - XX.
+  - XX.
 </div>
 </div>
 
@@ -62,16 +62,23 @@
   
 - ``Submitted`` SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning, **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou
 
+- ``Arxiv`` [Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding](https://arxiv.org/pdf/2406.12295), Kaiyan Zhang, Jianyu Wang, Ning Ding, **Biqing Qi**, Eermo Hua, Xingtai Lv, Bowen Zhou
+
 - ``Submitted`` Fast and Slow Gradient Approximation for Binary Neural Network Optimization, Xinquan Chen, Junqi Gao, **Biqing Qi**, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 
 
 - ``Arxiv 2024`` [Advancing Large Language Models: A Survey from System 1 and 2 Fusion Perspective](), Kaiyan Zhang, **Biqing Qi**, Ning Ding, Eermo Hua, Bowen Zhou
 
-- ``ACL 2024`` [Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding](https://arxiv.org/pdf/2406.12295), Kaiyan Zhang, Jianyu Wang, Ning Ding, **Biqing Qi**, Eermo Hua, Xingtai Lv, Bowen Zhou
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoGenesis</div><img src='images/cogenesis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  - ``ACL 2024`` CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following, Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
+
+</div>
+</div>
 
 - ``NAACL 2024`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou
 
 - ``EMNLP 2023`` [CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model](https://arxiv.org/pdf/2310.15477), Kaiyan Zhang, Ning Ding, **Biqing Qi**, Xuekai Zhu, Xingwei Long, Bowen Zhou
-
 
 
 ## 👄 Foundation Models
@@ -85,7 +92,7 @@
 
 - ``Arxiv`` [CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/pdf/2403.03129), Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
 
-- ``ACL Findings 2024`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou
+- ``ACL 2024 (Findings)`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou
 
 - ``Arxiv`` [S4++: Elevating Long Sequence Modeling with State Memory Reply](https://openreview.net/pdf?id=bdnw4qjfH9), **Biqing Qi**, Junqi Gao, Dong Li, Kaiyan Zhang, Jianxing Liu, Ligang Wu, Bowen Zhou
 
@@ -101,5 +108,5 @@
 
 ### Hypothesis Proposers
 - ``Submitted`` Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation, **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou 
-- ``NeurIPS Workshop 2024`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou
-- ``Arxiv 2024`` UltraMedical: Building Specialized Generalists in Biomedicine Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical)
+- ``Instruct Following@NeurIPS 2023`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou
+- ``Arxiv`` UltraMedical: Building Specialized Generalists in Biomedicine Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical)

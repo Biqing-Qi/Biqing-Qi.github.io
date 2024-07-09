@@ -5,4 +5,4 @@ Additionally, I collaborate closely with [Jianxing Liu](https://homepage.hit.edu
 
 My research interests include: 1) trustworthy and interactive continual learning theory, 2) knowledge-compositional foundation models, and 3) multimodal human-AI collaboration systems.
 
-If you are eeking any form of academic collaborations with AIUS, SCIR Lab at HIT, Tsinghua C3I Lab, or the Shanghai AI Lab, please feel free to email me at [qibiqing7@gmail.com](qibiqing@gmail.com).
+If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HIT, Tsinghua C3I Lab, or the Shanghai AI Lab, please feel free to email me at [qibiqing7@gmail.com](qibiqing@gmail.com).

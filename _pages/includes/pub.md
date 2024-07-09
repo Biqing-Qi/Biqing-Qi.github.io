@@ -76,13 +76,12 @@
 
 - ``Submitted`` Fast and Slow Gradient Approximation for Binary Neural Network Optimization, Xinquan Chen, Junqi Gao, **Biqing Qi**, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 
 
-- ``Arxiv 2024`` [Advancing Large Language Models: A Survey from System 1 and 2 Fusion Perspective](), Kaiyan Zhang, **Biqing Qi**, Ning Ding, Eermo Hua, Bowen Zhou
+- ``Arxiv 2024`` [Advancing Large Language Models: A Survey from System 1 and 2 Fusion Perspective], Kaiyan Zhang, **Biqing Qi**, Ning Ding, Eermo Hua, Bowen Zhou
   
 - ``EMNLP 2023`` [CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model](https://arxiv.org/pdf/2310.15477), Kaiyan Zhang, Ning Ding, **Biqing Qi**, Xuekai Zhu, Xingwei Long, Bowen Zhou
 
 
 ## 👄 Foundation Models
-
 
 - ``Arxiv`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou
 

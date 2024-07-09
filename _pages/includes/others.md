@@ -41,15 +41,17 @@
      - PhD student in electronic at Tsinghua Univerisity
    - **Xiangyu Hong**
      - Interpretable LLMs
-     - Bacholar student in electronic at Tsinghua University 
-## 👄 System1 and System2 
-  ###  
+     - Bacholar student in electronic at Tsinghua University
+
+  ## 👄 System1 and System2 
+  ### Decoupled Memory Unit
    - **Dong Li**
      - LLMs within Graph learning
      - PhD student in Computational Mathematics at Harbin Institute of Technology
-   - Juncheng Wu
+   - **Juncheng Wu**
      - Time series Analysis within LLMs
      - PhD student in at Tsinghua University 
+  
   ### Learning 
   - **Xingquan Chen**
     - Model Collocation Learning
@@ -75,6 +77,7 @@
   - **Dayuan Fu**
     - Interactive Learning within LLMs
     - Master's Student in Artificial Intelligence at Beijing University of Posts and Telecommunications
+  
   ### Inference 
   - **Aijia Zhang**
     - Gflownet

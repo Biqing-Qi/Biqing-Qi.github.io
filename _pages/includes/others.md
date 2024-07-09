@@ -27,10 +27,10 @@
 # 💣 Teams
 ## AI.Nirvana Team
 - Members
-  - Junqi Gao 
-  - Xingquan Chen
-  - Dong Li
-  - Aijia Zhang
+  - Junqi Gao (Online Learning Theory, PhD Candidate in Statistics)
+  - Xingquan Chen (Model Collocation Learning, Master's Student in Statistics)
+  - Dong Li （LLMs with Graph learning, ）
+  - Aijia Zhang 
   - Yiang Luo
   - Pengfei Li
   - Fangyuan Li
@@ -40,7 +40,6 @@
   - Xueyao Wan
   - Ying Ai
   - Shiyu Gao 
-- Research fields:
 
 ## Human-AI Colloboration Team (Tsinghua ZhouGroup)
 - Members

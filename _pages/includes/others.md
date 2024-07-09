@@ -43,59 +43,59 @@
      - Interpretable LLMs
      - Bacholar student in electronic at Tsinghua University
 
-  ## 👄 System1 and System2 
-  ### Memory
-   - **Dong Li**
-     - LLMs within Graph learning
-     - PhD student in Computational Mathematics at Harbin Institute of Technology
-   - **Juncheng Wu**
-     - Time series Analysis within LLMs
-     - PhD student in at Tsinghua University 
+## 👄 System1 and System2 
+### Memory
+ - **Dong Li**
+   - LLMs within Graph learning
+   - PhD student in Computational Mathematics at Harbin Institute of Technology
+ - **Juncheng Wu**
+   - Time series Analysis within LLMs
+   - PhD student in at Tsinghua University 
   
-  ### Learning 
-  - **Xingquan Chen**
-    - Model Collocation Learning
-    - Master's Student in Statistics at Harbin Institute of Technology 
-  - **Pengfei Li**
-    - Interacive Continual Learning
-    - Master's Student in Statistics at Harbin Institute of Technology  
-  - **Fangyuan Li**
-    - Online DPO
-    - Master's Student in control science at Harbin Institute of Technology
-  - **Yicheng Niu**
-    -  LLMs Inference Optimization，
-    -  Master's Student in Statistics at Harbin Institute of Technology
-  - **Xueyao Wan**
-    - LLMs within Graph Learning
-    - Master's Student in control science at Harbin Institute of Technology
-  - **Ying Ai**
-    - LLMs within Graph Learning
-    -  Master's Student in control science at Harbin Institute of Technology
-  - **Shiyu Gao**
-    -  Efficient LLMs Fintuning,
-    -  Phd Student in control science at Harbin Institute of Technology
-  - **Dayuan Fu**
-    - Interactive Learning within LLMs
-    - Master's Student in Artificial Intelligence at Beijing University of Posts and Telecommunications
-  
-  ### Inference 
-  - **Aijia Zhang**
-    - Gflownet Optimization
-    - PhD Candidate in Computational Mathematics at Harbin Institute of Technology
-  - **Zhouyi Qian**
-    - Collaborative Inference
-    - Master's Student in Statistics at Harbin Institute of Technology
-  - **Xiang Zou**
-    - LLMs Inference Optimization
-    - Master's Student in Statistics at Harbin Institute of Technology
-  - **Sa Yan**
-    - LLMs Inference Optimization
-    - Master's Student in eletronics at Peking Technology
-      
-  ### Optimization 
-  - **Yuying Li**
-    - Spike NN
-    - Bacholar student in control at Beijing Institute of Technology
+### Learning 
+- **Xingquan Chen**
+  - Model Collocation Learning
+  - Master's Student in Statistics at Harbin Institute of Technology 
+- **Pengfei Li**
+  - Interacive Continual Learning
+  - Master's Student in Statistics at Harbin Institute of Technology  
+- **Fangyuan Li**
+  - Online DPO
+  - Master's Student in control science at Harbin Institute of Technology
+- **Yicheng Niu**
+  -  LLMs Inference Optimization，
+  -  Master's Student in Statistics at Harbin Institute of Technology
+- **Xueyao Wan**
+  - LLMs within Graph Learning
+  - Master's Student in control science at Harbin Institute of Technology
+- **Ying Ai**
+  - LLMs within Graph Learning
+  -  Master's Student in control science at Harbin Institute of Technology
+- **Shiyu Gao**
+  -  Efficient LLMs Fintuning,
+  -  Phd Student in control science at Harbin Institute of Technology
+- **Dayuan Fu**
+  - Interactive Learning within LLMs
+  - Master's Student in Artificial Intelligence at Beijing University of Posts and Telecommunications
+
+### Inference 
+- **Aijia Zhang**
+  - Gflownet Optimization
+  - PhD Candidate in Computational Mathematics at Harbin Institute of Technology
+- **Zhouyi Qian**
+  - Collaborative Inference
+  - Master's Student in Statistics at Harbin Institute of Technology
+- **Xiang Zou**
+  - LLMs Inference Optimization
+  - Master's Student in Statistics at Harbin Institute of Technology
+- **Sa Yan**
+  - LLMs Inference Optimization
+  - Master's Student in eletronics at Peking Technology
+    
+### Optimization 
+- **Yuying Li**
+  - Spike NN
+  - Bacholar student in control at Beijing Institute of Technology
 
 ## 📚 Application: Multimodal Human AI Collobration Systems
   - **Kai Tian**

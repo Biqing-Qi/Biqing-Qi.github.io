@@ -44,7 +44,7 @@
      - Bacholar student in electronic at Tsinghua University
 
   ## 👄 System1 and System2 
-  ### Decoupled Memory Unit
+  ### Memory
    - **Dong Li**
      - LLMs within Graph learning
      - PhD student in Computational Mathematics at Harbin Institute of Technology
@@ -80,7 +80,7 @@
   
   ### Inference 
   - **Aijia Zhang**
-    - Gflownet
+    - Gflownet Optimization
     - PhD Candidate in Computational Mathematics at Harbin Institute of Technology
   - **Zhouyi Qian**
     - Collaborative Inference

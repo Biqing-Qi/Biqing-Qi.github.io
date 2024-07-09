@@ -62,7 +62,7 @@
     - Master's Student in control science at Harbin Institute of Technology
   - **Yicheng Niu**
     -  LLMs Inference Optimization，
-    -  Master's Student in Statistics
+    -  Master's Student in Statistics at Harbin Institute of Technology
   - **Xueyao Wan**
     - LLMs within Graph Learning
     - Master's Student in control science at Harbin Institute of Technology
@@ -99,7 +99,7 @@
     - Human-AI Colloboration Systems 
     - Phd Student in electronic at Tsinghua University
 
-### Former collaborative associates
+## 👬🏻 Former collaborative associates
   - X
 
 

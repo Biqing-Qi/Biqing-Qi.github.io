@@ -25,13 +25,27 @@
 
     
 # 💣 Teams
-## AI.Nirvana Team
-- Members
-  - Junqi Gao (Online Learning Theory, PhD Candidate in Statistics)
+
+
+#### 🎙 Theory: Trustworthy Machine Learning
+   - Junqi Gao 
+     - Focusing on Online Learning Theory
+     - PhD Candidate in Statistics
+     - Harbin Insitutte of Technology 
+   - Yiang Luo
+     - Focusing on Robust State Space Model
+     - Master's Student in control science,
+     - Harbin Insitutte of Technology 
+   - Zhekai Cheng
+     - Focusing on State Space Model
+     - Masters’s Student in Physics
+     - visiting Student in Tsinghua ZhouGroup
+     
+#### 👄 Technology: System1 and System2
+
   - Xingquan Chen (Model Collocation Learning, Master's Student in Statistics)
   - Dong Li（LLMs within Graph learning, PhD Candidate in Computational Mathematics）
   - Aijia Zhang（Gflownet, PhD Candidate in Computational Mathematics）
-  - Yiang Luo（Robust Representation learning, Master's Student in control science）
   - Pengfei Li（Interacive Continual Learning, Master's Student in Statistics）
   - Fangyuan Li（Online DPO, Master's Student in control science）
   - Zhouyi Qian (Collaborative Inference，Master's Student in Statistics)
@@ -40,6 +54,16 @@
   - Xueyao Wan（LLMs within Graph Learning, Master's Student in control science）
   - Ying Ai（LLMs within Graph Learning, Master's Student in control science）
   - Shiyu Gao 
+
+#### 📚 Application: Multimodal Human AI Collobration Systems
+
+
+## AI.Nirvana Team
+- Members
+ 
+ 
+
+ 
 
 ## Human-AI Colloboration Team (Tsinghua ZhouGroup)
 - Members
@@ -51,7 +75,7 @@
   - Dayuan Du
   - Yuying Li
   - Sa Yan
-  - Zhekai Cheng
+
 - Research fields:
   
 ## Multi-Agents for knowledge Discovery Teams (Shanghai AI Lab Group)

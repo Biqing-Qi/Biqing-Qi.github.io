@@ -88,7 +88,9 @@
   - **Xiang Zou**
     - LLMs Inference Optimization
     - Master's Student in Statistics at Harbin Institute of Technology
-  - **Sa Yan** 
+  - **Sa Yan**
+    - LLMs Inference Optimization
+    - Master's Student in eletronics at Peking Technology
   ### Optimization 
   - **Yuying Li**
     - Spike NN

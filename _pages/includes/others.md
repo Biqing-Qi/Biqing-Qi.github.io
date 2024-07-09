@@ -97,7 +97,7 @@
     - Spike NN
     - Bacholar student in control at Beijing Institute of Technology
 
-#### 📚 Application: Multimodal Human AI Collobration Systems
+## 📚 Application: Multimodal Human AI Collobration Systems
   - **Kai Tian**
     - Multi-Agent Inference, Human-AI Colloboration Systems
     - Master's Student in electronic at Tsinghua University

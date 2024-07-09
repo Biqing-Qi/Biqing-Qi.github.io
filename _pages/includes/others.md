@@ -91,6 +91,7 @@
   - **Sa Yan**
     - LLMs Inference Optimization
     - Master's Student in eletronics at Peking Technology
+      
   ### Optimization 
   - **Yuying Li**
     - Spike NN

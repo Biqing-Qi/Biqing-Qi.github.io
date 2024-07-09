@@ -44,7 +44,7 @@
   - This work was the first to propose the concept of **interactive continual learning**.
   - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).
   - An advanced continual learning framework with the novel structured **key-value pairs memory unit**.
-  - A potential framework to developing Specialized Generalist AI.
+  - A potential framework to develop Specialized Generalist AI.
 </div>
 </div>
 

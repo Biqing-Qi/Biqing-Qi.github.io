@@ -29,16 +29,16 @@
 - Members
   - Junqi Gao (Online Learning Theory, PhD Candidate in Statistics)
   - Xingquan Chen (Model Collocation Learning, Master's Student in Statistics)
-  - Dong Li （LLMs with Graph learning, ）
-  - Aijia Zhang 
-  - Yiang Luo
-  - Pengfei Li
-  - Fangyuan Li
-  - Zhouyi Qian
-  - Xiang Zou
-  - Yicheng Niu
-  - Xueyao Wan
-  - Ying Ai
+  - Dong Li（LLMs within Graph learning, PhD Candidate in Computational Mathematics）
+  - Aijia Zhang（Gflownet, PhD Candidate in Computational Mathematics）
+  - Yiang Luo（Robust Representation learning, Master's Student in control science）
+  - Pengfei Li（Interacive Continual Learning, Master's Student in Statistics）
+  - Fangyuan Li（Online DPO, Master's Student in control science）
+  - Zhouyi Qian (Collaborative Inference，Master's Student in Statistics)
+  - Xiang Zou (LLMs Inference Optimization，Master's Student in Statistics)
+  - Yicheng Niu (LLMs Inference Optimization，Master's Student in Statistics)
+  - Xueyao Wan（LLMs within Graph Learning, Master's Student in control science）
+  - Ying Ai（LLMs within Graph Learning, Master's Student in control science）
   - Shiyu Gao 
 
 ## Human-AI Colloboration Team (Tsinghua ZhouGroup)

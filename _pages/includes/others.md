@@ -29,63 +29,81 @@
 
 ## 🎙 Theory: Trustworthy Machine Learning
 
-   - Junqi Gao 
+   - **Junqi Gao** 
      - Online Learning Theory
      - PhD student in Statistics at Harbin Institute of Technology 
-   - Yiang Luo
+   - **Yiang Luo**
      - Robust State Space Model
      - Master's Student in Control Science at Harbin Institute of Technology
-   - Zhekai Cheng
+   - **Zhekai Cheng**
      - State Space Model
      - Masters’s Student in Physics at Johns Hopkins University
      - Visiting Student in Tsinghua ZhouGroup
-   - Che Jiang
+   - **Che Jiang**
      - Interpretable LLMs, especially the Hallucination problem
      - PhD student in electronic at Tsinghua Univerisity
-   - Xiangyu Hong
+   - **Xiangyu Hong**
      - Interpretable LLMs
      - Bacholar student in electronic at Tsinghua University 
 
   
 ## 👄 Technology: System1 and System2
   ###  
-   - Dong Li
+   - **Dong Li**
      - LLMs within Graph learning
      - PhD student in Computational Mathematics at Harbin Institute of Technology
    - Juncheng Wu
      - Time series Analysis within LLMs
      - PhD student in at Tsinghua University 
   ### Learning 
-  - Xingquan Chen
+  - **Xingquan Chen**
     - Model Collocation Learning
     - Master's Student in Statistics at Harbin Institute of Technology 
-  - Pengfei Li
+  - **Pengfei Li**
     - Interacive Continual Learning
     - Master's Student in Statistics at Harbin Institute of Technology  
-  - Fangyuan Li
+  - **Fangyuan Li**
     - Online DPO
     - Master's Student in control science at Harbin Institute of Technology
-  - Yicheng Niu
+  - **Yicheng Niu**
     -  LLMs Inference Optimization，
     -  Master's Student in Statistics
-  - Xueyao Wan（LLMs within Graph Learning, Master's Student in control science）
-  - Ying Ai（LLMs within Graph Learning, Master's Student in control science）
-  - Shiyu Gao (Efficient LLMs Fintuning, Phd Student in control science)
-  - Dayuan Fu
+  - **Xueyao Wan**
+    - LLMs within Graph Learning
+    - Master's Student in control science at Harbin Institute of Technology
+  - **Ying Ai**
+    - LLMs within Graph Learning
+    -  Master's Student in control science at Harbin Institute of Technology
+  - **Shiyu Gao**
+    -  Efficient LLMs Fintuning,
+    -  Phd Student in control science at Harbin Institute of Technology
+  - **Dayuan Fu**
+    - Interactive Learning within LLMs
+    - Master's Student in Artificial Intelligence at Beijing University of Posts and Telecommunications
 
   ### Inference 
-  - Aijia Zhang（Gflownet, PhD Candidate in Computational Mathematics）
-  - Zhouyi Qian (Collaborative Inference，Master's Student in Statistics)
-  - Xiang Zou (LLMs Inference Optimization，Master's Student in Statistics)
-  - Sa Yan 
+  - **Aijia Zhang**
+    - Gflownet
+    - PhD Candidate in Computational Mathematics at Harbin Institute of Technology
+  - **Zhouyi Qian**
+    - Collaborative Inference
+    - Master's Student in Statistics at Harbin Institute of Technology
+  - **Xiang Zou**
+    - LLMs Inference Optimization
+    - Master's Student in Statistics at Harbin Institute of Technology
+  - **Sa Yan** 
   ### Optimization 
-  - Yuying Li
-
+  - **Yuying Li**
+    - Spike NN
+    - Bacholar student in control at Beijing Institute of Technology
 
 #### 📚 Application: Multimodal Human AI Collobration Systems
-  - Kai Tian
-  - Yinhao Cheng
-
+  - **Kai Tian**
+    - Multi-Agent Inference, Human-AI Colloboration Systems
+    - Master's Student in electronic at Tsinghua University
+  - **Yinhao Cheng**
+    - Human-AI Colloboration Systems 
+    - Phd Student in electronic at Tsinghua University
 
 
 ### Former collaborative associates

@@ -30,32 +30,44 @@
 ## 🎙 Theory: Trustworthy Machine Learning
 
    - Junqi Gao 
-     - Focusing on Online Learning Theory
+     - Online Learning Theory
      - PhD student in Statistics at Harbin Institute of Technology 
    - Yiang Luo
-     - Focusing on Robust State Space Model
+     - Robust State Space Model
      - Master's Student in Control Science at Harbin Institute of Technology
    - Zhekai Cheng
-     - Focusing on State Space Model
+     - State Space Model
      - Masters’s Student in Physics at Johns Hopkins University
      - Visiting Student in Tsinghua ZhouGroup
    - Che Jiang
-     - Focusing on Interpretable LLMs, especially the Hallucination problem
+     - Interpretable LLMs, especially the Hallucination problem
      - PhD student in electronic at Tsinghua Univerisity
    - Xiangyu Hong
-     - Focusing on Interpretable LLMs
+     - Interpretable LLMs
      - Bacholar student in electronic at Tsinghua University 
 
   
 ## 👄 Technology: System1 and System2
   ###  
-   - Dong Li（LLMs within Graph learning, PhD Candidate in Computational Mathematics）
-    - Juncheng Wu
+   - Dong Li
+     - LLMs within Graph learning
+     - PhD student in Computational Mathematics at Harbin Institute of Technology
+   - Juncheng Wu
+     - Time series Analysis within LLMs
+     - PhD student in at Tsinghua University 
   ### Learning 
-  - Xingquan Chen (Model Collocation Learning, Master's Student in Statistics)
-  - Pengfei Li（Interacive Continual Learning, Master's Student in Statistics）
-  - Fangyuan Li（Online DPO, Master's Student in control science）
-  - Yicheng Niu (LLMs Inference Optimization，Master's Student in Statistics)
+  - Xingquan Chen
+    - Model Collocation Learning
+    - Master's Student in Statistics at Harbin Institute of Technology 
+  - Pengfei Li
+    - Interacive Continual Learning
+    - Master's Student in Statistics at Harbin Institute of Technology  
+  - Fangyuan Li
+    - Online DPO
+    - Master's Student in control science at Harbin Institute of Technology
+  - Yicheng Niu
+    -  LLMs Inference Optimization，
+    -  Master's Student in Statistics
   - Xueyao Wan（LLMs within Graph Learning, Master's Student in control science）
   - Ying Ai（LLMs within Graph Learning, Master's Student in control science）
   - Shiyu Gao (Efficient LLMs Fintuning, Phd Student in control science)
@@ -76,9 +88,9 @@
 
 
 
-## AI.Nirvana Team
-- Members
- 
+### Former collaborative associates
+
+
 
  
 

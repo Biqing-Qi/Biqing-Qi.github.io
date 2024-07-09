@@ -27,56 +27,58 @@
 # 💣 Teams
 
 
-#### 🎙 Theory: Trustworthy Machine Learning
+## 🎙 Theory: Trustworthy Machine Learning
+
    - Junqi Gao 
      - Focusing on Online Learning Theory
-     - PhD Candidate in Statistics
-     - Harbin Insitutte of Technology 
+     - PhD student in Statistics at Harbin Institute of Technology 
    - Yiang Luo
      - Focusing on Robust State Space Model
-     - Master's Student in control science,
-     - Harbin Insitutte of Technology 
+     - Master's Student in Control Science at Harbin Institute of Technology
    - Zhekai Cheng
      - Focusing on State Space Model
-     - Masters’s Student in Physics
-     - visiting Student in Tsinghua ZhouGroup
-     
-#### 👄 Technology: System1 and System2
+     - Masters’s Student in Physics at Johns Hopkins University
+     - Visiting Student in Tsinghua ZhouGroup
+   - Che Jiang
+     - Focusing on Interpretable LLMs, especially the Hallucination problem
+     - PhD student in electronic at Tsinghua Univerisity
+   - Xiangyu Hong
+     - Focusing on Interpretable LLMs
+     - Bacholar student in electronic at Tsinghua University 
 
+  
+## 👄 Technology: System1 and System2
+  ###  
+   - Dong Li（LLMs within Graph learning, PhD Candidate in Computational Mathematics）
+    - Juncheng Wu
+  ### Learning 
   - Xingquan Chen (Model Collocation Learning, Master's Student in Statistics)
-  - Dong Li（LLMs within Graph learning, PhD Candidate in Computational Mathematics）
-  - Aijia Zhang（Gflownet, PhD Candidate in Computational Mathematics）
   - Pengfei Li（Interacive Continual Learning, Master's Student in Statistics）
   - Fangyuan Li（Online DPO, Master's Student in control science）
-  - Zhouyi Qian (Collaborative Inference，Master's Student in Statistics)
-  - Xiang Zou (LLMs Inference Optimization，Master's Student in Statistics)
   - Yicheng Niu (LLMs Inference Optimization，Master's Student in Statistics)
   - Xueyao Wan（LLMs within Graph Learning, Master's Student in control science）
   - Ying Ai（LLMs within Graph Learning, Master's Student in control science）
-  - Shiyu Gao 
+  - Shiyu Gao (Efficient LLMs Fintuning, Phd Student in control science)
+  - Dayuan Fu
+
+  ### Inference 
+  - Aijia Zhang（Gflownet, PhD Candidate in Computational Mathematics）
+  - Zhouyi Qian (Collaborative Inference，Master's Student in Statistics)
+  - Xiang Zou (LLMs Inference Optimization，Master's Student in Statistics)
+  - Sa Yan 
+  ### Optimization 
+  - Yuying Li
+
 
 #### 📚 Application: Multimodal Human AI Collobration Systems
+  - Kai Tian
+  - Yinhao Cheng
+
 
 
 ## AI.Nirvana Team
 - Members
  
- 
 
  
 
-## Human-AI Colloboration Team (Tsinghua ZhouGroup)
-- Members
-  - Che Jiang
-  - Kai Tian
-  - Yinhao Cheng
-  - Xiangyu Hong
-  - Juncheng Wu
-  - Dayuan Du
-  - Yuying Li
-  - Sa Yan
-
-- Research fields:
-  
-## Multi-Agents for knowledge Discovery Teams (Shanghai AI Lab Group)
-- Research fields:

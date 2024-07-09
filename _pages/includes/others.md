@@ -25,10 +25,7 @@
 
     
 # 💣 Teams
-
-
-## 🎙 Theory: Trustworthy Machine Learning
-
+## 🎙 Trustworthy Machine Learning
    - **Junqi Gao** 
      - Online Learning Theory
      - PhD student in Statistics at Harbin Institute of Technology 
@@ -45,9 +42,7 @@
    - **Xiangyu Hong**
      - Interpretable LLMs
      - Bacholar student in electronic at Tsinghua University 
-
-  
-## 👄 Technology: System1 and System2
+## 👄 System1 and System2 
   ###  
    - **Dong Li**
      - LLMs within Graph learning
@@ -80,7 +75,6 @@
   - **Dayuan Fu**
     - Interactive Learning within LLMs
     - Master's Student in Artificial Intelligence at Beijing University of Posts and Telecommunications
-
   ### Inference 
   - **Aijia Zhang**
     - Gflownet
@@ -105,9 +99,8 @@
     - Human-AI Colloboration Systems 
     - Phd Student in electronic at Tsinghua University
 
-
 ### Former collaborative associates
-
+  - X
 
 
  

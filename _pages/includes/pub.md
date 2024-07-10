@@ -16,7 +16,7 @@
   
 ## 🎙 Trustworthy Machine Learning
 
-- ``Arxiv`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi**, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou
+- ``Arxiv`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi\***, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou
 
 - ``SPL 2024`` [Enhancing Adversarial Transferability via Information Bottleneck Constraints](https://arxiv.org/pdf/2406.05531), **Biqing Qi**, Junqi Gao, Jianxing Liu, Ligang Wu, Bowen Zhou [**Code**](https://github.com/Biqing-Qi/Enhancing-Adversarial-Transferability-via-Information-Bottleneck-Constraints)
 
@@ -80,7 +80,6 @@
   
 - ``EMNLP 2023`` [CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model](https://arxiv.org/pdf/2310.15477), Kaiyan Zhang, Ning Ding, **Biqing Qi**, Xuekai Zhu, Xingwei Long, Bowen Zhou
 
-
 ## 👄 Foundation Models
 
 - ``Arxiv`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou
@@ -93,7 +92,6 @@
 ``Arxiv`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou
 </div>
 </div>
-
 
 
 - ``ACL 2024 (Findings)`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou

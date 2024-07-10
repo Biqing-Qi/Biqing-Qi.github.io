@@ -1,6 +1,6 @@
 
 # 📝 Selected-Publications 
-- Notes:（*）indicates the equal contribution and（\dag）indicates the corresponding author.
+- Notes:（*）indicates the equal contributions and（\dag）indicates the corresponding author.
   
 ## 👁 Survey and Position Papers
 <div class='paper-box'>
@@ -12,7 +12,7 @@
   </div>
 </div>
   
-  - ``Arxiv`` Towards Building Specialized Generalist AI with System 1 and System 2 Fusion, Bowen Zhou, Kaiyan Zhang, **Biqing Qi**, Ning Ding, Zhiyuan Ma, Xuekai Zhu, Eermo Hua.
+  - ``Arxiv`` Towards Building Specialized Generalist AI with System 1 and System 2 Fusion, Bowen Zhou\*, Kaiyan Zhang\*, **Biqing Qi\***, Ning Ding, Zhiyuan Ma, Xuekai Zhu, Eermo Hua.
   
 ## 🎙 Trustworthy Machine Learning
 

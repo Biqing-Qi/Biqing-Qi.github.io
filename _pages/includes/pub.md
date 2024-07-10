@@ -1,6 +1,6 @@
 
 # 📝 Selected-Publications 
-- Notes:（*）indicates the equal contributions and（\dag）indicates the corresponding author.
+- Notes:（*）indicates the equal contributions and（^）indicates the corresponding author.
   
 ## 👁 Survey and Position Papers
 <div class='paper-box'>
@@ -17,13 +17,9 @@
 ## 🎙 Trustworthy Machine Learning
 
 - ``Arxiv`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi**, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou
-
 - ``SPL 2024`` [Enhancing Adversarial Transferability via Information Bottleneck Constraints](https://arxiv.org/pdf/2406.05531), **Biqing Qi**, Junqi Gao, Jianxing Liu, Ligang Wu, Bowen Zhou [**Code**](https://github.com/Biqing-Qi/Enhancing-Adversarial-Transferability-via-Information-Bottleneck-Constraints)
-
 - ``NAACL 2024`` [On Large Language Models' Hallucination with Regard to Known Facts](https://arxiv.org/pdf/2403.20009), Che jiang, **Biqing Qi**, Xiangyu Hong, Dayuan Fu, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou
-
 - ``NeurIPS 2023`` [Perturbation towards easy samples improves targeted adversarial transferability](https://proceedings.neurips.cc/paper_files/paper/2023/file/028fcbcf85435d39a40c4d61b42c99a4-Paper-Conference.pdf) Junqi Gao\*, **Biqing Qi\***, Yao Li, Zhichang Guo, Da Li, Yuming Xing, Dazhi Zhang
-
 - ``TNNLS 2023`` [Improving robustness of intent detection under adversarial attacks: A geometric constraint perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215063) **Biqing Qi**, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu
 
 ## 🌱 System1 and System2
@@ -60,7 +56,6 @@
 ``ACL 2024`` CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following, Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PaD</div><img src='images/pad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -69,23 +64,16 @@
 </div>
 
 - ``Arxiv`` Efficient Adversarial High-Density Data Replay for Continual Learning, Junqi Gao, **Biqing Qi**, Kai Tian, Dong Li, Pengfei Li
-  
 - ``Submitted`` SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning, **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou
-
 - ``Arxiv`` [Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding](https://arxiv.org/pdf/2406.12295), Kaiyan Zhang, Jianyu Wang, Ning Ding, **Biqing Qi**, Eermo Hua, Xingtai Lv, Bowen Zhou
-
 - ``Submitted`` Fast and Slow Gradient Approximation for Binary Neural Network Optimization, Xinquan Chen, Junqi Gao, **Biqing Qi**, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 
-
 - ``Arxiv 2024`` [Advancing Large Language Models: A Survey from System 1 and 2 Fusion Perspective], Kaiyan Zhang, **Biqing Qi**, Ning Ding, Eermo Hua, Bowen Zhou
-  
 - ``EMNLP 2023`` [CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model](https://arxiv.org/pdf/2310.15477), Kaiyan Zhang, Ning Ding, **Biqing Qi**, Xuekai Zhu, Xingwei Long, Bowen Zhou
 
 ## 👄 Foundation Models
 
 - ``Arxiv`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou
-
 - ``Arxiv`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Online DPO</div><img src='images/COFSDPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -93,11 +81,8 @@
 </div>
 </div>
 
-
 - ``ACL 2024 (Findings)`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou
-
 - ``Arxiv`` [S4++: Elevating Long Sequence Modeling with State Memory Reply](https://openreview.net/pdf?id=bdnw4qjfH9), **Biqing Qi**, Junqi Gao, Dong Li, Kaiyan Zhang, Jianxing Liu, Ligang Wu, Bowen Zhou
-
 - ``Submitted`` On the token distance modeling ability of higher RoPE attention dimension, Xiangyu Hong, Che Jiang, **Biqing Qi**, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou
 
 ## 📚 Human-AI Collaboration Systems

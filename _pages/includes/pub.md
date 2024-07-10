@@ -86,7 +86,7 @@
 - ``Submitted`` On the token distance modeling ability of higher RoPE attention dimension, Xiangyu Hong, Che Jiang, **Biqing Qi**, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou
 
 ## 📚 Human-AI Collaboration Systems
-### Embodied Decision Agents 
+### Embodied Agents 
 - ``Submitted`` MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making, Dayuan Fu, **Biqing Qi**, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
 
 ### Deep Watermarking 

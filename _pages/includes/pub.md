@@ -12,7 +12,7 @@
   </div>
 </div>
   
-  - ``Arxiv`` Towards Building Specialized Generalist AI with System 1 and System 2 Fusion, Bowen Zhou\*, Kaiyan Zhang\*, **Biqing Qi\***, Ning Ding, Zhiyuan Ma, Xuekai Zhu, Eermo Hua.
+  - ``Arxiv`` Towards Building Specialized Generalist AI with System 1 and System 2 Fusion, Bowen Zhou\*, Kaiyan Zhang\*, **Biqing Qi\***, Ning Ding, Zhiyuan Ma.
   
 ## 🎙 Trustworthy Machine Learning
 

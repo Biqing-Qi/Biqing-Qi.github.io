@@ -63,7 +63,7 @@
 </div>
 </div>
 
-- ``Arxiv`` Efficient Adversarial High-Density Data Replay for Continual Learning, Junqi Gao, **Biqing Qi**, Kai Tian, Dong Li, Pengfei Li
+- ``Arxiv`` Efficient Adversarial High-Density Data Replay for Continual Learning, Junqi Gao, **Biqing Qi^**, Kai Tian, Dong Li, Pengfei Li
 - ``Submitted`` SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning, **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou
 - ``Arxiv`` [Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding](https://arxiv.org/pdf/2406.12295), Kaiyan Zhang, Jianyu Wang, Ning Ding, **Biqing Qi**, Eermo Hua, Xingtai Lv, Bowen Zhou
 - ``Submitted`` Fast and Slow Gradient Approximation for Binary Neural Network Optimization, Xinquan Chen, Junqi Gao, **Biqing Qi**, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 

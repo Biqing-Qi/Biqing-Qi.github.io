@@ -87,11 +87,11 @@
 
 ## 📚 Human-AI Collaboration Systems
 ### Embodied Agents 
-- ``Submitted`` MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making, Dayuan Fu, **Biqing Qi**, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
+- ``Submitted EMNLP 2024`` MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making, Dayuan Fu/*, **Biqing Qi/*^**, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
 
 ### Deep Watermarking 
 - ``Arxiv`` [Investigating Deep Watermark Security: An Adversarial Transferability Perspective](https://arxiv.org/pdf/2402.16397), **Biqing Qi**, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou
-- ``Submitted`` Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking, Zhiyuan Ma, Guoli Jia, **Biqing Qi**, Bowen Zhou
+- ``Submitted ACM MM 2024`` Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking, Zhiyuan Ma, Guoli Jia, **Biqing Qi**, Bowen Zhou
 
 ### Hypothesis Proposers
 - ``COLM 2024`` Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation, **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou 

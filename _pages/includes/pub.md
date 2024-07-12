@@ -87,7 +87,7 @@
 
 ## 📚 Human-AI Collaboration Systems
 ### Embodied Agents 
-- ``Submitted EMNLP 2024`` MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making, Dayuan Fu/*, **Biqing Qi/*^**, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
+- ``Submitted EMNLP 2024`` MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making, Dayuan Fu\*, **Biqing Qi\***, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
 
 ### Deep Watermarking 
 - ``Arxiv`` [Investigating Deep Watermark Security: An Adversarial Transferability Perspective](https://arxiv.org/pdf/2402.16397), **Biqing Qi**, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou

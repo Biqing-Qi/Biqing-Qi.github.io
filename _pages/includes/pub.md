@@ -91,7 +91,7 @@
 
 ### Deep Watermarking 
 - ``Arxiv`` [Investigating Deep Watermark Security: An Adversarial Transferability Perspective](https://arxiv.org/pdf/2402.16397), **Biqing Qi**, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou
-- ``Submitted ACM MM 2024`` Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking, Zhiyuan Ma, Guoli Jia, **Biqing Qi**, Bowen Zhou
+- ``ACM MM 2024`` Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking, Zhiyuan Ma, Guoli Jia, **Biqing Qi**, Bowen Zhou
 
 ### Hypothesis Proposers
 - ``COLM 2024`` Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation, **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou [![](https://img.shields.io/github/stars/TsinghuaC3I/LLM4BioHypoGen?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/LLM4BioHypoGen)

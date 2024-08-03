@@ -23,8 +23,7 @@
   - (Participated) Key Research Program of the Ministry of Science and Technology in 2030: 
   - Responsible for the development of a robust dialogue intent detection method.
 
-    
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ujpjNGmVrdWti53wqBuAxF7eHAjpY90xVVy6lWB7ZdI&cl=ffffff&w=a"></script>
 
- 
 <a href="https://clustrmaps.com/site/1c0pk"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=ujpjNGmVrdWti53wqBuAxF7eHAjpY90xVVy6lWB7ZdI&cl=ffffff" /></a>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=243&t=n&d=ujpjNGmVrdWti53wqBuAxF7eHAjpY90xVVy6lWB7ZdI&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>

@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.10*: 🎉 Two papers are accepted by EMNLP 2024 (One Findings)
 - *2024.07*: 🎉 Two papers are accepted by COLM 2024 and ACM MM 2024 
 - *2024.05*: 🎉 Two papers are accepted by ACL 2024 (One Findings)
 - *2024.02*: 🎉 Two papers are accepted by CVPR 2024 and SPL 2024

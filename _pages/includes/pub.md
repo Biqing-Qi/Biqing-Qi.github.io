@@ -47,7 +47,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Contrastive Augmented Graph2Graph Memory Interaction</div><img src='images/contrastive augmented Graph2Graph.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  ``TCSVT 2024`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou 
+  ``Arxiv`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou 
 </div>
 </div>
 

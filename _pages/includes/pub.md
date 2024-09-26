@@ -16,7 +16,7 @@
   
 ## 🎙 Trustworthy Machine Learning
 
-- ``Arxiv`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi**, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou
+- ``NeurIPS 2024`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi**, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou
 - ``SPL 2024`` [Enhancing Adversarial Transferability via Information Bottleneck Constraints](https://arxiv.org/pdf/2406.05531), **Biqing Qi**, Junqi Gao, Jianxing Liu, Ligang Wu, Bowen Zhou [**Code**](https://github.com/Biqing-Qi/Enhancing-Adversarial-Transferability-via-Information-Bottleneck-Constraints)
 - ``NAACL 2024`` [On Large Language Models' Hallucination with Regard to Known Facts](https://arxiv.org/pdf/2403.20009), Che jiang, **Biqing Qi**, Xiangyu Hong, Dayuan Fu, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou
 - ``NeurIPS 2023`` [Perturbation towards easy samples improves targeted adversarial transferability](https://proceedings.neurips.cc/paper_files/paper/2023/file/028fcbcf85435d39a40c4d61b42c99a4-Paper-Conference.pdf) Junqi Gao\*, **Biqing Qi\***, Yao Li, Zhichang Guo, Da Li, Yuming Xing, Dazhi Zhang
@@ -47,7 +47,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Contrastive Augmented Graph2Graph Memory Interaction</div><img src='images/contrastive augmented Graph2Graph.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  ``Arxiv`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou 
+  ``TCSVT 2024`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou 
 </div>
 </div>
 
@@ -64,7 +64,7 @@
 </div>
 
 - ``Arxiv`` Efficient Adversarial High-Density Data Replay for Continual Learning, Junqi Gao, **Biqing Qi^**, Kai Tian, Dong Li, Pengfei Li
-- ``Submitted`` [SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning](https://www.arxiv.org/pdf/2408.01970), **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou
+- ``Arxiv`` [SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning](https://www.arxiv.org/pdf/2408.01970), **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou
 - ``Arxiv`` [Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding](https://arxiv.org/pdf/2406.12295), Kaiyan Zhang, Jianyu Wang, Ning Ding, **Biqing Qi**, Eermo Hua, Xingtai Lv, Bowen Zhou
 - ``Submitted`` Fast and Slow Gradient Approximation for Binary Neural Network Optimization, Xinquan Chen, Junqi Gao, **Biqing Qi^**, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 
 - ``Arxiv 2024`` Advancing Large Language Models: A Survey from System 1 and 2 Fusion Perspective, Kaiyan Zhang\*, **Biqing Qi\***, Ning Ding, Eermo Hua, Bowen Zhou
@@ -73,7 +73,7 @@
 ## 👄 Foundation Models
 
 - ``Arxiv`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou
-- ``Arxiv`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou
+- ``NeurIPS 2024`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Online DPO</div><img src='images/COFSDPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -83,11 +83,11 @@
 
 - ``ACL 2024 (Findings)`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou
 - ``Arxiv`` [S4++: Elevating Long Sequence Modeling with State Memory Reply](https://openreview.net/pdf?id=bdnw4qjfH9), **Biqing Qi**, Junqi Gao, Dong Li, Kaiyan Zhang, Jianxing Liu, Ligang Wu, Bowen Zhou
-- ``Submitted`` On the token distance modeling ability of higher RoPE attention dimension, Xiangyu Hong, Che Jiang, **Biqing Qi**, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou
+- ``EMNLP (Findings)`` On the token distance modeling ability of higher RoPE attention dimension, Xiangyu Hong, Che Jiang, **Biqing Qi**, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou
 
 ## 📚 Human-AI Collaboration Systems
 ### Embodied Agents 
-- ``Submitted EMNLP 2024`` MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making, Dayuan Fu\*, **Biqing Qi\***, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
+- ``EMNLP 2024`` MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making, Dayuan Fu\*, **Biqing Qi\***, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
 
 ### Deep Watermarking 
 - ``Arxiv`` [Investigating Deep Watermark Security: An Adversarial Transferability Perspective](https://arxiv.org/pdf/2402.16397), **Biqing Qi**, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou
@@ -96,4 +96,4 @@
 ### Hypothesis Proposers
 - ``COLM 2024`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou [![](https://img.shields.io/github/stars/TsinghuaC3I/LLM4BioHypoGen?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/LLM4BioHypoGen)
 - ``Instruct Following@NeurIPS 2023`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou
-- ``Arxiv`` [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical)
+- ``Dataset Track@dNeurIPS 2024`` [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical)

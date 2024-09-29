@@ -1,5 +1,5 @@
 
-I'm a research scientist at the Shanghai AI Lab. And I achieved my Ph.D. from the Key Laboratory of Autonomous Intelligent Unmanned Systems [(AIUS)](https://aius.hit.edu.cn/12888/list.htm) at Harbin Institute of Technology, with joint supervision from the Center for Collaborative & Conversational Intelligence [(C3I)](http://c3i.ee.tsinghua.edu.cn/people/) at Tsinghua University under the supervision of [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm) and [Ligang Wu](https://homepage.hit.edu.cn/wuligang). 
+I'm a research scientist at the Shanghai AI Lab. Prior to that, I obtained my Ph.D. from the Key Laboratory of Autonomous Intelligent Unmanned Systems [(AIUS)](https://aius.hit.edu.cn/12888/list.htm) at Harbin Institute of Technology, with joint supervision from the Center for Collaborative & Conversational Intelligence [(C3I)](http://c3i.ee.tsinghua.edu.cn/people/) at Tsinghua University under the supervision of [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm) and [Ligang Wu](https://homepage.hit.edu.cn/wuligang). 
 
 My research has contributed to over 30 papers at top-tier conferences and journals, including NeurIPS, CVPR, ACL, EMNLP, NAACL, TPAMI, TNNLS, TCSVT, and others. 
 

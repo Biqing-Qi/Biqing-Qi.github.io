@@ -5,6 +5,6 @@ My research has contributed to over 30 papers at top-tier conferences and journa
 
 Additionally, I've played a pivotal role in more than ten significant projects, including two under the Ministry of Science and Technology's 2030 Key Special Project, two major R&D initiatives, and several key projects funded by the National Natural Science Foundations.
 
-My research interests include: 1) trustworthy and continual learning theory, 2) knowledge-compositional foundation models, and 3) multimodal human-AI collaboration systems.
+My research interests include: 1) trustworthy and continual learning theory, 2) knowledge-compositional foundation models（Specialized Generalist）, and 3) multimodal human-AI collaboration systems.
 
 If you are seeking any form of academic collaborations with Shanghai AI Lab or AIUS, SCIR Lab at HIT and Tsinghua C3I Lab, please feel free to email me at [qibiqing7@gmail.com](qibiqing@gmail.com) or [qibiqing@pjlab.org.cn](qibiqing@pjlab.org.cn)

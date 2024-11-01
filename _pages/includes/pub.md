@@ -22,7 +22,7 @@
 - ``NeurIPS 2023`` [Perturbation towards easy samples improves targeted adversarial transferability](https://proceedings.neurips.cc/paper_files/paper/2023/file/028fcbcf85435d39a40c4d61b42c99a4-Paper-Conference.pdf) Junqi Gao\*, **Biqing Qi\***, Yao Li, Zhichang Guo, Da Li, Yuming Xing, Dazhi Zhang
 - ``TNNLS 2023`` [Improving robustness of intent detection under adversarial attacks: A geometric constraint perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215063) **Biqing Qi**, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu
 
-## 🌱 Specialized Generalist Framework 
+## 🌱 Specialized Generalist 
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
     <div>

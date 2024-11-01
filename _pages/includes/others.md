@@ -1,12 +1,12 @@
-# ⚔ Qi-Group
+# ⚔ Teams
 
 ### Shanghai AI Lab Interns
-#### Specialized Generalist and applications Team
+#### Specialized Generalist
 - Shuang Cheng, (2024.11-, 3rd-year Master's, Institute of Automation), CIKM'24, etc.
 - Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University).
 - Yuying Li, (2024.11-, 1st Master's, Tsinghua Univeristy).（Visiting Student）
 
-#### Multi-Agent Team
+#### Multi-Agents
 - Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
 - Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
 - Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc. 

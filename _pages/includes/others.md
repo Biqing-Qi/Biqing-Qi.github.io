@@ -1,3 +1,26 @@
+# ⚔ Qi-Group
+
+### Shanghai AI Lab Interns
+#### Specialized Generalist and applications Team
+- Shuang Cheng, (2024.11-, 3rd-year Master's, Institute of Automation), CIKM'24, etc.
+- Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University).
+- Yuying Li, (2024.11-, 1st Master's, Tsinghua Univeristy).（Visiting Student）
+
+#### Multi-Agent Team
+- Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
+- Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
+- Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc. 
+- Jing Xiao, (2024.10-, 2nd Master's, Fudan University), AAAI'25 under reivew.
+- Yifan Hu, (2024.10-, 1st Master's, Tsinghua University), CIKM’24，ICLR‘25 under review.（Remote Intern）
+- Xialie Zhuang, (2024.10-, 1st Ph.D., University of Science and Technology of China). (Remote Intern)
+
+### Human-AI collaboration Team at Tsinghua C3I lab
+- Che Jiang, Kai Tian, Chekai Cheng, Yinghao Chen, Juncheng Wu, Xiangyu Hong, Zheng Yang, Liya Ma, Can Yang, Siqi Song, Chenxuan Wei, Shengzhe Zhu, Hang Yu, Jian Zhao, Yichao Liu.
+
+### Interdisciplinary Team of Mathematics, Control, and Computer Science at Harbin Institute of Technology.
+- Pengfei Liu, Fangyuan Li, Yiang Luo, Zouyi Qian, Xiang Zou, Ying Ai, Yicheng Niu.
+
+
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**
   - (Key Participants)  National Science and Technology Major Project:

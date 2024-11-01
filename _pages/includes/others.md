@@ -17,8 +17,8 @@
 ### Human-AI collaboration Team at Tsinghua C3I lab
 - Che Jiang, Kai Tian, Chekai Cheng, Yinghao Chen, Juncheng Wu, Xiangyu Hong, Zheng Yang, Liya Ma, Can Yang, Siqi Song, Chenxuan Wei, Shengzhe Zhu, Hang Yu, Jian Zhao, Yichao Liu.
 
-### Interdisciplinary Team of Mathematics, Control, and Computer Science at Harbin Institute of Technology.
-- Pengfei Liu, Fangyuan Li, Yiang Luo, Zouyi Qian, Xiang Zou, Ying Ai, Yicheng Niu.
+### Interdisciplinary Team with AIUS，SCIR lab
+- Pengfei Liu, Fangyuan Li, Yiang Luo, Zouyi Qian, Xiang Zou, Ying Ai, Yichen Niu.
 
 
 # ⚔ Projects

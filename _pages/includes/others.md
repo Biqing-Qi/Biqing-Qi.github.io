@@ -2,7 +2,7 @@
 
 ### Shanghai AI Lab Interns
 #### Specialized Generalist
-- Shuang Cheng, (2024.11-, 3rd-year Master's, Institute of Automation), CIKM'24, etc.
+- Shuang Cheng, (2024.11-, 3rd Master's, Institute of Automation), CIKM'24, etc.
 - Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University).
 - Yuying Li, (2024.11-, 1st Master's, Tsinghua Univeristy).（Visiting Student）
 
@@ -17,7 +17,7 @@
 ### Human-AI collaboration Team at Tsinghua C3I lab
 - Che Jiang, Kai Tian, Chekai Cheng, Yinghao Chen, Juncheng Wu, Xiangyu Hong, Zheng Yang, Liya Ma, Can Yang, Siqi Song, Chenxuan Wei, Shengzhe Zhu, Hang Yu, Jian Zhao, Yichao Liu.
 
-### Interdisciplinary Team with AIUS，SCIR lab
+### Interdisciplinary Team with AIUS, SCIR lab
 - Pengfei Liu, Fangyuan Li, Yiang Luo, Zouyi Qian, Xiang Zou, Ying Ai, Yichen Niu.
 
 

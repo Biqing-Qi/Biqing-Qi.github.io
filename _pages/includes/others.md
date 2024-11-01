@@ -11,7 +11,7 @@
 - Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
 - Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc. 
 - Jing Xiao, (2024.10-, 2nd Master's, Fudan University), AAAI'25 under reivew.
-- Yifan Hu, (2024.10-, 1st Master's, Tsinghua University), CIKM’24，ICLR‘25 under review.（Remote Intern）
+- Yifan Hu, (2024.10-, 1st Master's, Tsinghua University), CIKM’24, ICLR‘25 under review.（Remote Intern）
 - Xialie Zhuang, (2024.10-, 1st Ph.D., University of Science and Technology of China). (Remote Intern)
 
 ### Human-AI collaboration Team at Tsinghua C3I lab

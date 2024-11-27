@@ -24,7 +24,7 @@
 - ``Arxiv`` [Investigating Deep Watermark Security: An Adversarial Transferability Perspective](https://arxiv.org/pdf/2402.16397), **Biqing Qi**, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou
 - ``ACM MM 2024`` [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking](https://arxiv.org/pdf/2407.13188), Zhiyuan Ma, Guoli Jia, **Biqing Qi**, Bowen Zhou
 
-## 🌱 Specialized Generalist 
+## 🌱 Specialized Generalist Foundation Model and Technologies
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
     <div>
@@ -83,21 +83,21 @@
 - ``EMNLP 2024 (Findings)`` [On the token distance modeling ability of higher RoPE attention dimension](https://arxiv.org/pdf/2410.08703), Xiangyu Hong, Che Jiang, **Biqing Qi**, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou
 
 
-## 📚 Specialized Generalist driven Multi-agents Systems
+## 📚 Specialized Generalist driven Multi-Agents Systems
 
 - ``Arxiv`` [Less is More: Efficient Model Merging with Binary Task Switch](), **Biqing Qi**, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou
 - ``Arxiv`` [Evolution of Thought: Diverse and High-Quality Reasoning via Multi-Objective Optimization](), **Biqing Qi**, Zhouyi Qian, Yiang Luo, Junqi Gao, Dong Li, Kaiyan Zhang, Bowen Zhou 
 - ``Arxiv`` [OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees](https://openreview.net/pdf?id=fGIqGfmgkW), Kaiyan Zhang, Jiayuan Zhang, Haoxin Li, Xuekai Zhu, Ermo Hua, Xingtai Lv, Ning Ding, **Biqing Qi**, Bowen Zhou
 
 
-## 📚 AI4S and Embodied applications 
+## 📚 Specialized Generalist driven AI4S and Embodied Applications 
 
-### Hypothesis Proposers
+### AI4S applications: Hypothesis Proposers
 - ``COLM 2024`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou [![](https://img.shields.io/github/stars/TsinghuaC3I/LLM4BioHypoGen?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/LLM4BioHypoGen)
 - ``Instruct Following@NeurIPS 2023`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou
 - ``NeurIPS 2024 D&B Track (Spotlight)`` [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical)
   
-### Embodied Agents 
+### Embodied Applications
 - ``EMNLP 2024`` [MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making](https://arxiv.org/pdf/2409.16686), Dayuan Fu\*, **Biqing Qi^**, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
 
 

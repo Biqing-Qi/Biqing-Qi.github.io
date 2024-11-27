@@ -54,7 +54,8 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoGenesis</div><img src='images/cogenesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-``ACL 2024`` CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following, Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
+
+  ``ACL 2024`` [CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following](https://arxiv.org/pdf/2403.03129), Kaiyan Zhang, Jianyu Wang, Ermo Hua, **Biqing Qi**, Ning Ding, Bowen Zhou
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PaD</div><img src='images/pad.png' alt="sym" width="100%"></div></div>

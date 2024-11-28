@@ -16,7 +16,7 @@
 - Xialie Zhuang, (2024.10-, 1st Ph.D., University of Science and Technology of China). (Remote Intern)
 - Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
 - Xunzhe Zhou, (2024.12-, 1st Master's, Fudan University), ICLR'24.
-- Yinghao Cheng, (2024.11-, 1st Master's, Tsinghua University).
+- Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
 - Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
 
 

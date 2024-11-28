@@ -11,8 +11,13 @@
 - Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
 - Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc. 
 - Jing Xiao, (2024.10-, 2nd Master's, Fudan University), AAAI'25 under reivew.
-- Yifan Hu, (2024.10-, 1st Master's, Tsinghua University), CIKM’24, ICLR‘25 under review.（Remote Intern）
+- Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWWW'25 under review.
+- Yifan Hu, (2024.10-, 1st Master's, Tsinghua University), CIKM’24, ICLR‘25 under review.
+- Xunzhe Zhou, (2024.12-, 1st Master's, Fudan University), ICLR'24.
+- Yinghao Cheng, (2024.11-, 1st Master's, Tsinghua University).
 - Xialie Zhuang, (2024.10-, 1st Ph.D., University of Science and Technology of China). (Remote Intern)
+- Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
+
 
 ### Human-AI collaboration Team at Tsinghua C3I lab
 - Che Jiang, Kai Tian, Chekai Cheng, Yinghao Chen, Juncheng Wu, Xiangyu Hong, Zheng Yang, Liya Ma, Can Yang, Siqi Song, Chenxuan Wei, Shengzhe Zhu, Hang Yu, Jian Zhao, Yichao Liu.

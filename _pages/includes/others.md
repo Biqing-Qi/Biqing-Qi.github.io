@@ -14,7 +14,7 @@
 - Jing Xiao, (2024.10-, 2nd Master's, Fudan University), AAAI'25 under reivew.
 - Yifan Hu, (2024.10-, 1st Master's, Tsinghua University), CIKM’24, ICLR‘25 under review.
 - Xialie Zhuang, (2024.10-, 1st Ph.D., University of Science and Technology of China). (Remote Intern)
-- Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWWW'25 under review.
+- Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
 - Xunzhe Zhou, (2024.12-, 1st Master's, Fudan University), ICLR'24.
 - Yinghao Cheng, (2024.11-, 1st Master's, Tsinghua University).
 - Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.

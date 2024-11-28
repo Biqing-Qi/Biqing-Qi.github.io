@@ -1,4 +1,4 @@
-# ⚔ Teams
+# 🌃 Teams
 
 ### Shanghai AI Lab Interns
 #### Specialized Generalist

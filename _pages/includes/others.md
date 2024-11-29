@@ -16,10 +16,11 @@
 - Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
 - Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
 - Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
+- Yongjia Yu, (2024.12-, 2nd Master's, Nanyang Technological University), AAAI'25 under review.
 
 #### Specialized Generalist driven AI4S and emboddied Applications
 - Xunzhe Zhou, (2024.12-, 1st Master's, Fudan University), ICLR'24.
-- Siqi Song, (2025.2-, 1st Master's, Tsinghua University) CVPR'25 under review.
+- Siqi Song, (2025.2-, 1st Master's, Tsinghua University) CVPR'25 under review. (Remote Intern)
 
 ### Human-AI collaboration Team at Tsinghua C3I lab
 - Che Jiang, Kai Tian, Chekai Cheng, Yinghao Chen, Juncheng Wu, Xiangyu Hong, Zheng Yang, Liya Ma, Can Yang, Siqi Song, Chenxuan Wei, Shengzhe Zhu, Hang Yu, Jian Zhao, Yichao Liu.

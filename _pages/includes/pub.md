@@ -68,7 +68,7 @@
 - ``Arxiv`` Efficient Adversarial High-Density Data Replay for Continual Learning, Junqi Gao, **Biqing Qi^**, Kai Tian, Dong Li, Pengfei Li
 - ``Arxiv`` [SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning](https://www.arxiv.org/pdf/2408.01970), **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou
 - ``Arxiv`` [Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding](https://arxiv.org/pdf/2406.12295), Kaiyan Zhang, Jianyu Wang, Ning Ding, **Biqing Qi**, Eermo Hua, Xingtai Lv, Bowen Zhou
-- ``Arxiv`` Fast and Slow Gradient Approximation for Binary Neural Network Optimization, Xinquan Chen, Junqi Gao, **Biqing Qi^**, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 
+- ``AAAI 2025`` Fast and Slow Gradient Approximation for Binary Neural Network Optimization, Xinquan Chen, Junqi Gao, **Biqing Qi^**, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 
 - ``EMNLP 2023`` [CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model](https://arxiv.org/pdf/2310.15477), Kaiyan Zhang, Ning Ding, **Biqing Qi**, Xuekai Zhu, Xingwei Long, Bowen Zhou
 - ``Arxiv`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou
 - ``NeurIPS 2024`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou
@@ -100,5 +100,5 @@
   
 ### 🤖 Embodied Applications
 - ``EMNLP 2024`` [MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making](https://arxiv.org/pdf/2409.16686), Dayuan Fu\*, **Biqing Qi^**, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
-
+- ``AAAI  2025`` Retrieval-Augmented Visual Question Answering via Built-in Autoregressive Search Engines, Xinwei Long, Zhiyuan Ma, Ermo Hua, Kaiyan Zhang, **Biqing Qi**, Bowen Zhou
 

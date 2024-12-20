@@ -7,7 +7,7 @@
 - Yuying Li, (2024.11-, 1st Master's, Tsinghua Univeristy).（Visiting Student）
 - Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.
 - Yongjia Yu, (2024.12-, 2nd Master's, Nanyang Technological University), AAAI'25 under review.
-- 
+  
 #### Specialized Generalist driven Multi-Agents 
 - Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
 - Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.

@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.12*: 🎉 Two   papers are accepted by AAAI 2025
+- *2024.12*: 🎉 Two   papers are accepted by AAAI 2025 （One Oral）
 - *2024.10*: 🎉 Four  papers are accepted by NeurIPS 2024（One Dataset Track）
 - *2024.09*: 🎉 Two   papers are accepted by EMNLP 2024 (One Findings)
 - *2024.07*: 🎉 Two   papers are accepted by COLM 2024 and ACM MM 2024 

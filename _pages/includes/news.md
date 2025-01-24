@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.01*: 🎉 One   paper  is  accepted by ICLR 2025
+- *2025.01*: 🎉 Two   papers are accepted by ICLR 2025 and TCSVT 2025
 - *2024.12*: 🎉 Two   papers are accepted by AAAI 2025 （One Oral）
 - *2024.10*: 🎉 Four  papers are accepted by NeurIPS 2024（One Dataset Track）
 - *2024.09*: 🎉 Two   papers are accepted by EMNLP 2024 (One Findings)

@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.02*: 🔥"Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling" released on [Project Page](https://github.com/RyanLiu112/compute-optimal-tts)
 - *2025.01*: 🎉 Two   papers are accepted by ICLR 2025 and TCSVT 2025
 - *2024.12*: 🎉 Two   papers are accepted by AAAI 2025 （One Oral）
 - *2024.10*: 🎉 Four  papers are accepted by NeurIPS 2024（One Dataset Track）

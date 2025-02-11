@@ -85,6 +85,7 @@
 
 ## 🌱 Specialized Generalist driven Multi-Agents Systems
 
+- ``Arxiv`` [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703), Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, **Biqing Qi**,†, Wanli Ouyang and Bowen Zhou.
 - ``Arxiv`` [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054), **Biqing Qi**, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou
 - ``Arxiv`` [Evolution of Thought: Diverse and High-Quality Reasoning via Multi-Objective Optimization](https://arxiv.org/pdf/2412.07779), **Biqing Qi**, Zhouyi Qian, Yiang Luo, Junqi Gao, Dong Li, Kaiyan Zhang, Bowen Zhou 
 - ``ICLR 2025`` [OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees](https://openreview.net/pdf?id=fGIqGfmgkW), Kaiyan Zhang, Jiayuan Zhang, Haoxin Li, Xuekai Zhu, Ermo Hua, Xingtai Lv, Ning Ding, **Biqing Qi**, Bowen Zhou

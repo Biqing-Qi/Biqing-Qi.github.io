@@ -4,8 +4,9 @@
 #### Specialized Generalist Foundation Models 
 - Shuang Cheng, (2024.11-, 3rd Master's, Institute of Automation), CIKM'24, etc.
 - Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University). 
-- Yuying Li, (2024.11-, 1st Master's, Tsinghua Univeristy).（Visiting Student）
 - Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.
+- Yuhuai Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy)., TWC'23','24. (Visiting Student)
+- Yuqing Dai, (2025.02-, 1st Ph.D., Tsinghua Univeristy)., ICML'25. (Visiting Student)
 
 #### Specialized Generalist driven Multi-Agents 
 - Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
@@ -14,8 +15,8 @@
 - Jing Xiao, (2024.10-, 2nd Master's, Fudan University), AAAI'25 under reivew.
 - Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
 - Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
-- Yongjia Yu, (2024.12-, 2nd Master's, Nanyang Technological University).
 - Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.（Visiting Student）
+- Shuyu Gan, (2025.02-, 1st Master's, Carnegie Mellon University), ICLR'25.
 
 #### Specialized Generalist driven AI4S and emboddied Applications
 - Xunzhe Zhou, (2024.12-, 1st Master's, Fudan University), ICLR'24. 

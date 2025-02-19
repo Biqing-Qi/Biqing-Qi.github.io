@@ -7,7 +7,7 @@
 - Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.
 - Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
 - Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
-- Yuhuai Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy)., TWC'23','24. (Visiting Student)
+- Yuhua Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy)., TWC'23','24. 
 
 #### Specialized Generalist driven Multi-Agents 
 - Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.

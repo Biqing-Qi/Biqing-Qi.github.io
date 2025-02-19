@@ -5,9 +5,9 @@
 - Shuang Cheng, (2024.11-, 3rd Master's, Institute of Automation), CIKM'24, etc.
 - Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University). 
 - Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.
-- Yuhuai Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy)., TWC'23','24. (Visiting Student)
 - Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
 - Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
+- Yuhuai Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy)., TWC'23','24. (Visiting Student)
 
 #### Specialized Generalist driven Multi-Agents 
 - Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.

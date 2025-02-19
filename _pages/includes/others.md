@@ -6,17 +6,16 @@
 - Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University). 
 - Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.
 - Yuhuai Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy)., TWC'23','24. (Visiting Student)
-- Yuqing Dai, (2025.02-, 1st Ph.D., Tsinghua Univeristy)., ICML'25. (Visiting Student)
+- Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
+- Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
 
 #### Specialized Generalist driven Multi-Agents 
 - Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
 - Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
 - Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc. 
 - Jing Xiao, (2024.10-, 2nd Master's, Fudan University), AAAI'25 under reivew.
-- Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
-- Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
-- Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.（Visiting Student）
-- Shuyu Gan, (2025.02-, 1st Master's, Carnegie Mellon University), ICLR'25.
+- Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
+- Shuyu Gan, (2025.02-, 1st Master's, Carnegie Mellon University), ICLR'25.（Visiting Student）
 
 #### Specialized Generalist driven AI4S and emboddied Applications
 - Xunzhe Zhou, (2024.12-, 1st Master's, Fudan University), ICLR'24. 

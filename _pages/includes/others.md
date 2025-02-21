@@ -2,7 +2,7 @@
 
 ### Shanghai AI Lab Interns
 #### Specialized Generalist Foundation Models 
-- Shuang Cheng, (2024.11-, 3rd Master's, Institute of Automation), CIKM'24, etc.
+- Shuang Cheng, (2024.11-, 1st Ph.D., Zhejiang University), CIKM'24, etc.
 - Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University). 
 - Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.
 - Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
@@ -18,8 +18,9 @@
 - Shuyu Gan, (2025.02-, 1st Master's, Carnegie Mellon University), ICLR'25.（Visiting Student）
 
 #### Specialized Generalist driven AI4S and emboddied Applications
-- Xunzhe Zhou, (2024.12-, 1st Master's, Fudan University), ICLR'24. 
-- Siqi Song, (2025.2-, 1st Master's, Tsinghua University) CVPR'25 under review. （Visiting Student）
+- Xunzhe Zhou, (2024.12-, 1st Ph.D., The University of Hong Kong), ICLR'24. 
+- Siqi Song, (2025.2-, 1st Master's, Tsinghua University) CVPR'25 under review.（Visiting Student）
+- Shuaike Shen, (2025.2-, 1st Ph.D., Carnegie Mellon University), NIPS'24,ICLR'25.
 
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**

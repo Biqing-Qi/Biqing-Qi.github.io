@@ -13,7 +13,7 @@
 - Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
 - Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
 - Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc. 
-- Jing Xiao, (2024.10-, 2nd Master's, Fudan University), AAAI'25 under reivew.
+- Jing Xiao, (2024.10-, 2nd Master's, Fudan University), EMNLP'24, ACL'25 under reivew.
 - Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
 - Shuyu Gan, (2025.02-, 1st Master's, Carnegie Mellon University), ICLR'25.（Visiting Student）
 

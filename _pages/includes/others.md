@@ -1,26 +1,29 @@
 # 🌃 Teams
 
 ### Shanghai AI Lab Interns
-#### Specialized Generalist Foundation Models 
-- Shuang Cheng, (2024.11-, 1st Ph.D., Zhejiang University), CIKM'24, etc.
+
+#### Foundation Models 
+- Shuang Cheng, (2024.11-, 1st Ph.D., Zhejiang University), CIKM'24, etc. Co-supervised PhD Student with Prof. Bowen Zhou.
 - Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University). 
+- Yuhua Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy), TWC'23,'24. 
 - Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.
 - Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
 - Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
-- Yuhua Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy), TWC'23,'24. 
-
-#### Specialized Generalist driven Multi-Agents 
+- Yiyao Yu, (2025.03-, 2nd Master's, Tsinghua University), ACL‘24.
+  
+#### Multi-Agents Systems
 - Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
 - Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
 - Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc. 
-- Jing Xiao, (2024.10-, 2nd Master's, Fudan University), EMNLP'24, ACL'25 under reivew.
-- Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
-- Shuyu Gan, (2025.02-, 1st Master's, Carnegie Mellon University), ICLR'25.（Visiting Student）
 
-#### Specialized Generalist driven AI4S and emboddied Applications
-- Xunzhe Zhou, (2024.12-, 1st Ph.D., The University of Hong Kong), ICLR'24. 
-- Siqi Song, (2025.2-, 1st Master's, Tsinghua University) CVPR'25 under review.（Visiting Student）
+#### AI4S and emboddied Applications
+- Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
+- Linnan Chang, (2025.3-, 2nd Master's, National University of Singapore), ICLR'24. 
 - Shuaike Shen, (2025.2-, 1st Ph.D., Carnegie Mellon University), NIPS'24,ICLR'25.
+- Siqi Song, (2025.2-, 1st Master's, Tsinghua University).（Visiting Student）
+
+#### Alumni Interns and Visiting Students
+- Gunbing Zhang, Jing Xiao, Yongjia Yu, Yu Zhang, Xunzhe Zhou.
 
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**

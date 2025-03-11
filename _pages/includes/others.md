@@ -3,7 +3,7 @@
 ### Shanghai AI Lab Interns
 
 #### Foundation Models 
-- Shuang Cheng, (2024.11-, 1st Ph.D., Zhejiang University), CIKM'24, etc. Co-supervised PhD Student with Prof. Bowen Zhou.
+- Shuang Cheng, (2024.11-, 1st Ph.D., Zhejiang University), CIKM'24, etc. 
 - Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University). 
 - Yuhua Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy), TWC'23,'24. 
 - Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.

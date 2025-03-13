@@ -7,14 +7,14 @@
 - Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University). 
 - Yuhua Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy), TWC'23,'24. 
 - Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.
-- Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
-- Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
 - Yiyao Yu, (2025.03-, 2nd Master's, Tsinghua University), ACL‘24.
   
 #### Multi-Agents Systems
 - Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
 - Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
-- Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc. 
+- Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc.
+- Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
+- Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
 
 #### AI4S and emboddied Applications
 - Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
@@ -23,7 +23,7 @@
 - Siqi Song, (2025.2-, 1st Master's, Tsinghua University).（Visiting Student）
 
 #### Alumni Interns and Visiting Students
-- Gunbing Zhang, Jing Xiao, Yongjia Yu, Yu Zhang, Xunzhe Zhou.
+- Gunbing Zhang, Yifan Hu, Yongjia Yu, Yu Zhang, Jing Xiao, Xunzhe Zhou.
 
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**

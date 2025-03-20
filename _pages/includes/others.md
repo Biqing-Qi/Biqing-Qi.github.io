@@ -19,7 +19,6 @@
 #### AI4S and emboddied Applications
 - Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
 - Linnan Chang, (2025.3-, 2nd Master's, National University of Singapore), ICLR'24. 
-- Shuaike Shen, (2025.2-, 1st Ph.D., Carnegie Mellon University), NIPS'24,ICLR'25.
 - Siqi Song, (2025.2-, 1st Master's, Tsinghua University).（Visiting Student）
 
 #### Alumni Interns and Visiting Students

@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-- Notes:（*）indicates the equal contributions and（^）indicates the corresponding author.
+- Notes:（*）indicates the equal contributions and（†）indicates the corresponding author.
   
 ## 👁 Survey and Position Papers
 <div class='paper-box'>

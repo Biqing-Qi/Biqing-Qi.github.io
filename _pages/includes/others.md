@@ -3,26 +3,26 @@
 ### Shanghai AI Lab Interns
 
 #### Foundation Models 
-- Shuang Cheng, (2024.11-, 1st Ph.D., Zhejiang University), CIKM'24, etc. 
-- Dawei Liu, (2024.11-, 1st Ph.D., Shanghai Jiao Tong University). 
-- Yuhua Jiang, (2025.02-, 1st Ph.D., Tsinghua Univeristy), TWC'23,'24. 
-- Xingfeng Yuan, (2024.12-, 2nd Master's, Fudan University), EMNLP'23,'24.
-- Yiyao Yu, (2025.03-, 2nd Master's, Tsinghua University), ACL‘24.
+- Shuang Cheng, (2024.11-, 1st-yr Ph.D. candidate, Zhejiang University), CIKM'24, etc. 
+- Dawei Liu, (2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University). 
+- Yuhua Jiang, (2025.02-, 1st-yr Ph.D. candidate, Tsinghua Univeristy), TWC'23,'24. 
+- Xingfeng Yuan, (2024.12-, 2nd-yr Master's student, Fudan University), EMNLP'23,'24.
+- Yihao Liu, (2025.03-, 4th-yr Ph.D. candidate, Tsinghua University, IIIS), Sigmod'24, VLDB'24.
   
 #### Multi-Agents Systems
-- Junqi Gao, (2024.9-, 2nd Ph.D., Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
-- Dong Li, (2024.10-, 2nd Ph.D., Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
-- Runze Liu, (2024.10-, 2nd Master's, Tsinghua University), ICLR'23, ICML'24, etc.
-- Xuetian Cheng, (2024.11-, 2nd Master's, Fudan University), WWW'25 under review.
-- Yinghao Cheng, (2024.11-, 1st Ph.D., Tsinghua University).
+- Junqi Gao, (2024.9-, 2nd-yr Ph.D. candidate, Harbin Institute of Technology), NIPS'23,'24, CVPR'24, ACL'24, etc.
+- Dong Li, (2024.10-, 2nd-yr Ph.D. candidate, Harbin Institute of Technology), NIPS'24, CVPR'24, etc.
+- Xuetian Cheng, (2024.11-, 2nd-yr Master's student, Fudan University), WWW'25 under review.
+- Yinghao Cheng, (2024.11-, 1st-yr Ph.D. candidate, Tsinghua University).
+- Tianhe Lin, (2025.3-, 2nd-yr Master's student, Fudan University), ACL'25.
 
 #### AI4S and emboddied Applications
-- Zongling Li, (2024.12-, 2nd Master's, Tsinghua University), TWC'24.
-- Linnan Chang, (2025.3-, 2nd Master's, National University of Singapore), ICLR'24. 
-- Siqi Song, (2025.2-, 1st Master's, Tsinghua University).（Visiting Student）
+- Zongling Li, (2024.12-, 2nd-yr Master's student, Tsinghua University), TWC'24.
+- Linnan Chang, (2025.3-, 2nd-yr Master's student, National University of Singapore), ICLR'24. 
+- Siqi Song, (2025.2-, 1st-yr Master's candidate, Tsinghua University).（Visiting Student）
 
 #### Alumni Interns and Visiting Students
-- Gunbing Zhang, Yifan Hu, Yongjia Yu, Yu Zhang, Jing Xiao, Xunzhe Zhou.
+- Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Yifan Hu, Gunbing Zhang.
 
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**

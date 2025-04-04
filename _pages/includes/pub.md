@@ -90,6 +90,7 @@
 - ``Arxiv`` [Evolution of Thought: Diverse and High-Quality Reasoning via Multi-Objective Optimization](https://arxiv.org/pdf/2412.07779), **Biqing Qi**, Zhouyi Qian, Yiang Luo, Junqi Gao, Dong Li, Kaiyan Zhang, Bowen Zhou 
 - ``ICLR 2025`` [OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees](https://openreview.net/pdf?id=fGIqGfmgkW), Kaiyan Zhang, Jiayuan Zhang, Haoxin Li, Xuekai Zhu, Ermo Hua, Xingtai Lv, Ning Ding, **Biqing Qi**, Bowen Zhou
 - ``Arxiv`` [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/pdf/2504.00891), Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, Jiafei Lyu, Zhouyi Qian, **Biqing Qi**,†, Xiu Li, Bowen Zhou
+- ``Arxiv`` [Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676?), Chenyu Huang, Peng Ye, Xiaohui Wang, Shenghe Zheng, **Biqing Qi**, Lei Bai, Wanli Ouyang, Tao Chen
 
 
 ## 👄 Specialized Generalist driven AI4S and Embodied Applications 

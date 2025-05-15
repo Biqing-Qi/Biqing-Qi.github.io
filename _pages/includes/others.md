@@ -23,7 +23,7 @@
 - Siqi Song, (2025.2-, 1st-yr Master's candidate, Tsinghua University).（Visiting Student）
 
 #### Alumni Interns and Visiting Students
-- Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Yifan Hu, Gunbing Zhang.
+- Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
 
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**

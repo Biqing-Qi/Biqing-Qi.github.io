@@ -69,7 +69,7 @@
 - ``Arxiv`` [Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding](https://arxiv.org/pdf/2406.12295), Kaiyan Zhang, Jianyu Wang, Ning Ding, **Biqing Qi**, Eermo Hua, Xingtai Lv, Bowen Zhou
 - ``AAAI 2025`` <span style="color:red">(Oral)</span> [Fast and Slow Gradient Approximation for Binary Neural Network Optimization](https://arxiv.org/pdf/2412.11777), Xinquan Chen, Junqi Gao, **Biqing Qi**†, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li 
 - ``EMNLP 2023`` [CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model](https://arxiv.org/pdf/2310.15477), Kaiyan Zhang, Ning Ding, **Biqing Qi**, Xuekai Zhu, Xingwei Long, Bowen Zhou
-- ``ACL 2025`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou
+- ``ACL 2025`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou
 - ``NeurIPS 2024`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Online DPO</div><img src='images/COFSDPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,7 +82,7 @@
 - ``Arxiv`` [S4++: Elevating Long Sequence Modeling with State Memory Reply](https://openreview.net/pdf?id=bdnw4qjfH9), **Biqing Qi**, Junqi Gao, Dong Li, Kaiyan Zhang, Jianxing Liu, Ligang Wu, Bowen Zhou
 - ``EMNLP 2024 (Findings)`` [On the token distance modeling ability of higher RoPE attention dimension](https://arxiv.org/pdf/2410.08703), Xiangyu Hong, Che Jiang, **Biqing Qi**†, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zho
 - ``NeurIPS 2025``[An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2411.06659), Dong Li, Aijia Zhang, Junqi Gao, **Biqing Qi**†
-- ``ICML 2025`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**, Yuchen Fan, Xue Kai Zhu, Bowen Zhou
+- ``ICML 2025`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**†, Yuchen Fan, Xue Kai Zhu, Bowen Zhou
 
 
 ## 🌱 Specialized Generalist driven Multi-Agents Systems

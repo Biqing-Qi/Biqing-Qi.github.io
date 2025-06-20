@@ -1,7 +1,7 @@
 # 🌃 Teams
 ### Team members
 - Shijie Wang, Ph.D., Reseacher, Institute of Automation.
-- Zongling Li, M.Sc., Engineer, Tsinghua University
+- Zongling Li, M.Sc., Engineer, Tsinghua University.
   
 ### Interns
 

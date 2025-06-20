@@ -1,7 +1,7 @@
 # 🌃 Teams
 ### Team members
-- Shijie Wang, Reseacher, (2025.07-, Institute of Automation).
-- Zongling Li, Engineer, (2024.12-, Tsinghua University).
+- Shijie Wang, Ph.D., Reseacher, Institute of Automation.
+- Zongling Li, M.Sc., Engineer, Tsinghua University
   
 ### Shanghai AI Lab Interns
 

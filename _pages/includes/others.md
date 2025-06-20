@@ -3,7 +3,7 @@
 - Shijie Wang, Ph.D., Reseacher, Institute of Automation.
 - Zongling Li, M.Sc., Engineer, Tsinghua University
   
-### Shanghai AI Lab Interns
+### Interns
 
 #### Foundation Models 
 - Shuang Cheng, (2024.11-, 1st-yr Ph.D. candidate, Zhejiang University). 
@@ -17,14 +17,16 @@
 #### Multi-Agents Systems
 - Tianhe Lin, (2025.3-, 2nd-yr Master's student, Fudan University).
 - Yibo Wang, (2025.5-, 1st-yr Ph.D. Candidate, Hong Kong Univerisity of Science and Technology).
-- Chen Yang, (2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univeristy).
+- Chen Yang, (2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity).
 - Shke Shen, (2025.1-, 1st-yr Ph.D. Candidate, Carnegie Mellon University).
 - Yanlin Pan, (2025.06-, 2nd-yr Master's student, Zhejiang University).
-- Dong Li, (2024.10-, 2nd-yr Ph.D. candidate, Harbin Institute of Technology). （Visiting Student）
-- Junqi Gao, (2024.9-, 2nd-yr Ph.D. candidate, Harbin Institute of Technology).（Visiting Student）
-- Siqi Song, (2025.2-, 1st-yr Master's candidate, Tsinghua University).（Visiting Student）
 
-
+### Visiting Students 
+- Dong Li, (2024.10-, 2nd-yr Ph.D. candidate, Harbin Institute of Technology). 
+- Junqi Gao, (2024.9-, 2nd-yr Ph.D. candidate, Harbin Institute of Technology).
+- Siqi Song, (2025.2-, 1st-yr Master's candidate, Tsinghua University).
+- Xiaowei Sun, (2025.5-, 1st-yr Ph.D. candidate, Fudan Univerisity).
+  
 #### Alumni Interns and Visiting Students
 - Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
 

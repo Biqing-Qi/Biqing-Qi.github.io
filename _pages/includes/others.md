@@ -22,8 +22,8 @@
 - Yanlin Pan, (2025.06-, 2nd-yr Master's student, Zhejiang University).
 
 ### Visiting Students 
-- Dong Li, (2024.10-, 2nd-yr Ph.D. candidate, Harbin Institute of Technology). 
 - Junqi Gao, (2024.9-, 2nd-yr Ph.D. candidate, Harbin Institute of Technology).
+- Dong Li, (2024.10-, 2nd-yr Ph.D. candidate, Harbin Institute of Technology).
 - Siqi Song, (2025.2-, 1st-yr Master's candidate, Tsinghua University).
 - Xiaowei Sun, (2025.5-, 1st-yr Ph.D. candidate, Fudan Univerisity).
   

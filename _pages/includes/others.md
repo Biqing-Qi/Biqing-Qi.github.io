@@ -1,7 +1,7 @@
 # 🌃 Teams
 ### Team members
-- Shijie Wang, Reseacher in Ai Lab, (2025.07-, 1st-yr Ph.D. Candidate, Institute of Automation).
-- Zongling Li, Reseacher in Ai Lab, (2024.12-, 2nd-yr Master's student, Tsinghua University).
+- Shijie Wang, Reseacher, (2025.07-, 1st-yr Ph.D. Candidate, Institute of Automation).
+- Zongling Li, Algorithm Engineer, (2024.12-, 2nd-yr Master's student, Tsinghua University).
   
 ### Shanghai AI Lab Interns
 

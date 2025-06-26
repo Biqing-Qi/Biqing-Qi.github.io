@@ -6,10 +6,10 @@
 ### Interns
 
 #### Foundation Models 
+- Yihao Liu, 2025.03-, 4th-yr Ph.D. candidate, Tsinghua University, IIIS.
 - Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
 - Yuhua Jiang, 2025.02-, 1st-yr Ph.D. candidate, Tsinghua Univeristy. 
-- Yihao Liu, 2025.03-, 4th-yr Ph.D. candidate, Tsinghua University, IIIS.
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.
 - Yibo Wang, 2025.5-, 1st-yr Ph.D. Candidate, Hong Kong Univerisity of Science and Technology.
 - Yihan Di, 2025.05-, 1st-yr Master's student, University of Maryland.
@@ -21,6 +21,7 @@
 - Shke Shen, 2025.1-, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
 - Tianhe Lin, 2025.3-, 2nd-yr Master's student, Fudan University.
 - Yanlin Pan, 2025.06-, 2nd-yr Master's student, Zhejiang University.
+- Pengfei Li, 2025-02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
 
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.

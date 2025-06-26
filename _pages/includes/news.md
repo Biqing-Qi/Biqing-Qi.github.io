@@ -1,5 +1,6 @@
 # 🔥 News
-- *2025.05*: 🔥"Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows" released on [Project Page](https://qiushisun.github.io/ScienceBoard-Home/)
+- *2025.06*: 🔥"MARTI: A Framework for LLM-based Multi-Agent Reinforced Training and Inference" released on [Project Page](https://github.com/TsinghuaC3I/MARTI) 
+- *2025.06*: 🔥"Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows" released on [Project Page](https://qiushisun.github.io/ScienceBoard-Home/)
 - *2025.05*: 🎉 three papers are accepted by ACL 2025 （One oral and be invited to pannel discussion）
 - *2025.04*: 🎉 One   paper  is accepted by ICML 2025
 - *2025.02*: 🎉 One   paper  is accepted by CVPR 2025 (Highlight, Top 2.5%)

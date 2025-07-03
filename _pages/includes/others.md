@@ -13,24 +13,26 @@
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.
 - Yibo Wang, 2025.5-, 1st-yr Ph.D. Candidate, Hong Kong Univerisity of Science and Technology.
 - Yihan Di, 2025.05-, 1st-yr Master's student, University of Maryland.
-- Yizhuo Di, 2025.5-, 2nd-yr Master's Student, Carnegie Mellon University.
-
 
 #### Multi-Agents Systems
 - Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
 - Shke Shen, 2025.1-, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
-- Tianhe Lin, 2025.3-, 2nd-yr Master's student, Fudan University.
 - Yanlin Pan, 2025.06-, 2nd-yr Master's student, Zhejiang University.
 - Pengfei Li, 2025-02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
+
+
 
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Dong Li, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Siqi Song, 1st-yr Ph.D. candidate, Tsinghua University.
 - Xiaowei Sun, 1st-yr Ph.D. candidate, Fudan Univerisity.
+- Yixing Wang, 1st-yr Ph.D. candidate, Harbin Institute of Technology.
+
+
   
 #### Alumni Interns and Visiting Students
-- Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
+- Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
 
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**

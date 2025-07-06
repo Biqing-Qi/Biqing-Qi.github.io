@@ -14,7 +14,7 @@
   
   - ``Arxiv`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
   
-## 🎙 Trustworthy Foundation Models 
+## 🎙 Foundation Models 
 
 - ``NeurIPS 2024`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi**, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou
 - ``SPL 2024`` [Enhancing Adversarial Transferability via Information Bottleneck Constraints](https://arxiv.org/pdf/2406.05531), **Biqing Qi**, Junqi Gao, Jianxing Liu, Ligang Wu, Bowen Zhou [**Code**](https://github.com/Biqing-Qi/Enhancing-Adversarial-Transferability-via-Information-Bottleneck-Constraints)
@@ -85,7 +85,7 @@
 - ``ICML 2025`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**†, Yuchen Fan, Xue Kai Zhu, Bowen Zhou
 
 
-## 🌱 Specialized Generalist driven Multi-Agents Systems
+## 🌱  Multi-Agents Systems
 
 - ``Arxiv`` [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703), Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, **Biqing Qi**†, Wanli Ouyang and Bowen Zhou.
 - ``CVPR 2025 `` <span style="color:red">(Highlight)</span> [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054), **Biqing Qi**, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou
@@ -95,17 +95,14 @@
 - ``Arxiv`` [Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676?), Chenyu Huang, Peng Ye, Xiaohui Wang, Shenghe Zheng, **Biqing Qi**, Lei Bai, Wanli Ouyang, Tao Chen
 - ``ACL 2025`` [Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning](https://arxiv.org/pdf/2506.03939), Junqi Gao, Xiang Zou, Ying Ai, Dong Li, Yichen Niu, **Biqing Qi**†, Jianxing Liu
 - ``Arxiv`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou
-- ``Arxiv`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu
+- ``ACM MM 2025`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu
 
-## 👄 Specialized Generalist driven AI4S and Embodied Applications 
+## 👄 AI4S and Embodied Applications 
 
-### 🏂🏻 AI4S applications: Hypothesis Proposers
 - ``COLM 2024`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou [![](https://img.shields.io/github/stars/TsinghuaC3I/LLM4BioHypoGen?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/LLM4BioHypoGen)
 - ``Instruct Following@NeurIPS 2023`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou
 - ``NeurIPS 2024 D&B Track`` <span style="color:red">(Spotlight)</span> [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical)
 - ``ACL 2025`` [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.09403), Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, **Biqing Qi**, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong
-  
-### 🤖 Embodied Applications
 - ``EMNLP 2024`` [MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making](https://arxiv.org/pdf/2409.16686), Dayuan Fu\*, **Biqing Qi**†, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
 - ``AAAI  2025`` [Retrieval-Augmented Visual Question Answering via Built-in Autoregressive Search Engines](https://arxiv.org/pdf/2502.16641v1), Xinwei Long, Zhiyuan Ma, Ermo Hua, Kaiyan Zhang, **Biqing Qi**, Bowen Zhou
 

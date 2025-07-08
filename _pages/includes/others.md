@@ -2,7 +2,7 @@
 ### Team members
 - Shijie Wang, Ph.D., Reseacher, Institute of Automation.
 - Zongling Li, M.Sc., Engineer, Tsinghua University.
-  
+
 ### Interns
 
 #### Foundation Models 
@@ -11,7 +11,7 @@
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
 - Yuhua Jiang, 2025.02-, 1st-yr Ph.D. candidate, Tsinghua Univeristy. 
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.
-- Yibo Wang, 2025.5-, 1st-yr Ph.D. Candidate, Hong Kong Univerisity of Science and Technology.
+- Yicun Yang, 2025.07-, 1st-yr Ph.D. candidate, Shanghai Jiaotong University. 
 - Yihan Di, 2025.05-, 1st-yr Master's student, University of Maryland.
 
 #### Multi-Agents Systems
@@ -19,7 +19,6 @@
 - Shke Shen, 2025.1-, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
 - Yanlin Pan, 2025.06-, 2nd-yr Master's student, Zhejiang University.
 - Pengfei Li, 2025-02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
-
 
 
 ### Visiting Students 

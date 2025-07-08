@@ -6,20 +6,19 @@
 ### Interns
 
 #### Foundation Models 
-- Yihao Liu, 2025.03-, 4th-yr Ph.D. candidate, Tsinghua University, IIIS.
-- Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
-- Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
+- Yihao Liu, 2025.03-, 4th-yr Ph.D. candidate, Tsinghua University. (Yao Class)
 - Yuhua Jiang, 2025.02-, 1st-yr Ph.D. candidate, Tsinghua Univeristy. 
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.
+- Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
+- Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
 - Yicun Yang, 2025.07-, 1st-yr Ph.D. candidate, Shanghai Jiaotong University. 
 - Yihan Di, 2025.05-, 1st-yr Master's student, University of Maryland.
 
 #### Multi-Agents Systems
 - Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
 - Shke Shen, 2025.1-, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
-- Yanlin Pan, 2025.06-, 2nd-yr Master's student, Zhejiang University.
 - Pengfei Li, 2025-02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
-
+- Yanlin Pan, 2025.06-, 2nd-yr Master's student, Zhejiang University.
 
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
@@ -28,8 +27,6 @@
 - Xiaowei Sun, 1st-yr Ph.D. candidate, Fudan Univerisity.
 - Yixing Wang, 1st-yr Ph.D. candidate, Harbin Institute of Technology.
 
-
-  
 #### Alumni Interns and Visiting Students
 - Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
 

@@ -6,7 +6,7 @@
 ### Interns
 
 #### Foundation Models 
-- Yihao Liu, 2025.03-, 4th-yr Ph.D. candidate, Tsinghua University. (Yao Class)
+- Yihao Liu, 2025.03-, 4th-yr Ph.D. candidate, Tsinghua University, IIIS. 
 - Yuhua Jiang, 2025.02-, 1st-yr Ph.D. candidate, Tsinghua Univeristy. 
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.
 - Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）

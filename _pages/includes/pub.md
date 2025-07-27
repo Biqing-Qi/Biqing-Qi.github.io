@@ -97,7 +97,7 @@
 - ``Arxiv`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou
 - ``ACM MM 2025`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu
 
-## 👄 AI4S and Embodied Applications 
+## 👄 Applications 
 
 - ``COLM 2024`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou [![](https://img.shields.io/github/stars/TsinghuaC3I/LLM4BioHypoGen?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/LLM4BioHypoGen)
 - ``Instruct Following@NeurIPS 2023`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou

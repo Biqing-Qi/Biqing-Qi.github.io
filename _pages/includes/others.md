@@ -18,7 +18,7 @@
 #### Multi-Agents Systems
 - Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
 - Pengfei Li, 2025-02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
-- liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.
+- Liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.
 
 
 ### Visiting Students 

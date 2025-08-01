@@ -19,7 +19,7 @@
 - Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
 - Pengfei Li, 2025-02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
 - Liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.
-- Kailai Yang, 2025,08-, 4st-yr ph.D. Candidate, The University of Manchester.
+- Kailai Yang, 2025,08-, 4th-yr ph.D. Candidate, The University of Manchester.
 
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.

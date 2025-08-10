@@ -12,7 +12,6 @@
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
 - Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
-- Yicun Yang, 2025.07-, 1st-yr Ph.D. candidate, Hong Kong University of Science and Technology. 
 - Yihan Di, 2025.05-, 1st-yr Master's student, University of Maryland.
 
 #### Multi-Agents Systems

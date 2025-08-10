@@ -1,6 +1,7 @@
 
 # 📝 Publications 
 - Notes:（*）indicates the equal contributions and（†）indicates the corresponding author.
+# Selected papers 
   
 ## 👁 Survey and Position Papers
 <div class='paper-box'>
@@ -95,7 +96,8 @@
 - ``Arxiv`` [Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676?), Chenyu Huang, Peng Ye, Xiaohui Wang, Shenghe Zheng, **Biqing Qi**, Lei Bai, Wanli Ouyang, Tao Chen
 - ``ACL 2025`` [Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning](https://arxiv.org/pdf/2506.03939), Junqi Gao, Xiang Zou, Ying Ai, Dong Li, Yichen Niu, **Biqing Qi**†, Jianxing Liu
 - ``Arxiv`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou
-- ``ACM MM 2025`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu
+- ``ACM MM 2025`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](https://arxiv.org/pdf/2508.01680), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu
+- ``Arxiv`` [Bohdi: Heterogeneous LLM Fusion with Automatic Data Exploration](https://arxiv.org/pdf/2506.15721), Junqi Gao, Zhichang Guo, Dazhi Zhang, Dong Li, Runze Liu, Pengfei Li, Kai Tian, **Biqing Qi**†
 
 ## 👄 Applications 
 
@@ -105,4 +107,8 @@
 - ``ACL 2025`` [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.09403), Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, **Biqing Qi**, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong
 - ``EMNLP 2024`` [MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making](https://arxiv.org/pdf/2409.16686), Dayuan Fu\*, **Biqing Qi**†, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou
 - ``AAAI  2025`` [Retrieval-Augmented Visual Question Answering via Built-in Autoregressive Search Engines](https://arxiv.org/pdf/2502.16641v1), Xinwei Long, Zhiyuan Ma, Ermo Hua, Kaiyan Zhang, **Biqing Qi**, Bowen Zhou
+- ``Arxiv`` [SpectrumWorld: Artificial Intelligence Foundation for Spectroscopy](https://arxiv.org/pdf/2508.01188), Zhuo Yang, Jiaqing Xie, Shuaike Shen, Daolang Wang, Yeyun Chen, Ben Gao, Shuzhou Sun, **Biqing Qi**, Dongzhan Zhou, Lei Bai, Linjiang Chen, Shufei Zhang, Jun Jiang, Tianfan Fu, Yuqiang Li
+- ``Arxiv`` [Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows](https://arxiv.org/pdf/2505.19897) Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
+- ``Arxiv`` [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://arxiv.org/pdf/2507.19132?), Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun,  **Biqing Qi**†, Bowen Zhou
+
 

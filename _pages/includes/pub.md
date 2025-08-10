@@ -24,7 +24,6 @@
 - ``Arxiv`` [Investigating Deep Watermark Security: An Adversarial Transferability Perspective](https://arxiv.org/pdf/2402.16397), **Biqing Qi**, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou
 - ``ACM MM 2024`` [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking](https://arxiv.org/pdf/2407.13188), Zhiyuan Ma, Guoli Jia, **Biqing Qi**, Bowen Zhou
 
-## 💣 Specialized Generalist Foundation Model and Technologies
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
     <div>

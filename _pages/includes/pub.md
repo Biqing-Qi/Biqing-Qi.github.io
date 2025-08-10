@@ -48,7 +48,7 @@
 - ``NAACL 2024`` ``Reasoning`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou.
 - ``Arxiv`` ``Reasoning`` ``Reinforcement Learning`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou.
 - ``Arxiv`` ``Reasoning`` [Evolution of Thought: Diverse and High-Quality Reasoning via Multi-Objective Optimization](https://arxiv.org/pdf/2412.07779), Junqi Gao, Zhouyi Qian, Yiang Luo, Kaiyan Zhang, **Biqing Qi**†, Jianxing Liu.
-- ``ACL 2025`` <span style="color:red">(Oral)</span> ``Alignment`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.
+- ``ACL 2025`` ``Alignment`` <span style="color:red">(Oral)</span>  [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.
 - ``Arxiv`` ``Alignment`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou.
 - ``ACL 2024 (Findings)`` ``Model Architecture`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
 - ``Arxiv`` ``Model Architecture`` [S4++: Elevating Long Sequence Modeling with State Memory Reply](https://openreview.net/pdf?id=bdnw4qjfH9), **Biqing Qi**, Junqi Gao, Dong Li, Kaiyan Zhang, Jianxing Liu, Ligang Wu, Bowen Zhou.
@@ -57,7 +57,7 @@
 - ``NeurIPS 2024`` ``Model Architecture`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou.
 - ``ICML 2025`` ``Position Embedding`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**†, Yuchen Fan, Xue Kai Zhu, Bowen Zhou.
 - ``ACM MM 2025`` ``Sturctured Memory`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](https://arxiv.org/pdf/2508.01680), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu.
-- ``AAAI 2025`` <span style="color:red">(Oral)</span> ``Gradient Optimization`` [Fast and Slow Gradient Approximation for Binary Neural Network Optimization](https://arxiv.org/pdf/2412.11777), Xinquan Chen, Junqi Gao, **Biqing Qi**†, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li. 
+- ``AAAI 2025`` ``Optimizer`` <span style="color:red">(Oral)</span> [Fast and Slow Gradient Approximation for Binary Neural Network Optimization](https://arxiv.org/pdf/2412.11777), Xinquan Chen, Junqi Gao, **Biqing Qi**†, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li. 
 
 ## 🌱  Multi-Agents Systems
 

@@ -12,16 +12,16 @@
     </div>
   </div>
 </div>
-  
-- ``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
+
+``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
     
-- ``NeurIPS 2024`` ``Robustness Theory`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi**, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou
-- ``SPL 2024`` ``Robustness Theory`` [Enhancing Adversarial Transferability via Information Bottleneck Constraints](https://arxiv.org/pdf/2406.05531), **Biqing Qi**, Junqi Gao, Jianxing Liu, Ligang Wu, Bowen Zhou [**Code**](https://github.com/Biqing-Qi/Enhancing-Adversarial-Transferability-via-Information-Bottleneck-Constraints)
-- ``NAACL 2024`` [On Large Language Models' Hallucination with Regard to Known Facts](https://arxiv.org/pdf/2403.20009), Che jiang, **Biqing Qi**, Xiangyu Hong, Dayuan Fu, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou
-- ``NeurIPS 2023`` ``Robustness Theory`` [Perturbation towards easy samples improves targeted adversarial transferability](https://proceedings.neurips.cc/paper_files/paper/2023/file/028fcbcf85435d39a40c4d61b42c99a4-Paper-Conference.pdf) Junqi Gao\*, **Biqing Qi\***, Yao Li, Zhichang Guo, Da Li, Yuming Xing, Dazhi Zhang
-- ``TNNLS 2023`` ``Robustness Theory`` [Improving robustness of intent detection under adversarial attacks: A geometric constraint perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215063) **Biqing Qi**, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu
-- ``Arxiv`` ``Robustness Theory`` ``Watermarking`` [Investigating Deep Watermark Security: An Adversarial Transferability Perspective](https://arxiv.org/pdf/2402.16397), **Biqing Qi**, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou
-- ``ACM MM 2024`` ``Watermarking`` [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking](https://arxiv.org/pdf/2407.13188), Zhiyuan Ma, Guoli Jia, **Biqing Qi**, Bowen Zhou
+- ``NeurIPS 2024`` ``Robustness Theory`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi**, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou.
+- ``SPL 2024`` ``Robustness Theory`` [Enhancing Adversarial Transferability via Information Bottleneck Constraints](https://arxiv.org/pdf/2406.05531), **Biqing Qi**, Junqi Gao, Jianxing Liu, Ligang Wu, Bowen Zhou [**Code**](https://github.com/Biqing-Qi/Enhancing-Adversarial-Transferability-via-Information-Bottleneck-Constraints).
+- ``NeurIPS 2023`` ``Robustness Theory`` [Perturbation towards easy samples improves targeted adversarial transferability](https://proceedings.neurips.cc/paper_files/paper/2023/file/028fcbcf85435d39a40c4d61b42c99a4-Paper-Conference.pdf) Junqi Gao\*, **Biqing Qi\***, Yao Li, Zhichang Guo, Da Li, Yuming Xing, Dazhi Zhang.
+- ``TNNLS 2023`` ``Robustness Theory`` [Improving robustness of intent detection under adversarial attacks: A geometric constraint perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215063) **Biqing Qi**, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu.
+  - ``NAACL 2024`` ``Hallucination Detection`` [On Large Language Models' Hallucination with Regard to Known Facts](https://arxiv.org/pdf/2403.20009), Che jiang, **Biqing Qi**, Xiangyu Hong, Dayuan Fu, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.
+- ``Arxiv`` ``Robustness Theory`` ``Watermarking`` [Investigating Deep Watermark Security: An Adversarial Transferability Perspective](https://arxiv.org/pdf/2402.16397), **Biqing Qi**, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou.
+- ``ACM MM 2024`` ``Watermarking`` [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking](https://arxiv.org/pdf/2407.13188), Zhiyuan Ma, Guoli Jia, **Biqing Qi**, Bowen Zhou.
 
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
@@ -46,17 +46,17 @@
 - ``TCSVT 2025`` ``Continual Learning`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
 - ``NeurIPS 2025`` ``Countinual Learning`` [An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2411.06659), Dong Li, Aijia Zhang, Junqi Gao, **Biqing Qi**†.
 - ``NAACL 2024`` ``Reasoning`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou.
-- ``ACL 2025`` <span style="color:red">(Oral)</span> ``Reasoning`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.
-- ``Arxiv`` ``Reinforcement Learning`` ``Reasoning`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou.
+- ``Arxiv`` ``Reasoning`` ``Reinforcement Learning`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou.
 - ``Arxiv`` ``Reasoning`` [Evolution of Thought: Diverse and High-Quality Reasoning via Multi-Objective Optimization](https://arxiv.org/pdf/2412.07779), Junqi Gao, Zhouyi Qian, Yiang Luo, Kaiyan Zhang, **Biqing Qi**†, Jianxing Liu.
-- ``Arxiv`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou.
+- ``ACL 2025`` <span style="color:red">(Oral)</span> ``Alignment`` [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.
+- ``Arxiv`` ``Alignment`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou.
 - ``ACL 2024 (Findings)`` ``Model Architecture`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
 - ``Arxiv`` ``Model Architecture`` [S4++: Elevating Long Sequence Modeling with State Memory Reply](https://openreview.net/pdf?id=bdnw4qjfH9), **Biqing Qi**, Junqi Gao, Dong Li, Kaiyan Zhang, Jianxing Liu, Ligang Wu, Bowen Zhou.
 - ``EMNLP 2024 (Findings)`` ``Model Architecture`` [On the token distance modeling ability of higher RoPE attention dimension](https://arxiv.org/pdf/2410.08703), Xiangyu Hong, Che Jiang, **Biqing Qi**†, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.
+- ``Arxiv`` ``Model Architecture`` [SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning](https://www.arxiv.org/pdf/2408.01970), **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou.
+- ``NeurIPS 2024`` ``Model Architecture`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou.
 - ``ICML 2025`` ``Position Embedding`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**†, Yuchen Fan, Xue Kai Zhu, Bowen Zhou.
-- ``NeurIPS 2024`` ``Generation Models`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou.
 - ``ACM MM 2025`` ``Sturctured Memory`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](https://arxiv.org/pdf/2508.01680), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu.
-- ``Arxiv`` ``Decoupled Memory and Reasoning`` [SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning](https://www.arxiv.org/pdf/2408.01970), **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou.
 - ``AAAI 2025`` <span style="color:red">(Oral)</span> ``Gradient Optimization`` [Fast and Slow Gradient Approximation for Binary Neural Network Optimization](https://arxiv.org/pdf/2412.11777), Xinquan Chen, Junqi Gao, **Biqing Qi**†, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li. 
 
 ## 🌱  Multi-Agents Systems

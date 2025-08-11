@@ -13,13 +13,13 @@
   </div>
 </div>
 
-``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
+- ``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
     
 - ``NeurIPS 2024`` ``Robustness Theory`` [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org/pdf/2406.05532), **Biqing Qi**, Yiang Luo, Junqi Gao, Pengfei  Li, Kai Tian, Zhiyuan Ma, Bowen Zhou.
 - ``SPL 2024`` ``Robustness Theory`` [Enhancing Adversarial Transferability via Information Bottleneck Constraints](https://arxiv.org/pdf/2406.05531), **Biqing Qi**, Junqi Gao, Jianxing Liu, Ligang Wu, Bowen Zhou [**Code**](https://github.com/Biqing-Qi/Enhancing-Adversarial-Transferability-via-Information-Bottleneck-Constraints).
 - ``NeurIPS 2023`` ``Robustness Theory`` [Perturbation towards easy samples improves targeted adversarial transferability](https://proceedings.neurips.cc/paper_files/paper/2023/file/028fcbcf85435d39a40c4d61b42c99a4-Paper-Conference.pdf) Junqi Gao\*, **Biqing Qi\***, Yao Li, Zhichang Guo, Da Li, Yuming Xing, Dazhi Zhang.
 - ``TNNLS 2023`` ``Robustness Theory`` [Improving robustness of intent detection under adversarial attacks: A geometric constraint perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215063) **Biqing Qi**, Bowen Zhou, Weinan Zhang, Jianxing Liu, Ligang Wu.
-  - ``NAACL 2024`` ``Hallucination Detection`` [On Large Language Models' Hallucination with Regard to Known Facts](https://arxiv.org/pdf/2403.20009), Che jiang, **Biqing Qi**, Xiangyu Hong, Dayuan Fu, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.
+- ``NAACL 2024`` ``Hallucination Detection`` [On Large Language Models' Hallucination with Regard to Known Facts](https://arxiv.org/pdf/2403.20009), Che jiang, **Biqing Qi**, Xiangyu Hong, Dayuan Fu, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.
 - ``Arxiv`` ``Robustness Theory`` ``Watermarking`` [Investigating Deep Watermark Security: An Adversarial Transferability Perspective](https://arxiv.org/pdf/2402.16397), **Biqing Qi**, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou.
 - ``ACM MM 2024`` ``Watermarking`` [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking](https://arxiv.org/pdf/2407.13188), Zhiyuan Ma, Guoli Jia, **Biqing Qi**, Bowen Zhou.
 

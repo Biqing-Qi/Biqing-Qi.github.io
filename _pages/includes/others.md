@@ -16,9 +16,9 @@
 
 #### Multi-Agents Systems
 - Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
-- Pengfei Li, 2025-02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
+- Pengfei Li, 2025.02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
 - Liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.
-- Kailai Yang, 2025,08-, 4th-yr ph.D. Candidate, The University of Manchester.
+- Kailai Yang, 2025.08-, 4th-yr ph.D. Candidate, The University of Manchester.
 
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
@@ -26,7 +26,7 @@
 - Siqi Song, 1st-yr Ph.D. candidate, Tsinghua University.
 - Xiaowei Sun, 1st-yr Ph.D. candidate, Fudan Univerisity.
 - Yixing Wang, 1st-yr Ph.D. candidate, Harbin Institute of Technology.
-- Shuaike Shen, 2025.1-, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
+- Shuaike Shen, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
 
 #### Alumni Interns and Visiting Students
 - Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.

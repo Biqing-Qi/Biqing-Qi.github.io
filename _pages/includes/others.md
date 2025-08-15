@@ -8,7 +8,7 @@
 #### Foundation Models 
 - Yihao Liu, 2025.03-, 4th-yr Ph.D. candidate, Tsinghua University, IIIS.
 - Ermo Hua, 2025,07-, 3th-yr Ph.D. candidate, Tsinghua University.
-- Yuhua Jiang, 2025.02-, 1st-yr Ph.D. candidate, Tsinghua Univeristy. 
+- Yuhua Jiang, 2025.02-, 2nd-yr Ph.D. candidate, Tsinghua Univeristy. 
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
 - Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）

@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.07*: 🎉 One   paper  is accepted by EMNLP 2025
 - *2025.08*: 🔥"SDAR (Synergy of Diffusion and AutoRegression), a large-scale diffusion language model" released on [Project Page](https://github.com/JetAstra/SDAR) 
 - *2025.07*: 🎉 One   paper  is accepted by ACM MM 2025
 - *2025.06*: 🔥"MARTI: A Framework for LLM-based Multi-Agent Reinforced Training and Inference" released on [Project Page](https://github.com/TsinghuaC3I/MARTI) 

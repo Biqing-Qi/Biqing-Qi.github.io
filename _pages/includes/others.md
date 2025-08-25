@@ -12,9 +12,9 @@
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
 - Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
-- Yihan Di, 2025.05-, 1st-yr Master's student, University of Maryland.
 
 #### Multi-Agents Systems
+- Zhengyu Wu, 2025.08-, 2st-yr Ph.D. Candidate, Shanghai Jiaotong University.（Joint Supervison）
 - Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
 - Pengfei Li, 2025.02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
 - Liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.
@@ -29,7 +29,7 @@
 - Shuaike Shen, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
 
 #### Alumni Interns and Visiting Students
-- Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
+- Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
 
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**

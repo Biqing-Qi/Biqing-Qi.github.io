@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.08*: 🔥"InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency" released on [Project Page](https://github.com/OpenGVLab/InternVL) 
 - *2025.08*: 🎉 One   paper  is accepted by EMNLP 2025
 - *2025.08*: 🔥"SDAR (Synergy of Diffusion and AutoRegression), a large diffusion language model（1.7B, 4B, 8B, 30B）" released on [Project Page](https://github.com/JetAstra/SDAR) 
 - *2025.07*: 🎉 One   paper  is accepted by ACM MM 2025

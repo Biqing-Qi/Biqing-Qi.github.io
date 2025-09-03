@@ -14,7 +14,6 @@
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
 
 #### Multi-Agents Systems
-- Zhengyu Wu, 2025.08-, 2st-yr Ph.D. Candidate, Shanghai Jiaotong University.（Joint Supervison）
 - Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
 - Pengfei Li, 2025.02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
 - Liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.

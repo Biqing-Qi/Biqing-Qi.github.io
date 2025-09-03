@@ -17,6 +17,7 @@
 - Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
 - Pengfei Li, 2025.02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
 - Liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.
+- Yikun Fu, 2025.09-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
 
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.

@@ -14,16 +14,16 @@
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
 
 #### Multi-Agents Systems
-- Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
-- Pengfei Li, 2025.02-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
-- Liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.
 - Yikun Fu, 2025.09-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
-
+- Xiaowei Sun, 2025, 09-, 1st-yr Ph.D. candidate, Fudan Univerisity.
+- Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
+- Liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.
+- 
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Dong Li, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Siqi Song, 1st-yr Ph.D. candidate, Tsinghua University.
-- Xiaowei Sun, 1st-yr Ph.D. candidate, Fudan Univerisity.
+- Pengfei Li, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
 - Yixing Wang, 1st-yr Ph.D. candidate, Harbin Institute of Technology.
 - Shuaike Shen, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
 

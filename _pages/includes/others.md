@@ -15,9 +15,7 @@
 
 #### Multi-Agents Systems
 - Yikun Fu, 2025.09-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
-- Xiaowei Sun, 2025, 09-, 1st-yr Ph.D. candidate, Fudan Univerisity.
 - Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
-- Liang Cheng, 2025.07-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.
   
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.

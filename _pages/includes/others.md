@@ -15,18 +15,17 @@
 
 #### Multi-Agents Systems
 - Yikun Fu, 2025.09-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
-- Chen Yang, 2025.06-, 1st-yr Ph.D. Candidate, Tsinghua Univerisity.
+- Pengfei Li, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
   
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Dong Li, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Siqi Song, 1st-yr Ph.D. candidate, Tsinghua University.
-- Pengfei Li, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
 - Yixing Wang, 1st-yr Ph.D. candidate, Harbin Institute of Technology.
 - Shuaike Shen, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
 
 #### Alumni Interns and Visiting Students
-- Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
+- Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
 
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**

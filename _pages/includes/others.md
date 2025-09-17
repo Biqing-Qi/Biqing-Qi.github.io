@@ -15,7 +15,7 @@
 
 #### Multi-Agents Systems
 - Yikun Fu, 2025.09-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
-- Pengfei Li, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
+- Pengfei Li, 2025.04-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
   
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.

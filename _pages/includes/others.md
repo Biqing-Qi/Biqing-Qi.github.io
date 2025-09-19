@@ -21,7 +21,7 @@
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Dong Li, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Siqi Song, 1st-yr Ph.D. candidate, Tsinghua University.
-- Yixing Wang, 1st-yr Ph.D. candidate, Harbin Institute of Technology.
+- Nuanqiao Shan, 1st-yr Ph.D. candidate, Zhejiang University.
 - Shuaike Shen, 1st-yr Ph.D. Candidate, Carnegie Mellon University.
 
 #### Alumni Interns and Visiting Students

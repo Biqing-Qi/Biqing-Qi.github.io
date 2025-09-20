@@ -44,9 +44,9 @@
 </div>
 
 - ``TCSVT 2025`` ``Continual Learning`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
-- ``NeurIPS 2025`` ``Countinual Learning`` [An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2411.06659), Dong Li, Aijia Zhang, Junqi Gao, **Biqing Qi**†.
+- ``NeurIPS 2024`` ``Countinual Learning`` [An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2411.06659), Dong Li, Aijia Zhang, Junqi Gao, **Biqing Qi**†.
 - ``NAACL 2024`` ``Reasoning`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou.
-- ``Arxiv`` ``Reasoning`` ``Reinforcement Learning`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou.
+- ``NeurIPS 2025`` ``Reasoning`` ``Reinforcement Learning`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou.
 - ``Arxiv`` ``Reasoning`` [Evolution of Thought: Diverse and High-Quality Reasoning via Multi-Objective Optimization](https://arxiv.org/pdf/2412.07779), Junqi Gao, Zhouyi Qian, Yiang Luo, Kaiyan Zhang, **Biqing Qi**†, Jianxing Liu.
 - ``ACL 2025`` ``Alignment`` <span style="color:red">(Oral)</span>  [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.
 - ``Arxiv`` ``Alignment`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou.
@@ -63,7 +63,7 @@
 
 - ``CVPR 2025 `` ``Model Merging`` <span style="color:red">(Highlight)</span> [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054), **Biqing Qi**, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou.
 - ``Arxiv`` ``Model Merging`` [Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676?), Chenyu Huang, Peng Ye, Xiaohui Wang, Shenghe Zheng, **Biqing Qi**, Lei Bai, Wanli Ouyang, Tao Chen.
-- ``Arxiv`` ``Model Merging`` [Bohdi: Heterogeneous LLM Fusion with Automatic Data Exploration](https://arxiv.org/pdf/2506.15721), Junqi Gao, Zhichang Guo, Dazhi Zhang, Dong Li, Runze Liu, Pengfei Li, Kai Tian, **Biqing Qi**†.
+- ``NeurIPS 2025`` ``Model Merging`` [Bohdi: Heterogeneous LLM Fusion with Automatic Data Exploration](https://arxiv.org/pdf/2506.15721), Junqi Gao, Zhichang Guo, Dazhi Zhang, Dong Li, Runze Liu, Pengfei Li, Kai Tian, **Biqing Qi**†.
 - ``Arxiv`` ``Test Time Scaling`` [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703), Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, **Biqing Qi**†, Wanli Ouyang and Bowen Zhou.
 - ``ICLR 2025`` ``Test Time Scaling`` [OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees](https://openreview.net/pdf?id=fGIqGfmgkW), Kaiyan Zhang, Jiayuan Zhang, Haoxin Li, Xuekai Zhu, Ermo Hua, Xingtai Lv, Ning Ding, **Biqing Qi**, Bowen Zhou.
 - ``Arxiv`` ``Test Time Scaling`` [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/pdf/2504.00891), Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, Jiafei Lyu, Zhouyi Qian, **Biqing Qi**†, Xiu Li, Bowen Zhou.

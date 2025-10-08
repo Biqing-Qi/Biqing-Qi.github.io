@@ -1,7 +1,6 @@
 # 🌃 Teams
 ### Team members
 - Shijie Wang, Ph.D., Reseacher, Institute of Automation.
-- Zongling Li, M.Sc., Engineer, Tsinghua University.
 
 ### Interns
 
@@ -15,8 +14,8 @@
 
 #### Multi-Agents Systems
 - Yikun Fu, 2025.09-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
-- Pengfei Li, 2025.04-, 1st-yr Ph.D. Candidate, Harbin Institute of Technology.
-  
+- Xiaowei Sun, 2025.9-, 1st-yr Ph.D. candidate, Fudan University.
+
 ### Visiting Students 
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Dong Li, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.

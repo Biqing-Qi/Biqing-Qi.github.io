@@ -13,7 +13,7 @@
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
 
 #### Multi-Agents Systems
-- Yikun Fu, 2025.09-, 1st-yr Ph.D. Candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
+- Yikun Fu, 2025.09-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
 - Xiaowei Sun, 2025.9-, 1st-yr Ph.D. candidate, Fudan University.
 
 ### Visiting Students 

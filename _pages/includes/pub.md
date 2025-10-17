@@ -27,13 +27,16 @@
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/sdar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ``Technical Report`` ``Hybrid Diffusion Language Models`` [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/pdf/2510.06303), Shuang Cheng, Yihan Bian, Dawei Liu, Yuhua Jiang, Yihao Liu, Linfeng Zhang, Wenhai Wang, Qipeng Guo, Kai Chen, **Biqing Qi\***, Bowen Zhou [![](https://img.shields.io/github/stars/JetAstra/SDAR?style=social&label=Code+Stars)](https://github.com/JetAstra/SDAR)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
   ``CVPR 2024`` ``Continual Learning`` ``Cognition-Inspired`` [Interactive continual learning: Fast and slow thinking](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Interactive_Continual_Learning_Fast_and_Slow_Thinking_CVPR_2024_paper.pdf), **Biqing Qi**, Xinquan Chen, Junqi Gao, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou, [![](https://img.shields.io/github/stars/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking?style=social&label=Code+Stars)](https://github.com/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking)
   - This work was the first to propose the concept of **interactive continual learning**.
   - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).

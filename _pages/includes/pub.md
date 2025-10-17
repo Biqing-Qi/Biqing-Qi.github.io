@@ -28,14 +28,10 @@
   
 ## 🎙 Foundation Models 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">InternVL3.5</div><img src='images/internvl35.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-``CVPR 2024`` ``Continual Learning`` ``Cognition-Inspired`` [Interactive continual learning: Fast and slow thinking](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Interactive_Continual_Learning_Fast_and_Slow_Thinking_CVPR_2024_paper.pdf), **Biqing Qi**, Xinquan Chen, Junqi Gao, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou, [![](https://img.shields.io/github/stars/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking?style=social&label=Code+Stars)](https://github.com/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking)
-  - This work was the first to propose the concept of **interactive continual learning**.
-  - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).
-  - An advanced continual learning framework with the novel structured **key-value pairs memory unit**.
-  - A potential framework to develop **Specialized Generalist** AI.
+- ``Technical Report`` ``Multimodal Large Language Models`` [InternVL3. 5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoyang Liu, Linglin Jing, Shenglong Ye, Jie Shao, Zhaokai Wang, Zhe Chen, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.[![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL)
 </div>
 </div>
 
@@ -49,14 +45,18 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">InternVL3.5</div><img src='images/internvl35.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``Technical Report`` ``Multimodal Large Language Models`` [InternVL3. 5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoyang Liu, Linglin Jing, Shenglong Ye, Jie Shao, Zhaokai Wang, Zhe Chen, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.[![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL)
+``CVPR 2024`` ``Continual Learning`` ``Cognition-Inspired`` [Interactive continual learning: Fast and slow thinking](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Interactive_Continual_Learning_Fast_and_Slow_Thinking_CVPR_2024_paper.pdf), **Biqing Qi**, Xinquan Chen, Junqi Gao, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou, [![](https://img.shields.io/github/stars/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking?style=social&label=Code+Stars)](https://github.com/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking)
+  - This work was the first to propose the concept of **interactive continual learning**.
+  - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).
+  - An advanced continual learning framework with the novel structured **key-value pairs memory unit**.
+  - A potential framework to develop **Specialized Generalist** AI.
 </div>
 </div>
-  
-- ``Arxiv`` ``Diffusion Language Models`` [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/pdf/2510.09309), Jianuo Huang, Yaojie Zhang, Yicun Yang, Benhao Huang, Biqing Qi, Dongrui Liu, Linfeng Zhang
+
+- ``Arxiv`` ``Diffusion Language Models`` [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/pdf/2510.09309), Jianuo Huang, Yaojie Zhang, Yicun Yang, Benhao Huang, **Biqing Qi**, Dongrui Liu, Linfeng Zhang
 - ``Arxiv`` ``Diffusion Language Models`` [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/pdf/2510.04147), Yifeng Gao, Ziang Ji, Yuxuan Wang, **Biqing Qi**, Hanlin Xu, Linfeng Zhang
 - ``Arxiv`` ``Diffusion Language Models`` [Sequential Diffusion Language Models](https://arxiv.org/pdf/2509.24007), Yangzhou Liu, Yue Cao, Hao Li, Gen Luo, Zhe Chen, Weiyun Wang, Xiaobo Liang, **Biqing Qi**, Lijun Wu, Changyao Tian, Yanting Zhang, Yuqiang Li, Tong Lu, Yu Qiao, Jifeng Dai, Wenhai Wang
 - ``Arxiv`` ``Diffusion Language Models`` [Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs](https://arxiv.org/pdf/2508.10736), Xiangqi Jin, Yuxuan Wang, Yifeng Gao, Zichen Wen, **Biqing Qi**, Dongrui Liu, Linfeng Zhang
@@ -68,7 +68,6 @@
 - ``Arxiv`` ``Alignment`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou.
 - ``ACL 2024 (Findings)`` ``Model Architecture`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
 - ``EMNLP 2024 (Findings)`` ``Model Architecture`` [On the token distance modeling ability of higher RoPE attention dimension](https://arxiv.org/pdf/2410.08703), Xiangyu Hong, Che Jiang, **Biqing Qi**†, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.
-- ``Arxiv`` ``Model Architecture`` [SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning](https://www.arxiv.org/pdf/2408.01970), **Biqing Qi**, Junqi Gao, Xinquan Chen, Dong Li, Weinan Zhang, Bowen Zhou.
 - ``NeurIPS 2024`` ``Model Architecture`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou.
 - ``ICML 2025`` ``Position Embedding`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**†, Yuchen Fan, Xue Kai Zhu, Bowen Zhou.
 - ``ACM MM 2025`` ``Sturctured Memory`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](https://arxiv.org/pdf/2508.01680), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu.

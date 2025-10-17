@@ -2,7 +2,7 @@
 - *2025.09*: 🔥"ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data" released on [Project Page](https://github.com/OpenGVLab/ScaleCUA) [Paper Link](https://arxiv.org/pdf/2509.15221)
 - *2025.09*: 🎉 Three papers are accepted by NeurIPS 2025
 - *2025.09*: 🔥"A Survey of Reinforcement Learning for Large Reasoning Models" released on [Paper Link](https://arxiv.org/pdf/2509.08827) 
-- *2025.08*: 🔥"InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency" released on [Project Page](https://github.com/OpenGVLab/InternVL) 
+- *2025.08*: 🔥"InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency" released on [Project Page](https://github.com/OpenGVLab/InternVL) [Paper Link](https://arxiv.org/pdf/2508.18265)
 - *2025.08*: 🎉 One   paper  is accepted by EMNLP 2025
 - *2025.08*: 🔥"SDAR (Synergy of Diffusion and AutoRegression), a large diffusion language model（1.7B, 4B, 8B, 30B）" released on [Project Page](https://github.com/JetAstra/SDAR) [Paper Link](https://arxiv.org/pdf/2510.06303)
 - *2025.07*: 🎉 One   paper  is accepted by ACM MM 2025

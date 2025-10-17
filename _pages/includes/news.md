@@ -4,7 +4,7 @@
 - *2025.09*: 🔥"A Survey of Reinforcement Learning for Large Reasoning Models" released on [Paper Link](https://arxiv.org/pdf/2509.08827) 
 - *2025.08*: 🔥"InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency" released on [Project Page](https://github.com/OpenGVLab/InternVL) 
 - *2025.08*: 🎉 One   paper  is accepted by EMNLP 2025
-- *2025.08*: 🔥"SDAR (Synergy of Diffusion and AutoRegression), a large diffusion language model（1.7B, 4B, 8B, 30B）" released on [Project Page](https://github.com/JetAstra/SDAR) 
+- *2025.08*: 🔥"SDAR (Synergy of Diffusion and AutoRegression), a large diffusion language model（1.7B, 4B, 8B, 30B）" released on [Project Page](https://github.com/JetAstra/SDAR) [Paper Link](https://arxiv.org/pdf/2510.06303)
 - *2025.07*: 🎉 One   paper  is accepted by ACM MM 2025
 - *2025.06*: 🔥"MARTI: A Framework for LLM-based Multi-Agent Reinforced Training and Inference" released on [Project Page](https://github.com/TsinghuaC3I/MARTI) 
 - *2025.06*: 🔥"Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows" released on [Project Page](https://qiushisun.github.io/ScienceBoard-Home/)

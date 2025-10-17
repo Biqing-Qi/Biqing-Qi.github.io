@@ -36,13 +36,15 @@
 ``Technical Report`` ``Hybrid Diffusion Language Models`` [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/pdf/2510.06303), Shuang Cheng, Yihan Bian, Dawei Liu, Yuhua Jiang, Yihao Liu, Linfeng Zhang, Wenhai Wang, Qipeng Guo, Kai Chen, **Biqing Qi\***, Bowen Zhou [![](https://img.shields.io/github/stars/JetAstra/SDAR?style=social&label=Code+Stars)](https://github.com/JetAstra/SDAR)
 </div>
 </div>
+  
+- ``Technical Report`` ``Multimodal Large Language Models`` [InternVL3. 5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoyang Liu, Linglin Jing, Shenglong Ye, Jie Shao, Zhaokai Wang, Zhe Chen, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.
 
 - ``Arxiv`` ``Diffusion Language Models`` [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/pdf/2510.09309), Jianuo Huang, Yaojie Zhang, Yicun Yang, Benhao Huang, Biqing Qi, Dongrui Liu, Linfeng Zhang
 
 - ``Arxiv`` ``Diffusion Language Models`` [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/pdf/2510.04147), Yifeng Gao, Ziang Ji, Yuxuan Wang, **Biqing Qi**, Hanlin Xu, Linfeng Zhang
 - ``Arxiv`` ``Diffusion Language Models`` [Sequential Diffusion Language Models](https://arxiv.org/pdf/2509.24007), Yangzhou Liu, Yue Cao, Hao Li, Gen Luo, Zhe Chen, Weiyun Wang, Xiaobo Liang, **Biqing Qi**, Lijun Wu, Changyao Tian, Yanting Zhang, Yuqiang Li, Tong Lu, Yu Qiao, Jifeng Dai, Wenhai Wang
 - - ``Arxiv`` ``Diffusion Language Models`` [Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs](https://arxiv.org/pdf/2508.10736), Xiangqi Jin, Yuxuan Wang, Yifeng Gao, Zichen Wen, **Biqing Qi**, Dongrui Liu, Linfeng Zhang
-- ``Technical Report`` ``Multimodal Large Language Models`` [InternVL3. 5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoyang Liu, Linglin Jing, Shenglong Ye, Jie Shao, Zhaokai Wang, Zhe Chen, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.
+
 - ``TCSVT 2025`` ``Continual Learning`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
 - ``NeurIPS 2024`` ``Countinual Learning`` [An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2411.06659), Dong Li, Aijia Zhang, Junqi Gao, **Biqing Qi**†.
 - ``NAACL 2024`` ``Reasoning`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou.
@@ -59,7 +61,14 @@
 
 ## 🌱  Multi-Agents Systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/modelmerge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MARTI: A framework for multi-agent llm systems reinforced training and inference</div><img src='images/marti.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+``Technical Report`` ``Multi Agent Systems`` [Marti: A framework for multi-agent llm systems reinforced training and inference](https://arxiv.org/pdf/2510.06303), Kaiyan Zhang, Runze Liu, Xuekai Zhu, Kai Tian, Sihang Zeng, Guoli Jia, Yuchen Fan, Xingtai Lv, Yuxin Zuo, Che Jiang, Ziyang Liu, Jianyu Wang, Yuru Wang, Ruotong Zhao, Ermo Hua, Yibo Wang, Shijie Wang, Junqi Gao, Xinwei Long, Youbang Sun, Zhiyuan Ma, Ganqu Cui, Lei Bai, Ning Ding, **Biqing Qi**†, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/MARTI?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/MARTI)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Less is More: Efficient Model Merging with Binary Task Switch</div><img src='images/modelmerge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - ``CVPR 2025 `` ``Model Merging`` <span style="color:red">(Highlight)</span> [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054), **Biqing Qi**, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou.
@@ -74,6 +83,9 @@
 - ``ACL 2025`` ``Test Time Scaling`` [Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning](https://arxiv.org/pdf/2506.03939), Junqi Gao, Xiang Zou, Ying Ai, Dong Li, Yichen Niu, **Biqing Qi**†, Jianxing Liu.
 
 ## 👄 Applications 
+
+
+- ``COLM 2024``  ``Scientific Discovery`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou.
 
 - ``COLM 2024``  ``Scientific Discovery`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou.
 - ``Instruct Following@NeurIPS 2023``  ``Scientific Discovery`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou.

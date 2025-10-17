@@ -7,7 +7,7 @@
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
     <div>
-      <div class="badge">上海人工智能实验室主任周伯文: 通专融合是实现AGI的战略路径之一</div>
+      <div class="badge"></div>
       <img src='images/SGI-boom.png' alt="sym" width="100%">
     </div>
   </div>
@@ -75,7 +75,7 @@
 
 ## 🌱  Multi-Agents Systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Framework for multi-agent llm systems reinforced training and inference</div><img src='images/marti.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MARTI</div><img src='images/marti.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ``Technical Report`` ``Multi Agent Systems`` [Marti: A framework for multi-agent llm systems reinforced training and inference](https://arxiv.org/pdf/2510.06303), Kaiyan Zhang, Runze Liu, Xuekai Zhu, Kai Tian, Sihang Zeng, Guoli Jia, Yuchen Fan, Xingtai Lv, Yuxin Zuo, Che Jiang, Ziyang Liu, Jianyu Wang, Yuru Wang, Ruotong Zhao, Ermo Hua, Yibo Wang, Shijie Wang, Junqi Gao, Xinwei Long, Youbang Sun, Zhiyuan Ma, Ganqu Cui, Lei Bai, Ning Ding, **Biqing Qi**†, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/MARTI?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/MARTI)

@@ -36,7 +36,9 @@
   - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).
   - An advanced continual learning framework with the novel structured **key-value pairs memory unit**.
   - A potential framework to develop **Specialized Generalist** AI.
-    
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SDAR (Synergy of Diffusion and AutoRegression)</div><img src='images/sdar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

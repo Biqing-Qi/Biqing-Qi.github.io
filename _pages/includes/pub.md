@@ -18,7 +18,7 @@
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
     <div>
-      <div class="badge">A Survey of Reinforcement Learning for Large Reasoning Models</div>
+      <div class="badge"></div>
       <img src='images/rlsurvey.png' alt="sym" width="100%">
     </div>
   </div>
@@ -93,8 +93,6 @@
 
 ## 👄 Applications 
 
-
-- ``COLM 2024``  ``Scientific Discovery`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou.
 
 - ``COLM 2024``  ``Scientific Discovery`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou.
 - ``Instruct Following@NeurIPS 2023``  ``Scientific Discovery`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou.

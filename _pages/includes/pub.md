@@ -15,7 +15,16 @@
 
 - ``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
 
-- ``Arxiv`` ``Survey Paper`` [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2407.08642), Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, Yuchen Fan, Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, **Biqing Qi\***, Ning Ding, Bowen Zhou
+<div class='paper-box'>
+  <div class='paper-box-images' style="display: flex; justify-content: center;">
+    <div>
+      <div class="badge">A Survey of Reinforcement Learning for Large Reasoning Models</div>
+      <img src='images/rlsurvey.png' alt="sym" width="100%">
+    </div>
+  </div>
+</div>
+
+- ``Arxiv`` ``Survey Paper`` [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2407.08642), Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, Yuchen Fan, Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, **Biqing Qi**†, Ning Ding, Bowen Zhou
   
 ## 🎙 Foundation Models 
 
@@ -33,7 +42,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SDAR (Synergy of Diffusion and AutoRegression)</div><img src='images/sdar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-``Technical Report`` ``Hybrid Diffusion Language Models`` [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/pdf/2510.06303), Shuang Cheng, Yihan Bian, Dawei Liu, Yuhua Jiang, Yihao Liu, Linfeng Zhang, Wenhai Wang, Qipeng Guo, Kai Chen, **Biqing Qi\***, Bowen Zhou [![](https://img.shields.io/github/stars/JetAstra/SDAR?style=social&label=Code+Stars)](https://github.com/JetAstra/SDAR)
+``Technical Report`` ``Hybrid Diffusion Language Models`` [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/pdf/2510.06303), Shuang Cheng, Yihan Bian, Dawei Liu, Yuhua Jiang, Yihao Liu, Linfeng Zhang, Wenhai Wang, Qipeng Guo, Kai Chen, **Biqing Qi**†, Bowen Zhou [![](https://img.shields.io/github/stars/JetAstra/SDAR?style=social&label=Code+Stars)](https://github.com/JetAstra/SDAR)
   - Low-Cost AR-to-BlockDiffusion
   - 2-4× Faster Inference
   - Advanced performance on science reasoning bechmarks (e.g., GPQA and ChemBench)

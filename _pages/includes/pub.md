@@ -3,12 +3,6 @@
 - Notes:（*）indicates the equal contributions and（†）indicates the corresponding author.
 
 ## 🎙 Survey & Position Papers
-- ``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
-- ``Arxiv`` ``Survey Paper`` [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2407.08642), Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, Yuchen Fan, Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, **Biqing Qi\***, Ning Ding, Bowen Zhou
-- ``Arxiv`` ``Survey Paper`` [A Survey of Inductive Reasoning for Large Language Models](https://arxiv.org/pdf/2510.10182), Kedi Chen, Dezhao Ruan, Yuhao Dan, Yaoting Wang, Siyu Yan, Xuecheng Wu, Yinqi Zhang, Qin Chen, Jie Zhou, Liang He, Biqing Qi, Linyang Li, Qipeng Guo, Xiaoming Shi, Wei Zhang
-  
-## 🎙 Foundation Models 
-
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
     <div>
@@ -17,15 +11,11 @@
     </div>
   </div>
 </div>
-
-<div class='paper-box'>
-  <div class='paper-box-images' style="display: flex; justify-content: center;">
-    <div>
-      <div class="badge">世界人工智能大会报道: Interactive Continual Learning框架是实现通专融合的路径之一</div>
-      <img src='images/shanghaiailab Interactive Continual learning.png' alt="sym" width="100%">
-    </div>
-  </div>
-</div>
+- ``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
+- ``Arxiv`` ``Survey Paper`` [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2407.08642), Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, Yuchen Fan, Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, **Biqing Qi\***, Ning Ding, Bowen Zhou
+- ``Arxiv`` ``Survey Paper`` [A Survey of Inductive Reasoning for Large Language Models](https://arxiv.org/pdf/2510.10182), Kedi Chen, Dezhao Ruan, Yuhao Dan, Yaoting Wang, Siyu Yan, Xuecheng Wu, Yinqi Zhang, Qin Chen, Jie Zhou, Liang He, Biqing Qi, Linyang Li, Qipeng Guo, Xiaoming Shi, Wei Zhang
+  
+## 🎙 Foundation Models 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,6 +37,8 @@
 
 - ``Arxiv`` ``Diffusion Language Models`` [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/pdf/2510.09309), Jianuo Huang, Yaojie Zhang, Yicun Yang, Benhao Huang, Biqing Qi, Dongrui Liu, Linfeng Zhang
 
+- ``Arxiv`` ``Diffusion Language Models`` [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/pdf/2510.04147), Yifeng Gao, Ziang Ji, Yuxuan Wang, **Biqing Qi**, Hanlin Xu, Linfeng Zhang
+- ``Arxiv`` ``Diffusion Language Models`` [Sequential Diffusion Language Models](https://arxiv.org/pdf/2509.24007), Yangzhou Liu, Yue Cao, Hao Li, Gen Luo, Zhe Chen, Weiyun Wang, Xiaobo Liang, **Biqing Qi**, Lijun Wu, Changyao Tian, Yanting Zhang, Yuqiang Li, Tong Lu, Yu Qiao, Jifeng Dai, Wenhai Wang
 - ``Technical Report`` ``Multimodal Large Language Models`` [InternVL3. 5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoyang Liu, Linglin Jing, Shenglong Ye, Jie Shao, Zhaokai Wang, Zhe Chen, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.
 
 - ``TCSVT 2025`` ``Continual Learning`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
@@ -84,6 +76,8 @@
 - ``EMNLP 2025`` ``Scientific Discovery`` [ReviewRL: Towards Automated Scientific Review with RL](https://arxiv.org/pdf/2508.10308), Sihang Zeng, Kai Tian, Kaiyan Zhang, Yuru wang, Junqi Gao, Runze Liu, Sa Yang, Jingxuan Li, Xinwei Long, Jiaheng Ma, **Biqing Qi**†, Bowen Zhou.
 - ``Arxiv`` ``GUI Agents`` ``Scientific Discovery`` [Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows](https://arxiv.org/pdf/2505.19897) Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, **Biqing Qi**, Lingpeng Kong, Zhiyong Wu.
 - ``Arxiv`` ``GUI Agents`` [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://arxiv.org/pdf/2507.19132?), Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun,  **Biqing Qi**†, Bowen Zhou.
+- ``Arxiv`` ``Gui Agents`` [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](https://arxiv.org/pdf/2509.15221), Zhaoyang Liu, JingJing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Zeyue Tian, Gen Luo, Xiangyu Yue, **Biqing Qi**, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang.
+  
 
 
 

@@ -4,6 +4,7 @@
 
 ## 🎙 Survey & Position Papers
 - ``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
+- 
 - ``Arxiv`` ``Survey Paper`` [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2407.08642), Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, Yuchen Fan, Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, **Biqing Qi\***, Ning Ding, Bowen Zhou
 - ``Arxiv`` ``Survey Paper`` [A Survey of Inductive Reasoning for Large Language Models](https://arxiv.org/pdf/2510.10182), Kedi Chen, Dezhao Ruan, Yuhao Dan, Yaoting Wang, Siyu Yan, Xuecheng Wu, Yinqi Zhang, Qin Chen, Jie Zhou, Liang He, Biqing Qi, Linyang Li, Qipeng Guo, Xiaoming Shi, Wei Zhang
   
@@ -27,22 +28,21 @@
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/sdar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+``CVPR 2024`` ``Continual Learning`` ``Cognition-Inspired`` [Interactive continual learning: Fast and slow thinking](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Interactive_Continual_Learning_Fast_and_Slow_Thinking_CVPR_2024_paper.pdf), **Biqing Qi**, Xinquan Chen, Junqi Gao, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou, [![](https://img.shields.io/github/stars/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking?style=social&label=Code+Stars)](https://github.com/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking)
+  - This work was the first to propose the concept of **interactive continual learning**.
+  - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).
+  - An advanced continual learning framework with the novel structured **key-value pairs memory unit**.
+  - A potential framework to develop **Specialized Generalist** AI.
+    
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SDAR (Synergy of Diffusion and AutoRegression)</div><img src='images/sdar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ``Technical Report`` ``Hybrid Diffusion Language Models`` [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/pdf/2510.06303), Shuang Cheng, Yihan Bian, Dawei Liu, Yuhua Jiang, Yihao Liu, Linfeng Zhang, Wenhai Wang, Qipeng Guo, Kai Chen, **Biqing Qi\***, Bowen Zhou [![](https://img.shields.io/github/stars/JetAstra/SDAR?style=social&label=Code+Stars)](https://github.com/JetAstra/SDAR)
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interactive Continual Learning</div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-  ``CVPR 2024`` ``Continual Learning`` ``Cognition-Inspired`` [Interactive continual learning: Fast and slow thinking](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Interactive_Continual_Learning_Fast_and_Slow_Thinking_CVPR_2024_paper.pdf), **Biqing Qi**, Xinquan Chen, Junqi Gao, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou, [![](https://img.shields.io/github/stars/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking?style=social&label=Code+Stars)](https://github.com/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking)
-  - This work was the first to propose the concept of **interactive continual learning**.
-  - Instantiated through the Cognitive Complementarity Theory (**System1 and System2**).
-  - An advanced continual learning framework with the novel structured **key-value pairs memory unit**.
-  - A potential framework to develop **Specialized Generalist** AI.
-
 
 - ``TCSVT 2025`` ``Continual Learning`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
 - ``NeurIPS 2024`` ``Countinual Learning`` [An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2411.06659), Dong Li, Aijia Zhang, Junqi Gao, **Biqing Qi**†.

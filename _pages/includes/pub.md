@@ -9,6 +9,10 @@
 <div class='paper-box-text' markdown="1">
   
 ``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 </div>
 </div>
 

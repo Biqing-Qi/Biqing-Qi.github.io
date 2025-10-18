@@ -51,7 +51,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ift.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- ``ACL 2025`` ``Alignment`` <span style="color:red">(Oral)</span>  [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.
+``ACL 2025`` ``Alignment`` <span style="color:red">(Oral)</span>  [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.
 </div>
 </div>
 
@@ -59,7 +59,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ttrl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``NeurIPS 2025`` ``Reasoning`` ``Reinforcement Learning`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou.
+``NeurIPS 2025`` ``Reasoning`` ``Reinforcement Learning`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou.
 </div>
 </div>
 
@@ -68,7 +68,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fewshot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``TCSVT 2025`` ``Continual Learning`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
+``TCSVT 2025`` ``Continual Learning`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
 </div>
 </div>
 
@@ -77,7 +77,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fope.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- ``ICML 2025`` ``Position Embedding`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**†, Yuchen Fan, Xue Kai Zhu, Bowen Zhou.
+``ICML 2025`` ``Position Embedding`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**†, Yuchen Fan, Xue Kai Zhu, Bowen Zhou.
 </div>
 </div>
 
@@ -117,7 +117,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/bohdi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``NeurIPS 2025`` ``Model Merging`` [Bohdi: Heterogeneous LLM Fusion with Automatic Data Exploration](https://arxiv.org/pdf/2506.15721), Junqi Gao, Zhichang Guo, Dazhi Zhang, Dong Li, Runze Liu, Pengfei Li, Kai Tian, **Biqing Qi**†.
+``NeurIPS 2025`` ``Model Merging`` [Bohdi: Heterogeneous LLM Fusion with Automatic Data Exploration](https://arxiv.org/pdf/2506.15721), Junqi Gao, Zhichang Guo, Dazhi Zhang, Dong Li, Runze Liu, Pengfei Li, Kai Tian, **Biqing Qi**†.
 </div>
 </div>
 
@@ -125,21 +125,21 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/1b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``Arxiv`` ``Test Time Scaling`` [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703), Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, **Biqing Qi**†, Wanli Ouyang and Bowen Zhou.
+``Arxiv`` ``Test Time Scaling`` [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703), Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, **Biqing Qi**†, Wanli Ouyang and Bowen Zhou.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/gemprm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``Arxiv`` ``Test Time Scaling`` [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/pdf/2504.00891), Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, Jiafei Lyu, Zhouyi Qian, **Biqing Qi**†, Xiu Li, Bowen Zhou.
+``Arxiv`` ``Test Time Scaling`` [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/pdf/2504.00891), Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, Jiafei Lyu, Zhouyi Qian, **Biqing Qi**†, Xiu Li, Bowen Zhou.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/graphcounselor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``ACL 2025`` ``Test Time Scaling`` [Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning](https://arxiv.org/pdf/2506.03939), Junqi Gao, Xiang Zou, Ying Ai, Dong Li, Yichen Niu, **Biqing Qi**†, Jianxing Liu.
+``ACL 2025`` ``Test Time Scaling`` [Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning](https://arxiv.org/pdf/2506.03939), Junqi Gao, Xiang Zou, Ying Ai, Dong Li, Yichen Niu, **Biqing Qi**†, Jianxing Liu.
 </div>
 </div>
 

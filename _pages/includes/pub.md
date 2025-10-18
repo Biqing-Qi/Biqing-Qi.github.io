@@ -90,6 +90,24 @@
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge"></div>
+      <img src='images/modelmerge.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' style="margin-top: 0; padding-top: 0;">
+    <p style="margin: 0; padding: 0;">
+      <strong>CVPR 2025</strong> <strong>Model Merging</strong> <span style="color:red">(Highlight)</span> 
+      <br>
+      <a href="https://arxiv.org/pdf/2412.00054">Less is More: Efficient Model Merging with Binary Task Switch</a>, 
+      <br>
+      <strong>Biqing Qi</strong>, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou.
+    </p>
+  </div>
+</div>
+
 - ``NeurIPS 2025`` ``Model Merging`` [Bohdi: Heterogeneous LLM Fusion with Automatic Data Exploration](https://arxiv.org/pdf/2506.15721), Junqi Gao, Zhichang Guo, Dazhi Zhang, Dong Li, Runze Liu, Pengfei Li, Kai Tian, **Biqing Qi**†.
 - ``Arxiv`` ``Test Time Scaling`` [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703), Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, **Biqing Qi**†, Wanli Ouyang and Bowen Zhou.
 

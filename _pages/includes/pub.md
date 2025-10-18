@@ -13,7 +13,7 @@
   </div>
 </div>
 
-- ``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
+``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
   
 <div class='paper-box'>
   <div class='paper-box-images' style="display: flex; justify-content: center;">
@@ -24,7 +24,7 @@
   </div>
 </div>
 
-- ``Arxiv`` ``Survey Paper`` [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2407.08642), Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, Yuchen Fan, Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, **Biqing Qi**†, Ning Ding, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/Awesome-RL-for-LRMs?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
+``Arxiv`` ``Survey Paper`` [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2407.08642), Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, Yuchen Fan, Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, **Biqing Qi**†, Ning Ding, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/Awesome-RL-for-LRMs?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
 
   
 ## 🎙 Foundation Models 
@@ -76,7 +76,7 @@
 
 ## 🌱  Multi-Agents Systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MARTI</div><img src='images/marti.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/marti.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ``Technical Report`` ``Multi Agent Systems`` [Marti: A framework for multi-agent llm systems reinforced training and inference](https://arxiv.org/pdf/2510.06303), Kaiyan Zhang, Runze Liu, Xuekai Zhu, Kai Tian, Sihang Zeng, Guoli Jia, Yuchen Fan, Xingtai Lv, Yuxin Zuo, Che Jiang, Ziyang Liu, Jianyu Wang, Yuru Wang, Ruotong Zhao, Ermo Hua, Yibo Wang, Shijie Wang, Junqi Gao, Xinwei Long, Youbang Sun, Zhiyuan Ma, Ganqu Cui, Lei Bai, Ning Ding, **Biqing Qi**†, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/MARTI?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/MARTI)
@@ -85,31 +85,31 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/modelmerge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-- ``CVPR 2025 `` ``Model Merging`` <span style="color:red">(Highlight)</span> [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054), **Biqing Qi**, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou.
+
+``CVPR 2025 `` ``Model Merging`` <span style="color:red">(Highlight)</span> [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054), **Biqing Qi**, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou.
 </div>
 </div>
 
-- ``Arxiv`` ``Model Merging`` [Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform](https://arxiv.org/pdf/2503.06676?), Chenyu Huang, Peng Ye, Xiaohui Wang, Shenghe Zheng, **Biqing Qi**, Lei Bai, Wanli Ouyang, Tao Chen.
 - ``NeurIPS 2025`` ``Model Merging`` [Bohdi: Heterogeneous LLM Fusion with Automatic Data Exploration](https://arxiv.org/pdf/2506.15721), Junqi Gao, Zhichang Guo, Dazhi Zhang, Dong Li, Runze Liu, Pengfei Li, Kai Tian, **Biqing Qi**†.
 - ``Arxiv`` ``Test Time Scaling`` [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703), Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, **Biqing Qi**†, Wanli Ouyang and Bowen Zhou.
-- ``ICLR 2025`` ``Test Time Scaling`` [OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees](https://openreview.net/pdf?id=fGIqGfmgkW), Kaiyan Zhang, Jiayuan Zhang, Haoxin Li, Xuekai Zhu, Ermo Hua, Xingtai Lv, Ning Ding, **Biqing Qi**, Bowen Zhou.
+
 - ``Arxiv`` ``Test Time Scaling`` [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/pdf/2504.00891), Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, Jiafei Lyu, Zhouyi Qian, **Biqing Qi**†, Xiu Li, Bowen Zhou.
 - ``ACL 2025`` ``Test Time Scaling`` [Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning](https://arxiv.org/pdf/2506.03939), Junqi Gao, Xiang Zou, Ying Ai, Dong Li, Yichen Niu, **Biqing Qi**†, Jianxing Liu.
-
+- ``ICLR 2025`` ``Test Time Scaling`` [OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees](https://openreview.net/pdf?id=fGIqGfmgkW), Kaiyan Zhang, Jiayuan Zhang, Haoxin Li, Xuekai Zhu, Ermo Hua, Xingtai Lv, Ning Ding, **Biqing Qi**, Bowen Zhou.
+  
 ## 👄 Applications 
-
 
 - ``COLM 2024``  ``Scientific Discovery`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou.
 - ``Instruct Following@NeurIPS 2023``  ``Scientific Discovery`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou.
+- ``Arxiv`` ``Gui Agents`` [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](https://arxiv.org/pdf/2509.15221), Zhaoyang Liu, JingJing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Zeyue Tian, Gen Luo, Xiangyu Yue, **Biqing Qi**, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang.
+- ``Arxiv`` ``GUI Agents`` ``Scientific Discovery`` [Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows](https://arxiv.org/pdf/2505.19897) Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, **Biqing Qi**, Lingpeng Kong, Zhiyong Wu.
 - ``NeurIPS 2024 D&B Track`` ``Scientific Discovery`` <span style="color:red">(Spotlight)</span> [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical).
 - ``ACL 2025`` ``Scientific Discovery`` [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.09403), Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, **Biqing Qi**, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong.
 - ``Arxiv`` ``Scientific Discovery`` [SpectrumWorld: Artificial Intelligence Foundation for Spectroscopy](https://arxiv.org/pdf/2508.01188), Zhuo Yang, Jiaqing Xie, Shuaike Shen, Daolang Wang, Yeyun Chen, Ben Gao, Shuzhou Sun, **Biqing Qi**, Dongzhan Zhou, Lei Bai, Linjiang Chen, Shufei Zhang, Jun Jiang, Tianfan Fu, Yuqiang Li.
 - ``EMNLP 2024`` ``Embodied Agents`` [MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making](https://arxiv.org/pdf/2409.16686), Dayuan Fu\*, **Biqing Qi**†, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou.
 - ``EMNLP 2025`` ``Scientific Discovery`` [ReviewRL: Towards Automated Scientific Review with RL](https://arxiv.org/pdf/2508.10308), Sihang Zeng, Kai Tian, Kaiyan Zhang, Yuru wang, Junqi Gao, Runze Liu, Sa Yang, Jingxuan Li, Xinwei Long, Jiaheng Ma, **Biqing Qi**†, Bowen Zhou.
-- ``Arxiv`` ``GUI Agents`` ``Scientific Discovery`` [Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows](https://arxiv.org/pdf/2505.19897) Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, **Biqing Qi**, Lingpeng Kong, Zhiyong Wu.
 - ``Arxiv`` ``GUI Agents`` [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://arxiv.org/pdf/2507.19132?), Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun,  **Biqing Qi**†, Bowen Zhou.
-- ``Arxiv`` ``Gui Agents`` [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](https://arxiv.org/pdf/2509.15221), Zhaoyang Liu, JingJing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Zeyue Tian, Gen Luo, Xiangyu Yue, **Biqing Qi**, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang.
+
   
 
 

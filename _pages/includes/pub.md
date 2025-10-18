@@ -20,14 +20,14 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">InternVL3.5</div><img src='images/internvl35.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/internvl35.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ``Technical Report`` ``Multimodal Large Language Models`` [InternVL3. 5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoyang Liu, Linglin Jing, Shenglong Ye, Jie Shao, Zhaokai Wang, Zhe Chen, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.[![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SDAR</div><img src='images/sdar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sdar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ``Technical Report`` ``Hybrid Diffusion Language Models`` [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/pdf/2510.06303), Shuang Cheng, Yihan Bian, Dawei Liu, Yuhua Jiang, Yihao Liu, Linfeng Zhang, Wenhai Wang, Qipeng Guo, Kai Chen, **Biqing Qi**†, Bowen Zhou [![](https://img.shields.io/github/stars/JetAstra/SDAR?style=social&label=Code+Stars)](https://github.com/JetAstra/SDAR)
@@ -37,7 +37,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICL</div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ``CVPR 2024`` ``Continual Learning`` ``Cognition-Inspired`` [Interactive continual learning: Fast and slow thinking](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Interactive_Continual_Learning_Fast_and_Slow_Thinking_CVPR_2024_paper.pdf), **Biqing Qi**, Xinquan Chen, Junqi Gao, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou, [![](https://img.shields.io/github/stars/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking?style=social&label=Code+Stars)](https://github.com/Biqing-Qi/Interactive-continual-Learning-Fast-and-Slow-Thinking)
@@ -48,7 +48,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IFT</div><img src='images/ift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ift.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - ``ACL 2025`` ``Alignment`` <span style="color:red">(Oral)</span>  [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.

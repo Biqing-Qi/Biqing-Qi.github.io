@@ -75,29 +75,24 @@
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge"></div>
+      <img src='images/marti.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' style="display: flex; align-items: flex-start;" markdown="1">
+
+``Technical Report`` ``Multi Agent Systems`` [Marti: A framework for multi-agent llm systems reinforced training and inference](https://arxiv.org/pdf/2510.06303), Kaiyan Zhang, Runze Liu, Xuekai Zhu, Kai Tian, Sihang Zeng, Guoli Jia, Yuchen Fan, Xingtai Lv, Yuxin Zuo, Che Jiang, Ziyang Liu, Jianyu Wang, Yuru Wang, Ruotong Zhao, Ermo Hua, Yibo Wang, Shijie Wang, Junqi Gao, Xinwei Long, Youbang Sun, Zhiyuan Ma, Ganqu Cui, Lei Bai, Ning Ding, **Biqing Qi**†, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/MARTI?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/MARTI)
+  </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/modelmerge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ``CVPR 2025 `` ``Model Merging`` <span style="color:red">(Highlight)</span> [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054), **Biqing Qi**, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou.
 </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge"></div>
-      <img src='images/modelmerge.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' style="margin-top: 0; padding-top: 0;">
-    <p style="margin: 0; padding: 0;">
-      <strong>CVPR 2025</strong> <strong>Model Merging</strong> <span style="color:red">(Highlight)</span> 
-      <br>
-      <a href="https://arxiv.org/pdf/2412.00054">Less is More: Efficient Model Merging with Binary Task Switch</a>, 
-      <br>
-      <strong>Biqing Qi</strong>, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou.
-    </p>
-  </div>
 </div>
 
 - ``NeurIPS 2025`` ``Model Merging`` [Bohdi: Heterogeneous LLM Fusion with Automatic Data Exploration](https://arxiv.org/pdf/2506.15721), Junqi Gao, Zhichang Guo, Dazhi Zhang, Dong Li, Runze Liu, Pengfei Li, Kai Tian, **Biqing Qi**†.

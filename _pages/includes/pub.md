@@ -20,7 +20,6 @@
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">InternVL3.5</div><img src='images/internvl35.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -49,20 +48,50 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IFT</div><img src='images/ift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- ``ACL 2025`` ``Alignment`` <span style="color:red">(Oral)</span>  [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ttrl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- ``NeurIPS 2025`` ``Reasoning`` ``Reinforcement Learning`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fewshot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- ``TCSVT 2025`` ``Continual Learning`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fope.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- ``ICML 2025`` ``Position Embedding`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**†, Yuchen Fan, Xue Kai Zhu, Bowen Zhou.
+</div>
+</div>
+
 - ``Arxiv`` ``Diffusion Language Models`` [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/pdf/2510.09309), Jianuo Huang, Yaojie Zhang, Yicun Yang, Benhao Huang, **Biqing Qi**, Dongrui Liu, Linfeng Zhang
 - ``Arxiv`` ``Diffusion Language Models`` [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/pdf/2510.04147), Yifeng Gao, Ziang Ji, Yuxuan Wang, **Biqing Qi**, Hanlin Xu, Linfeng Zhang
 - ``Arxiv`` ``Diffusion Language Models`` [Sequential Diffusion Language Models](https://arxiv.org/pdf/2509.24007), Yangzhou Liu, Yue Cao, Hao Li, Gen Luo, Zhe Chen, Weiyun Wang, Xiaobo Liang, **Biqing Qi**, Lijun Wu, Changyao Tian, Yanting Zhang, Yuqiang Li, Tong Lu, Yu Qiao, Jifeng Dai, Wenhai Wang
 - ``Arxiv`` ``Diffusion Language Models`` [Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs](https://arxiv.org/pdf/2508.10736), Xiangqi Jin, Yuxuan Wang, Yifeng Gao, Zichen Wen, **Biqing Qi**, Dongrui Liu, Linfeng Zhang
-- ``TCSVT 2025`` ``Continual Learning`` [Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning](https://arxiv.org/pdf/2403.04140), **Biqing Qi**, Junqi Gao, Xingquan Chen, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
+
 - ``NeurIPS 2024`` ``Countinual Learning`` [An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2411.06659), Dong Li, Aijia Zhang, Junqi Gao, **Biqing Qi**†.
 - ``NAACL 2024`` ``Reasoning`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou.
-- ``NeurIPS 2025`` ``Reasoning`` ``Reinforcement Learning`` [TTRL: Test-time reinforcement learning](https://arxiv.org/pdf/2504.16084), Yuxin Zuo, Kaiyan Zhang, Shang Qu, Li Sheng, Xuekai Zhu, **Biqing Qi**, Youbang Sun, Ganqu Cui, Ning Ding, Bowen Zhou.
-- ``ACL 2025`` ``Alignment`` <span style="color:red">(Oral)</span>  [Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process](https://arxiv.org/pdf/2405.11870), Eermo Hua, **Biqing Qi**†, Kaiyan Zhang, Yue Yu, Ning Ding, Xintai Lv, Kai Tian, Bowen Zhou.
 - ``Arxiv`` ``Alignment`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou.
 - ``ACL 2024 (Findings)`` ``Model Architecture`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
 - ``EMNLP 2024 (Findings)`` ``Model Architecture`` [On the token distance modeling ability of higher RoPE attention dimension](https://arxiv.org/pdf/2410.08703), Xiangyu Hong, Che Jiang, **Biqing Qi**†, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.
 - ``NeurIPS 2024`` ``Model Architecture`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou.
-- ``ICML 2025`` ``Position Embedding`` [Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization](https://arxiv.org/pdf/2412.17739?), Ermo Hua, Che Jiang, Xingtai Lv, Kaiyan Zhang, Ning Ding, Youbang Sun, **Biqing Qi**†, Yuchen Fan, Xue Kai Zhu, Bowen Zhou.
 - ``ACM MM 2025`` ``Sturctured Memory`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](https://arxiv.org/pdf/2508.01680), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu.
 - ``AAAI 2025`` ``Optimizer`` <span style="color:red">(Oral)</span> [Fast and Slow Gradient Approximation for Binary Neural Network Optimization](https://arxiv.org/pdf/2412.11777), Xinquan Chen, Junqi Gao, **Biqing Qi**†, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li. 
 

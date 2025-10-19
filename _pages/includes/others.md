@@ -20,8 +20,8 @@
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Dong Li, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Nuanqiao Shan, 1st-yr Ph.D. candidate, Zhejiang University.
-- Kaifeng Liu, 2025.1-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof.Weinan Zhang）
-- Xinyi Wang, 2025.1-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof.Weinan Zhang）
+- Kaifeng Liu, 2025.1-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof. Weinan Zhang）
+- Xinyi Wang, 2025.1-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof. Weinan Zhang）
 - Haozhen Hou, 2025.9-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof. Ting Liu）
 - Lixuan Su, 2025.9-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof. Ligang Wu）
 

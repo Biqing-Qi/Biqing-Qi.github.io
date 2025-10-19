@@ -20,10 +20,6 @@
 - Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Dong Li, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
 - Nuanqiao Shan, 1st-yr Ph.D. candidate, Zhejiang University.
-- Kaifeng Liu, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof. Weinan Zhang）
-- Xinyi Wang, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof. Weinan Zhang）
-- Haozhen Hou, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof. Ting Liu）
-- Lixuan Su, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison, with Prof. Ligang Wu）
 
 #### Alumni Interns and Visiting Students
 - Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.

@@ -153,6 +153,17 @@
 </div>
 </div>
 
+- ``ACL 2025`` ``Scientific Discovery`` [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.09403), Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, **Biqing Qi**, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ReviewRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- ``EMNLP 2025`` ``Scientific Discovery`` [ReviewRL: Towards Automated Scientific Review with RL](https://arxiv.org/pdf/2508.10308), Sihang Zeng, Kai Tian, Kaiyan Zhang, Yuru wang, Junqi Gao, Runze Liu, Sa Yang, Jingxuan Li, Xinwei Long, Jiaheng Ma, **Biqing Qi**†, Bowen Zhou.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scienceboard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -167,12 +178,32 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ultramedical.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- ``NeurIPS 2024 D&B Track`` ``Scientific Discovery`` <span style="color:red">(Spotlight)</span> [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical).
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scalecua.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ``Arxiv`` ``Gui Agents`` [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](https://arxiv.org/pdf/2509.15221), Zhaoyang Liu, JingJing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Zeyue Tian, Gen Luo, Xiangyu Yue, **Biqing Qi**, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/osmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+``Arxiv`` ``GUI Agents`` [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://arxiv.org/pdf/2507.19132?), Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun,  **Biqing Qi**†, Bowen Zhou.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/manyheads.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/clim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -188,18 +219,6 @@
 ``EMNLP 2024`` ``Embodied Agents`` [MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making](https://arxiv.org/pdf/2409.16686), Dayuan Fu\*, **Biqing Qi**†, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou.
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/osmap.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-``Arxiv`` ``GUI Agents`` [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://arxiv.org/pdf/2507.19132?), Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun,  **Biqing Qi**†, Bowen Zhou.
-</div>
-</div>
-
-- ``NeurIPS 2024 D&B Track`` ``Scientific Discovery`` <span style="color:red">(Spotlight)</span> [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical).
-- ``ACL 2025`` ``Scientific Discovery`` [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.09403), Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, **Biqing Qi**, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong.
-- ``EMNLP 2025`` ``Scientific Discovery`` [ReviewRL: Towards Automated Scientific Review with RL](https://arxiv.org/pdf/2508.10308), Sihang Zeng, Kai Tian, Kaiyan Zhang, Yuru wang, Junqi Gao, Runze Liu, Sa Yang, Jingxuan Li, Xinwei Long, Jiaheng Ma, **Biqing Qi**†, Bowen Zhou.
-
 
   
 

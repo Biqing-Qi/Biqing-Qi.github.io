@@ -184,7 +184,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ultramedical.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``NeurIPS 2024 D&B Track`` ``Scientific Discovery`` <span style="color:red">(Spotlight)</span> [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical).
+``NeurIPS 2024 D&B Track`` ``Scientific Discovery`` <span style="color:red">(Spotlight)</span> [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical).
 </div>
 </div>
 

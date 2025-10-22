@@ -73,7 +73,6 @@
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fope.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -142,7 +141,6 @@
 </div>
 </div>
 
-- ``ICLR 2025`` ``Test Time Scaling`` [OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees](https://openreview.net/pdf?id=fGIqGfmgkW), Kaiyan Zhang, Jiayuan Zhang, Haoxin Li, Xuekai Zhu, Ermo Hua, Xingtai Lv, Ning Ding, **Biqing Qi**, Bowen Zhou.
   
 ## 👄 Applications 
 

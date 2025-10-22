@@ -153,14 +153,17 @@
 </div>
 </div>
 
-- ``ACL 2025`` ``Scientific Discovery`` [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.09403), Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, **Biqing Qi**, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/manyheads.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+``ACL 2025`` ``Scientific Discovery`` [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.09403), Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, **Biqing Qi**, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ReviewRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``EMNLP 2025`` ``Scientific Discovery`` [ReviewRL: Towards Automated Scientific Review with RL](https://arxiv.org/pdf/2508.10308), Sihang Zeng, Kai Tian, Kaiyan Zhang, Yuru wang, Junqi Gao, Runze Liu, Sa Yang, Jingxuan Li, Xinwei Long, Jiaheng Ma, **Biqing Qi**†, Bowen Zhou.
+``EMNLP 2025`` ``Scientific Discovery`` [ReviewRL: Towards Automated Scientific Review with RL](https://arxiv.org/pdf/2508.10308), Sihang Zeng, Kai Tian, Kaiyan Zhang, Yuru wang, Junqi Gao, Runze Liu, Sa Yang, Jingxuan Li, Xinwei Long, Jiaheng Ma, **Biqing Qi**†, Bowen Zhou.
 </div>
 </div>
 
@@ -198,12 +201,6 @@
 ``Arxiv`` ``GUI Agents`` [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://arxiv.org/pdf/2507.19132?), Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun,  **Biqing Qi**†, Bowen Zhou.
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/manyheads.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/clim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

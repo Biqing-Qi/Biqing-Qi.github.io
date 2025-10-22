@@ -153,13 +153,6 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scalecua.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-``Arxiv`` ``Gui Agents`` [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](https://arxiv.org/pdf/2509.15221), Zhaoyang Liu, JingJing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Zeyue Tian, Gen Luo, Xiangyu Yue, **Biqing Qi**, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scienceboard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -174,10 +167,17 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scalecua.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+``Arxiv`` ``Gui Agents`` [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](https://arxiv.org/pdf/2509.15221), Zhaoyang Liu, JingJing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Zeyue Tian, Gen Luo, Xiangyu Yue, **Biqing Qi**, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/clim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-``EMNLP 2024`` ``Embodied Agents`` [CliMRS: Cooperative Large-Language-Model Drriven Hyterogeneous Multi-robot Systems], Siqi Song, Xuanbing Xie, Zonglin Li, Yuqiang Li, Shijie Wang, **Biqing Qi**†.
+``Arxiv`` ``Embodied Agents`` CliMRS: Cooperative Large-Language-Model Drriven Hyterogeneous Multi-robot Systems, Siqi Song, Xuanbing Xie, Zonglin Li, Yuqiang Li, Shijie Wang, **Biqing Qi**†.
 </div>
 </div>
 

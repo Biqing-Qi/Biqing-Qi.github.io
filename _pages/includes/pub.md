@@ -174,6 +174,26 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/spectrum.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+``Arxiv`` ``Scientific Discovery`` [MolSpectLLM: A Molecular Foundation Model Bridging Spectroscopy, Molecule Elucidation, and 3D Structure Generation](https://arxiv.org/pdf/2509.21861?), Shuaike Shen, Jiaqing Xie, Zhuo Yang, Antong Zhang, Shuzhou Sun, Ben Gao, Tianfan Fu,**Biqing Qi**†, Yuqiang Li.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/chem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+``Arxiv`` ``Scientific Discovery`` [Chem3DLLM: 3D Multimodal Large Language Models for Chemistry](https://arxiv.org/pdf/2508.10696), Lei Jiang, Shuzhou Sun, **Biqing Qi**, Yuchen Fu, Xiaohua Xu, Yuqiang Li, Dongzhan Zhou, Tianfan Fu.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/spectrumbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+``Arxiv`` ``Scientific Discovery`` [SpectrumWorld: Artificial Intelligence Foundation for Spectroscopy](https://arxiv.org/pdf/2508.01188), Zhuo Yang, Jiaqing Xie, Shuaike Shen, Daolang Wang, Yeyun Chen, Ben Gao, Shuzhou Sun, **Biqing Qi**, Dongzhan Zhou, Lei Bai, Linjiang Chen, Shufei Zhang, Jun Jiang, Tianfan Fu, Yuqiang Li.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ultramedical.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -16,14 +16,14 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/rlsurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-``Arxiv`` ``Survey Paper`` [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2407.08642), Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, Yuchen Fan, Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, **Biqing Qi**†, Ning Ding, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/Awesome-RL-for-LRMs?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
+``Arxiv`` ``Survey Paper`` [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2407.08642), Kaiyan Zhang, ..., Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, **Biqing Qi**†, Ning Ding, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/Awesome-RL-for-LRMs?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/internvl35.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-``Technical Report`` ``Multimodal Large Language Models`` [InternVL3. 5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoyang Liu, Linglin Jing, Shenglong Ye, Jie Shao, Zhaokai Wang, Zhe Chen, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.[![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL)
+``Technical Report`` ``Multimodal Large Language Models`` [InternVL3. 5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, ..., **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.[![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL)
 </div>
 </div>
 
@@ -100,7 +100,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/marti.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-``Technical Report`` ``Multi Agent Systems`` [Marti: A framework for multi-agent llm systems reinforced training and inference](https://arxiv.org/pdf/2510.06303), Kaiyan Zhang, Runze Liu, Xuekai Zhu, Kai Tian, Sihang Zeng, Guoli Jia, Yuchen Fan, Xingtai Lv, Yuxin Zuo, Che Jiang, Ziyang Liu, Jianyu Wang, Yuru Wang, Ruotong Zhao, Ermo Hua, Yibo Wang, Shijie Wang, Junqi Gao, Xinwei Long, Youbang Sun, Zhiyuan Ma, Ganqu Cui, Lei Bai, Ning Ding, **Biqing Qi**†, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/MARTI?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/MARTI)
+``Technical Report`` ``Multi Agent Systems`` [Marti: A framework for multi-agent llm systems reinforced training and inference](https://arxiv.org/pdf/2510.06303), Kaiyan Zhang, ..., Youbang Sun, Zhiyuan Ma, Ganqu Cui, Lei Bai, Ning Ding, **Biqing Qi**†, Bowen Zhou. [![](https://img.shields.io/github/stars/TsinghuaC3I/MARTI?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/MARTI)
 </div>
 </div>
 
@@ -109,7 +109,6 @@
 <div class='paper-box-text' markdown="1">
 
 ``CVPR 2025 `` ``Model Merging`` <span style="color:red">(Highlight)</span> [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054), **Biqing Qi**, Fangyuan Li, Zhen Wang, Junqi Gao, Dong Li, Peng Ye, Bowen Zhou.
-- **Abstarct**: As an effective approach to equip models with multi-task capabilities without additional training, model merging has garnered significant attention. However, existing merging methods face challenges of redundant parameter conflicts and the excessive storage burden of fine-tuned parameters. In this work, through controlled experiments, we reveal that for fine-tuned task vectors, only those parameters with magnitudes above a certain threshold contribute positively to the task, exhibiting a pulse-like characteristic. We then attempt leveraging this pulse-like characteristic to binarize the task vectors and reduce storage overhead. 
 </div>
 </div>
 
@@ -174,6 +173,14 @@
 - ``Arxiv`` ``Scientific Discovery`` [SpectrumWorld: Artificial Intelligence Foundation for Spectroscopy](https://arxiv.org/pdf/2508.01188), Zhuo Yang, Jiaqing Xie, Shuaike Shen, Daolang Wang, Yeyun Chen, Ben Gao, Shuzhou Sun, **Biqing Qi**, Dongzhan Zhou, Lei Bai, Linjiang Chen, Shufei Zhang, Jun Jiang, Tianfan Fu, Yuqiang Li.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/clim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- ``EMNLP 2024`` ``Embodied Agents`` [CliMRS: Cooperative Large-Language-Model Drriven Hyterogeneous Multi-robot Systems], Siqi Song, Xuanbing Xie, Zonglin Li, Yuqiang Li, Shijie Wang, **Biqing Qi**†.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/msiagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

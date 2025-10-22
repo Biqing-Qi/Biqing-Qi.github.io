@@ -147,16 +147,52 @@
   
 ## 👄 Applications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hypothesis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - ``COLM 2024``  ``Scientific Discovery`` [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/pdf/2407.08940v1), **Biqing Qi**, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou.
-- ``Instruct Following@NeurIPS 2023``  ``Scientific Discovery`` [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/pdf/2311.05965), **Biqing Qi**, Kaiyan Zhang, Haoxiang Li, Kai Tian, Sihang Zeng, Zhang-Ren Chen, Jin-Fang Hu, Bowen Zhou.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scalecua.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - ``Arxiv`` ``Gui Agents`` [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](https://arxiv.org/pdf/2509.15221), Zhaoyang Liu, JingJing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Zeyue Tian, Gen Luo, Xiangyu Yue, **Biqing Qi**, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scienceboard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - ``Arxiv`` ``GUI Agents`` ``Scientific Discovery`` [Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows](https://arxiv.org/pdf/2505.19897) Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, **Biqing Qi**, Lingpeng Kong, Zhiyong Wu.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/spectrum.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- ``Arxiv`` ``Scientific Discovery`` [SpectrumWorld: Artificial Intelligence Foundation for Spectroscopy](https://arxiv.org/pdf/2508.01188), Zhuo Yang, Jiaqing Xie, Shuaike Shen, Daolang Wang, Yeyun Chen, Ben Gao, Shuzhou Sun, **Biqing Qi**, Dongzhan Zhou, Lei Bai, Linjiang Chen, Shufei Zhang, Jun Jiang, Tianfan Fu, Yuqiang Li.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/msiagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- ``EMNLP 2024`` ``Embodied Agents`` [MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making](https://arxiv.org/pdf/2409.16686), Dayuan Fu\*, **Biqing Qi**†, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/osmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- ``Arxiv`` ``GUI Agents`` [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://arxiv.org/pdf/2507.19132?), Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun,  **Biqing Qi**†, Bowen Zhou.
+</div>
+</div>
+
 - ``NeurIPS 2024 D&B Track`` ``Scientific Discovery`` <span style="color:red">(Spotlight)</span> [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/pdf/2406.03949), Kaiyan Zhang, Sihang Zeng, Eermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Hhaoxiang Li, Ganqu Cui, **Biqing Qi**, Xuekai Zhu, Bowen Zhou, [![](https://img.shields.io/github/stars/TsinghuaC3I/UltraMedical?style=social&label=Code+Stars)](https://github.com/TsinghuaC3I/UltraMedical).
 - ``ACL 2025`` ``Scientific Discovery`` [Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.09403), Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, **Biqing Qi**, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong.
-- ``Arxiv`` ``Scientific Discovery`` [SpectrumWorld: Artificial Intelligence Foundation for Spectroscopy](https://arxiv.org/pdf/2508.01188), Zhuo Yang, Jiaqing Xie, Shuaike Shen, Daolang Wang, Yeyun Chen, Ben Gao, Shuzhou Sun, **Biqing Qi**, Dongzhan Zhou, Lei Bai, Linjiang Chen, Shufei Zhang, Jun Jiang, Tianfan Fu, Yuqiang Li.
-- ``EMNLP 2024`` ``Embodied Agents`` [MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making](https://arxiv.org/pdf/2409.16686), Dayuan Fu\*, **Biqing Qi**†, Yihuai Gao, Che Jiang, Guanting Dong, Bowen Zhou.
 - ``EMNLP 2025`` ``Scientific Discovery`` [ReviewRL: Towards Automated Scientific Review with RL](https://arxiv.org/pdf/2508.10308), Sihang Zeng, Kai Tian, Kaiyan Zhang, Yuru wang, Junqi Gao, Runze Liu, Sa Yang, Jingxuan Li, Xinwei Long, Jiaheng Ma, **Biqing Qi**†, Bowen Zhou.
-- ``Arxiv`` ``GUI Agents`` [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://arxiv.org/pdf/2507.19132?), Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun,  **Biqing Qi**†, Bowen Zhou.
+
 
   
 

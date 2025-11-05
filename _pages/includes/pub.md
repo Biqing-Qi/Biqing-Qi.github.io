@@ -37,6 +37,15 @@
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/nirvana.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+``Arxiv`` ``Hybrid Model Architecture`` [Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism](https://arxiv.org/pdf/2510.26083), Yuhua Jiang, Shuang Cheng, Yihao Liu, Ermo Hua, Che Jiang, Weigao Sun, Yu Cheng, Feifei Gao, **Biqing Qi**†, Bowen Zhou 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ICL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   

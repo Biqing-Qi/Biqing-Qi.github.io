@@ -139,7 +139,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/genprm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-``Arxiv`` ``Test Time Scaling`` [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/pdf/2504.00891), Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, Jiafei Lyu, Zhouyi Qian, **Biqing Qi**†, Xiu Li, Bowen Zhou.
+``AAAI 2026`` ``Test Time Scaling`` [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/pdf/2504.00891), Jian Zhao, Runze Liu, Kaiyan Zhang, Zhimu Zhou, Junqi Gao, Dong Li, Jiafei Lyu, Zhouyi Qian, **Biqing Qi**†, Xiu Li, Bowen Zhou.
 </div>
 </div>
 

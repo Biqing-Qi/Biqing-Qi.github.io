@@ -5,7 +5,7 @@ Key contributions include: 1) Co-proposing the "General-Specialized Integration 
 3) Pioneering the early validation of LLM-driven autonomous hypothesis generation, building the MARTI multi-agent training-inference system, and achieving significant breakthroughs in computational chemistry. His work has garnered significant media attention and has been implemented in leading technology companies such as Tencent, ByteDance, and Xianyuan. He has led two national major projects, one Shanghai municipal major project and one project under the National Natural Science Foundation of China.
 
 
-齐弼卿，上海人工智能实验室星启研究员，香港大学博士后（合作导师马毅教授），哈工大、清华联培博士，师从周伯文教授与吴立刚教授。现任中国工程院技术专班成员、国家供应链AI平台建设咨询委员会委员、中文信息学会具身智能专委会委员。长期致力于机器学习与自然语言处理前沿研究，在NeurIPS、CVPR、ACL、TPAMI等顶级会议期刊发表论文60余篇，其中第一/通讯作者论文20余篇。主要贡献包括：1）与周伯文教授团队共提“通专融合智能”AGI路径，研发Nirvana等动态架构，推动软硬件协同设计与脑卒中早期筛查，成果获《人民日报》报道；2）提出交互式持续学习框架与SDAR模型，建立领先开源实现, 月下载数万；3）早期验证大模型驱动独立假设提出的研究范式，构建MARTI多智能体训推系统，在计算化学领域取得Nature级别科学突破。研究成果在腾讯、阿里、字节及天坛医院等落地闭环。主持国家重大课题4项（亿级）、上海市重大课题1项（亿级）及国家自然基金项目等。
+齐弼卿，上海人工智能实验室星启研究员，香港大学博士后（合作导师马毅教授），哈工大、清华联培博士，师从周伯文教授与吴立刚教授。现任中国工程院技术专班成员、国家供应链AI平台建设咨询委员会委员、中文信息学会具身智能专委会委员。长期致力于机器学习与自然语言处理前沿研究，在NeurIPS、CVPR、ACL、TPAMI等顶级会议期刊发表论文60余篇，其中第一/通讯作者论文20余篇。主要贡献包括：1）与周伯文教授团队共提“通专融合智能”AGI路径，研发Nirvana等动态架构，推动软硬件协同设计与脑卒中早期筛查，成果获《人民日报》报道；2）提出交互式持续学习框架与SDAR模型，建立领先开源实现, 月下载数万；3）早期验证大模型驱动独立假设提出的研究范式，构建MARTI多智能体训推系统，在计算化学领域取得Nature级别科学突破。研究成果在腾讯、阿里、字节及天坛医院等落地闭环。主持4项国家重大课题（亿级）、上海市重大课题（亿级）及国家自然基金项目等。
 
 If you are seeking any form of academic collaborations with Shanghai AI Lab or AIUS, SCIR Lab at HIT and Tsinghua C3I Lab, please feel free to email me at [qibiqing7@gmail.com](qibiqing@gmail.com) or [qibiqing@pjlab.org.cn](qibiqing@pjlab.org.cn)
 

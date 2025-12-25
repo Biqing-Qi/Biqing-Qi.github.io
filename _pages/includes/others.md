@@ -5,24 +5,25 @@
 ### Interns
 
 #### Foundation Models 
-- Yihao Liu, 2025.03-, 4th-yr Ph.D. candidate, Tsinghua University, IIIS.
-- Ermo Hua, 2025,07-, 3th-yr Ph.D. candidate, Tsinghua University.
+- Haixv Song, 2025.12-, 4th-yr Ph.D. candidate, Tsinghua University.
+- Ermo Hua, 2025,07-, 3th-yr Ph.D. candidate, Tsinghua University. 
 - Yuhua Jiang, 2025.02-, 2nd-yr Ph.D. candidate, Tsinghua Univeristy. 
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
 - Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
+- Haozhen Hou, 2025.12-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
 
 #### Multi-Agents Systems
 - Yikun Fu, 2025.09-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
 - Xiaowei Sun, 2025.9-, 1st-yr Ph.D. candidate, Fudan University.
 
 ### Visiting Students 
-- Junqi Gao, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
-- Dong Li, 2nd-yr Ph.D. candidate, Harbin Institute of Technology.
-- Nuanqiao Shan, 1st-yr Ph.D. candidate, Zhejiang University.
+- Junqi Gao, 3th-yr Ph.D. candidate, Harbin Institute of Technology.
+- Dong Li, 3th-yr Ph.D. candidate, Harbin Institute of Technology.
+- Jian Zhao, 1st-yr Ph.D. candidate, Tsinghua University, IIIS.
 
 #### Alumni Interns and Visiting Students
-- Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
+- Yihao Liu, Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
 
 # ⚔ Projects
 ### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**

@@ -14,11 +14,11 @@
 
 #### Multi-Agents Systems
 - Yikun Fu, 2025.09-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
-- Xiaowei Sun, 2025.9-, 1st-yr Ph.D. candidate, Fudan University.
+- Xiaowei Sun, 2025.9-, 2nd-yr Ph.D. candidate, Fudan University.
 
 ### Visiting Students 
-- Junqi Gao, 3th-yr Ph.D. candidate, Harbin Institute of Technology.
-- Dong Li, 3th-yr Ph.D. candidate, Harbin Institute of Technology.
+- Junqi Gao, 3th-yr Ph.D. candidate, Harbin Institute of Technology（Co-supervised with Technical University of Munich）.
+- Dong Li, 3th-yr Ph.D. candidate, Harbin Institute of Technology（Incoming Postdoctoral Researcher at ETH Zürich）.
 - Jian Zhao, 1st-yr Ph.D. candidate, Tsinghua University, IIIS.
 
 #### Alumni Interns and Visiting Students

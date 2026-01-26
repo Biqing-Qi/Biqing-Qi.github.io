@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.01*: 🎉 Four papers are accepted by ICLR 2026
 - *2025.11*: 🎉 Two papers are accepted by AAAI 2026
 - *2025.11*: 🔥"Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism" released on [Project Page](https://github.com/JetAstra/Nirvana) [Paper Link](https://arxiv.org/pdf/2510.26083)
 - *2025.09*: 🔥"ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data" released on [Project Page](https://github.com/OpenGVLab/ScaleCUA) [Paper Link](https://arxiv.org/pdf/2509.15221)

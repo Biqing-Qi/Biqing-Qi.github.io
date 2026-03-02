@@ -17,7 +17,6 @@
 - Xiaowei Sun, 2025.9-, 2nd-yr Ph.D. candidate, Fudan University.
 
 ### Visiting Students 
-- Junqi Gao, 3th-yr Ph.D. candidate, Harbin Institute of Technology.
 - Dong Li, 3th-yr Ph.D. candidate, Harbin Institute of Technology.
 - Jian Zhao, 1st-yr Ph.D. candidate, Tsinghua University, IIIS.
 

@@ -4,14 +4,12 @@
   
 ## 🎙 Multimodal Foundation Models 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SGI-boom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ``Arxiv`` ``Position Paper`` [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/pdf/2407.08642),  Kaiyan Zhang\*, **Biqing Qi\***, Bowen Zhou.
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/rlsurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -23,7 +21,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/internvl35.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-``Technical Report`` ``Multimodal Large Language Models`` [InternVL3. 5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, ..., **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.[![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL)
+``Technical Report`` ``Multimodal Large Language Models`` [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265?), Weiyun Wang, ..., **Biqing Qi**, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo.[![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL)
 </div>
 </div>
 
@@ -89,11 +87,6 @@
 </div>
 </div>
 
-- ``Arxiv`` ``Diffusion Language Models`` [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/pdf/2510.09309), Jianuo Huang, Yaojie Zhang, Yicun Yang, Benhao Huang, **Biqing Qi**, Dongrui Liu, Linfeng Zhang
-- ``Arxiv`` ``Diffusion Language Models`` [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/pdf/2510.04147), Yifeng Gao, Ziang Ji, Yuxuan Wang, **Biqing Qi**, Hanlin Xu, Linfeng Zhang
-- ``Arxiv`` ``Diffusion Language Models`` [Sequential Diffusion Language Models](https://arxiv.org/pdf/2509.24007), Yangzhou Liu, Yue Cao, Hao Li, Gen Luo, Zhe Chen, Weiyun Wang, Xiaobo Liang, **Biqing Qi**, Lijun Wu, Changyao Tian, Yanting Zhang, Yuqiang Li, Tong Lu, Yu Qiao, Jifeng Dai, Wenhai Wang
-- ``Arxiv`` ``Diffusion Language Models`` [Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs](https://arxiv.org/pdf/2508.10736), Xiangqi Jin, Yuxuan Wang, Yifeng Gao, Zichen Wen, **Biqing Qi**, Dongrui Liu, Linfeng Zhang
-
 - ``NeurIPS 2024`` ``Countinual Learning`` [An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2411.06659), Dong Li, Aijia Zhang, Junqi Gao, **Biqing Qi**†.
 - ``NAACL 2024`` ``Reasoning`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou.
 - ``Arxiv`` ``Alignment`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou.
@@ -132,7 +125,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/1b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-``Arxiv`` ``Test Time Scaling`` [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703), Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, **Biqing Qi**†, Wanli Ouyang and Bowen Zhou.
+``ICLR@RLLLM 2025`` ``Test Time Scaling`` [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/pdf/2502.06703), Runze Liu, Junqi Gao, Jian Zhao, Kaiyan Zhang, Xiu Li, **Biqing Qi**†, Wanli Ouyang and Bowen Zhou.
 </div>
 </div>
 
@@ -153,6 +146,7 @@
   
 ## 👄 Applications 
 
+Autonomous Scientific Knowledge Discovery Platform
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hypothesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -225,7 +219,6 @@
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/clim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -233,6 +226,12 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/msiagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+``Arxiv`` ``Embodied Agents`` [AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models](https://arxiv.org/pdf/2409.16686), Yuhua Jiang, Shuang Cheng, Yan Ding, Feifei Gao, **Biqing Qi**†.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/msiagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

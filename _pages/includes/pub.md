@@ -88,11 +88,8 @@
 </div>
 
 - ``NeurIPS 2024`` ``Countinual Learning`` [An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2411.06659), Dong Li, Aijia Zhang, Junqi Gao, **Biqing Qi**†.
-- ``NAACL 2024`` ``Reasoning`` [PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning](https://arxiv.org/pdf/2305.13888), Xuekai Zhu, **Biqing Qi**, Kaiyan Zhang, Xinwei Long, Zhouhan Lin, Bowen Zhou.
 - ``Arxiv`` ``Alignment`` [Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing](https://arxiv.org/pdf/2406.05534), **Biqing Qi**, Pengfei Li, Fangyuan Li, Junqi Gao, Kaiyan Zhang, Bowen Zhou.
 - ``ACL 2024 (Findings)`` ``Model Architecture`` [SMR: State Memory Replay for Long Sequence Modeling](https://arxiv.org/pdf/2405.17534), **Biqing Qi**, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou.
-- ``EMNLP 2024 (Findings)`` ``Model Architecture`` [On the token distance modeling ability of higher RoPE attention dimension](https://arxiv.org/pdf/2410.08703), Xiangyu Hong, Che Jiang, **Biqing Qi**†, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.
-- ``NeurIPS 2024`` ``Model Architecture`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation](https://arxiv.org/pdf/2406.13215)，Zhiyuan Ma, Liangliang Zhao, **Biqing Qi**, Bowen Zhou.
 - ``ACM MM 2025`` ``Sturctured Memory`` [ T-GRAG: Temporal Graph Retrieval Augmented Generation](https://arxiv.org/pdf/2508.01680), Dong Li, Yichen Niu, Ying Ai, Xiang Zou, **Biqing Qi**†, Jianxing Liu.
 - ``AAAI 2025`` ``Optimizer`` <span style="color:red">(Oral)</span> [Fast and Slow Gradient Approximation for Binary Neural Network Optimization](https://arxiv.org/pdf/2412.11777), Xinquan Chen, Junqi Gao, **Biqing Qi**†, Dong Li, Yiang Luo, Fangyuan Li, Pengfei Li. 
 
@@ -223,13 +220,6 @@ Autonomous Scientific Knowledge Discovery Platform
 <div class='paper-box-text' markdown="1">
   
 ``Arxiv`` ``Embodied Agents`` CliMRS: Cooperative Large-Language-Model Drriven Hyterogeneous Multi-robot Systems, Siqi Song, Xuanbing Xie, Zonglin Li, Yuqiang Li, Shijie Wang, **Biqing Qi**†.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/msiagent.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-``Arxiv`` ``Embodied Agents`` [AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models](https://arxiv.org/pdf/2409.16686), Yuhua Jiang, Shuang Cheng, Yan Ding, Feifei Gao, **Biqing Qi**†.
 </div>
 </div>
 

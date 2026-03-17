@@ -4,17 +4,14 @@
 
 ### Interns
 
-#### Foundation Models 
+#### Agentic Foundation Models 
 - Haixu Song, 2026.1-, 4th-yr Ph.D. candidate, Tsinghua University.
 - Yuhua Jiang, 2025.02-, 2nd-yr Ph.D. candidate, Tsinghua Univeristy. 
 - Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
 - Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
-- Haozhen Hou, 2026.1-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
-
-#### Multi-Agents Systems
 - Yikun Fu, 2025.09-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
-- Xiaowei Sun, 2025.9-, 2nd-yr Ph.D. candidate, Fudan University.
+- Haozhen Hou, 2026.1-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
 
 ### Visiting Students 
 - Dong Li, 3th-yr Ph.D. candidate, Harbin Institute of Technology.

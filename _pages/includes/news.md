@@ -1,6 +1,6 @@
 # 🔥 News
-- *2026.04*: 🎉 Seven papers accepted by ACL 2026 (Two Orals and Two Findings)
-- *2026.02*: 🎉 One paper accepted by CVPR 2026
+- *2026.04*: 🎉 Seven papers are accepted by ACL 2026 (Two Orals and Two Findings)
+- *2026.02*: 🎉 One paper is accepted by CVPR 2026
 - *2026.01*: 🎉 Four papers are accepted by ICLR 2026
 - *2025.11*: 🎉 Two papers are accepted by AAAI 2026
 - *2025.11*: 🔥"Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism" released on [Project Page](https://github.com/JetAstra/Nirvana) [Paper Link](https://arxiv.org/pdf/2510.26083)

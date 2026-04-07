@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.04*: 🎉 Seven papers are accepted by ACL 2026 (Two Orals and Two Findings)
+- *2026.04*: 🎉 Seven papers are accepted by ACL 2026 (Two Findings)
 - *2026.02*: 🎉 One paper is accepted by CVPR 2026
 - *2026.01*: 🎉 Four papers are accepted by ICLR 2026
 - *2025.11*: 🎉 Two papers are accepted by AAAI 2026

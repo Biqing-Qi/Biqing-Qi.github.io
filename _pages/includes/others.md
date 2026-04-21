@@ -13,10 +13,6 @@
 - Yikun Fu, 2025.09-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
 - Haozhen Hou, 2026.1-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
 
-### Visiting Students 
-- Dong Li, 3th-yr Ph.D. candidate, Harbin Institute of Technology.
-- Jian Zhao, 1st-yr Ph.D. candidate, Tsinghua University, IIIS.
-
 #### Alumni Interns and Visiting Students
 - Xiaowei Sun, Yihao Liu, Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
 

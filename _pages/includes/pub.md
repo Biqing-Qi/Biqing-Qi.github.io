@@ -28,7 +28,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sdar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-``Technical Report`` ``Hybrid Diffusion Language Models`` [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/pdf/2510.06303), Shuang Cheng, Yihan Bian, Dawei Liu, Yuhua Jiang, Yihao Liu, Linfeng Zhang, Wenhai Wang, Qipeng Guo, Kai Chen, **Biqing Qi**†, Bowen Zhou [![](https://img.shields.io/github/stars/JetAstra/SDAR?style=social&label=Code+Stars)](https://github.com/JetAstra/SDAR)
+``Technical Report & ACL 2026`` ``Hybrid Diffusion Language Models`` [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/pdf/2510.06303), Shuang Cheng, Yihan Bian, Dawei Liu, Yuhua Jiang, Yihao Liu, Linfeng Zhang, Wenhai Wang, Qipeng Guo, Kai Chen, **Biqing Qi**†, Bowen Zhou [![](https://img.shields.io/github/stars/JetAstra/SDAR?style=social&label=Code+Stars)](https://github.com/JetAstra/SDAR)
   - Low-Cost AR-to-BlockDiffusion
   - 2-4× Faster Inference
   - Advanced performance on science reasoning bechmarks (e.g., GPQA and ChemBench)
@@ -39,7 +39,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/nirvana.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-``Arxiv`` ``Hybrid Model Architecture`` [Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism](https://arxiv.org/pdf/2510.26083), Yuhua Jiang, Shuang Cheng, Yihao Liu, Ermo Hua, Che Jiang, Weigao Sun, Yu Cheng, Feifei Gao, **Biqing Qi**†, Bowen Zhou 
+``ACL 2026`` ``Hybrid Model Architecture`` [Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism](https://arxiv.org/pdf/2510.26083), Yuhua Jiang, Shuang Cheng, Yihao Liu, Ermo Hua, Che Jiang, Weigao Sun, Yu Cheng, Feifei Gao, **Biqing Qi**†, Bowen Zhou 
 </div>
 </div>
 

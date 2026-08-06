@@ -214,12 +214,6 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/clim.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-``Arxiv`` ``Embodied Agents`` CliMRS: Cooperative Large-Language-Model Drriven Hyterogeneous Multi-robot Systems, Siqi Song, Xuanbing Xie, Zonglin Li, Yuqiang Li, Shijie Wang, **Biqing Qi**†.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/msiagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

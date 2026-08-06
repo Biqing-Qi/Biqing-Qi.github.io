@@ -5,7 +5,7 @@
 
 ### Interns
 
-#### Agentic Foundation Models 
+#### Foundation Model
 - Yuhua Jiang, 2nd-year Ph.D. candidate, Tsinghua University
 - Yicheng Gu, 1st-year Ph.D. candidate, Tsinghua University (Joint Supervision)
 - Shuang Cheng, 1st-year Ph.D. candidate, Zhejiang University (Joint Supervision)

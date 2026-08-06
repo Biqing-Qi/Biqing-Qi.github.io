@@ -1,17 +1,17 @@
 # 🌃 Teams
 ### Team members
-- Shijie Wang, Ph.D., Reseacher, Institute of Automation.
+- Shijie Wang, Ph.D. (Institute of Automation, CAS), Researcher
+- Haixu Song, Ph.D. (Tsinghua University), Intern (incoming Researcher)
 
 ### Interns
 
 #### Agentic Foundation Models 
-- Haixu Song, 2026.1-, 4th-yr Ph.D. candidate, Tsinghua University.
 - Yuhua Jiang, 2025.02-, 2nd-yr Ph.D. candidate, Tsinghua Univeristy. 
-- Yicheng Gu, 2025.06-, 1st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
+- Yicheng Gu, 2025.06-, 0st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
 - Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
 - Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
-- Yikun Fu, 2025.09-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong Univeristy.（Joint Supervison）
-- Haozhen Hou, 2026.1-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
+- Haozhen Hou, 2026.01-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
+- Kaifeng Liu, 2026.01-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
 
 #### Alumni Interns and Visiting Students
 - Xiaowei Sun, Yihao Liu, Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.

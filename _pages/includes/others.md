@@ -6,13 +6,13 @@
 ### Interns
 
 #### Agentic Foundation Models 
-- Yuhua Jiang, 2nd-yr Ph.D. candidate, Tsinghua Univeristy. 
-- Yicheng Gu, 1st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
-- Shuang Cheng, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
-- Dawei Liu, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
-- Yikun Fu, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
-- Haozhen Hou, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
-- Kaifeng Liu, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
+- Yuhua Jiang, 2nd-year Ph.D. candidate, Tsinghua University
+- Yicheng Gu, 1st-year Ph.D. candidate, Tsinghua University (Joint Supervision)
+- Shuang Cheng, 1st-year Ph.D. candidate, Zhejiang University (Joint Supervision)
+- Dawei Liu, 1st-year Ph.D. candidate, Shanghai Jiao Tong University (Joint Supervision)
+- Yikun Fu, 1st-year Ph.D. candidate, Shanghai Jiao Tong University (Joint Supervision)
+- Haozhen Hou, 1st-year Ph.D. candidate, Harbin Institute of Technology (Joint Supervision)
+- Kaifeng Liu, 1st-year Ph.D. candidate, Harbin Institute of Technology (Joint Supervision)
 
 #### Alumni Interns and Visiting Students
 - Xiaowei Sun, Yihao Liu, Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.

@@ -10,7 +10,6 @@
 - Yicheng Gu, 1st-year Ph.D. candidate, Tsinghua University (Joint Supervision)
 - Shuang Cheng, 1st-year Ph.D. candidate, Zhejiang University (Joint Supervision)
 - Dawei Liu, 1st-year Ph.D. candidate, Shanghai Jiao Tong University (Joint Supervision)
-- Yikun Fu, 1st-year Ph.D. candidate, Shanghai Jiao Tong University (Joint Supervision)
 - Haozhen Hou, 1st-year Ph.D. candidate, Harbin Institute of Technology (Joint Supervision)
 - Kaifeng Liu, 1st-year Ph.D. candidate, Harbin Institute of Technology (Joint Supervision)
 

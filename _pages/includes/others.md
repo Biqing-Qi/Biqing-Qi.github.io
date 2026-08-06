@@ -6,12 +6,13 @@
 ### Interns
 
 #### Agentic Foundation Models 
-- Yuhua Jiang, 2025.02-, 2nd-yr Ph.D. candidate, Tsinghua Univeristy. 
-- Yicheng Gu, 2025.06-, 0st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
-- Shuang Cheng, 2024.11-, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
-- Dawei Liu, 2024.11-, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
-- Haozhen Hou, 2026.01-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
-- Kaifeng Liu, 2026.01-, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
+- Yuhua Jiang, 2nd-yr Ph.D. candidate, Tsinghua Univeristy. 
+- Yicheng Gu, 1st-yr Ph.D. candidate, Tsinghua University.（Joint Supervison）
+- Shuang Cheng, 1st-yr Ph.D. candidate, Zhejiang University.（Joint Supervison）
+- Dawei Liu, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
+- Yikun Fu, 1st-yr Ph.D. candidate, Shanghai Jiao Tong University.（Joint Supervison）
+- Haozhen Hou, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
+- Kaifeng Liu, 1st-yr Ph.D. candidate, Harbin Institute of Technology.（Joint Supervison）
 
 #### Alumni Interns and Visiting Students
 - Xiaowei Sun, Yihao Liu, Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.

@@ -2,7 +2,7 @@
 - *2026.08*: 🎉 🔥"Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning" released on [Project Page](https://huggingface.co/internlm/Intern-S2-Mobius) [Paper Link](https://github.com/InternLM/Intern-S2-Mobius/blob/main/Technical_Report_Intern_S2_Mobius.pdf)
 - *2026.05*: 🎉 One paper is accepted by COLM 2026
 - *2026.04*: 🎉 Seven papers are accepted by ACL 2026 (Two Findings)
-- *2026.04*: 🎉 🔥"Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale" released on [Project Page](https://huggingface.co/internlm/Intern-S1-Pro) [Paper Link](https://arxiv.org/pdf/2603.25040)
+- *2026.03*: 🎉 🔥"Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale" released on [Project Page](https://huggingface.co/internlm/Intern-S1-Pro) [Paper Link](https://arxiv.org/pdf/2603.25040)
 - *2026.02*: 🎉 One paper is accepted by CVPR 2026
 - *2026.01*: 🎉 Four papers are accepted by ICLR 2026
 - *2025.11*: 🎉 Two papers are accepted by AAAI 2026

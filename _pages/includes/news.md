@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.08*: 🎉 Three papers are accepted by EMNLP 2026 (One Findings)
 - *2026.08*: 🎉 🔥"Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning" released on [Project Page](https://huggingface.co/internlm/Intern-S2-Mobius) [Paper Link](https://arxiv.org/abs/2608.14290)
 - *2026.05*: 🎉 One paper is accepted by COLM 2026
 - *2026.04*: 🎉 Seven papers are accepted by ACL 2026 (Two Findings)

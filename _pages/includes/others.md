@@ -12,6 +12,8 @@
 - Dawei Liu, 1st-year Ph.D. candidate, Shanghai Jiao Tong University (Joint Supervision)
 - Haozhen Hou, 1st-year Ph.D. candidate, Harbin Institute of Technology (Joint Supervision)
 - Kaifeng Liu, 1st-year Ph.D. candidate, Harbin Institute of Technology (Joint Supervision)
+- Feng Ju, Incoming Ph.D. student, Shanghai Jiao Tong University (Joint Supervision)
+- Bowen Fu, Incoming Ph.D. student, Shanghai Jiao Tong University (Joint Supervision)
 
 #### Alumni Interns and Visiting Students
 - Xiaowei Sun, Yihao Liu, Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.

@@ -25,7 +25,7 @@
   *Sep. 2026 – Aug. 2028 | Project Lead | RMB 99.8M*
 
 **Completed**
-- **National Laboratory Major Project: Efficient Model Architectures and Learning Paradigms**  
+- **National Major Project: Efficient Model Architectures and Learning Paradigms**  
   *Jan. 2025 – Dec. 2025 | Project Lead | RMB 97.6M*
 - **Shanghai Municipal Science and Technology Major Project: Collective Self-Evolution Architectures and Interactive Learning Methods**  
   *Jan. 2025 – Feb. 2026 | Project Lead | RMB 22.58M*

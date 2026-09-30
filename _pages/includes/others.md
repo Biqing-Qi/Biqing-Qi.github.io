@@ -19,29 +19,12 @@
 - Xiaowei Sun, Yihao Liu, Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu, Gunbing Zhang.
 
 # ⚔ Projects
-### Commodity Price Risk Prediction and Demonstration Application **Sep.2023-Sep.2026**
-  - (Key Participants)  National Science and Technology Major Project:
-  - Responsible for the technical planning of Project 2 and leading the team in advancing the construction of the labeling system within LLMs.
 
-### Research on Theory and Applications of Human-AI Collaboration with LLMs **Jan.2024-Jan.2027**
-  - (Key Participants) National Science and Technology Major Project:
-  -  Responsible for designing the project architecture, planning technical aspects, and overseeing the development of human-machine collaborative systems, along with conducting applied research in knowledge discovery for Project 3.
-    
-### Cognitive Load Optimization in Human-Machine Collaboration **Mar.2023-Dec.2026**
-  - (Participated) Key Research Program of the Ministry of Science and Technology in 2030:
-  - Responsible for project management within Tsinghua Group, as well as interaction modeling and reflective framework optimization in LLMs.
+- Ongoing | Sep. 2026 – Aug. 2028 — National Major Project for Next-Generation Artificial Intelligence: New Architectures for General and Specialized Scientific Large Models (Project Lead; RMB 99.8M).
 
-### Research for Product Insight, Design, Development to Marketing Innovation **Sep.2023-Dec.2025**
-  - Participated）Beijing Municipal Science and Technology Commission Key Project.
-  - Responsible for project architecture, planing technical aspects.
+- Completed | Jan. 2025 – Dec. 2025 — National Laboratory Major Project: Efficient Model Architectures and Learning Paradigms (Project Lead; RMB 97.6M).
 
-### Proteomics Data based Knowledge Discovery **Mar.2022-Dec.2023** 
-  - (Student Lead) Preliminary Research Project for Major Scientific Plan.
-  - Responsible for project architecture, planning technical aspects, and guiding the design of human-AI systems with respect to hypothesis proposers.
-    
-### Demonstration of Personified Human-Machine Dialogue System **Mar.2020-Dec.2023**
-  - (Participated) Key Research Program of the Ministry of Science and Technology in 2030: 
-  - Responsible for the development of a robust dialogue intent detection method.
+- Completed | Jan. 2025 – Feb. 2026 — Shanghai Major Project: Collective Self-Evolution Architectures and Interactive Learning Methods (Project Lead; RMB 22.58M).
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=243&t=n&d=ujpjNGmVrdWti53wqBuAxF7eHAjpY90xVVy6lWB7ZdI&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>

@@ -18,7 +18,7 @@
 #### Former Interns and Visiting Students
 - Xiaowei Sun, Yihao Liu, Cheng Yang, Yihan Di, Yanlin Pan, Tianhe Lin, Yizhuo Di, Xuetian Chen, Xingfeng Yuan, Yinghao Cheng, Linan Chang, Runze Liu, Xunzhe Zhou, Jing Xiao, Yu Zhang, Yongjia Yu, Qianru Lin, Yifan Hu and Guibing Zhang.
 
-# ⚔ Selected Projects
+# ⚔ Projects
 
 **Ongoing**
 - **National Key R&D Program — Next-Generation Artificial Intelligence: New Architectures for General and Specialized Scientific Large Models**  

@@ -20,11 +20,15 @@
 
 # ⚔ Selected Projects
 
-- Ongoing | Sep. 2026 – Aug. 2028 —National Key R&D Program — Next-Generation Artificial Intelligence: New Architectures for General and Specialized Scientific Large Models (Project Lead; RMB 99.8 Million).
+**Ongoing**
+- **National Key R&D Program — Next-Generation Artificial Intelligence: New Architectures for General and Specialized Scientific Large Models**  
+  *Sep. 2026 – Aug. 2028 | Project Lead | RMB 99.8M*
 
-- Completed | Jan. 2025 – Dec. 2025 — National Laboratory Major Project: Efficient Model Architectures and Learning Paradigms (Project Lead; RMB 97.6 Million).
-  
-- Completed | Jan. 2025 – Feb. 2026 — Shanghai Municipal Science and Technology Major Project: Collective Self-Evolution Architectures and Interactive Learning Methods (Project Lead; RMB 22.58 Million).
+**Completed**
+- **National Laboratory Major Project: Efficient Model Architectures and Learning Paradigms**  
+  *Jan. 2025 – Dec. 2025 | Project Lead | RMB 97.6M*
+- **Shanghai Municipal Science and Technology Major Project: Collective Self-Evolution Architectures and Interactive Learning Methods**  
+  *Jan. 2025 – Feb. 2026 | Project Lead | RMB 22.58M*
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=243&t=n&d=ujpjNGmVrdWti53wqBuAxF7eHAjpY90xVVy6lWB7ZdI&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>

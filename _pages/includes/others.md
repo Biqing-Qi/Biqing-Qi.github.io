@@ -23,7 +23,7 @@
 - Ongoing | Sep. 2026 – Aug. 2028 —National Key R&D Program — Next-Generation Artificial Intelligence: New Architectures for General and Specialized Scientific Large Models (Project Lead; RMB 99.8 Million).
 
 - Completed | Jan. 2025 – Dec. 2025 — National Laboratory Major Project: Efficient Model Architectures and Learning Paradigms (Project Lead; RMB 97.6 Million).
-- 
+  
 - Completed | Jan. 2025 – Feb. 2026 — Shanghai Municipal Science and Technology Major Project: Collective Self-Evolution Architectures and Interactive Learning Methods (Project Lead; RMB 22.58 Million).
 
 

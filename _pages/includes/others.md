@@ -21,7 +21,7 @@
 # ⚔ Projects
 
 **Ongoing**
-- **National Key R&D Program — Next-Generation Artificial Intelligence: New Architectures for General and Specialized Scientific Large Models**  
+- **National Key R&D Program: New Architectures for General and Specialized Scientific Large Models**  
   *Sep. 2026 – Aug. 2028 | Project Lead | RMB 99.8M*
 
 **Completed**

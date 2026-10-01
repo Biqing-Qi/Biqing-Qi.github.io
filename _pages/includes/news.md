@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.09*: 🎉 One paper is accepted by TPAMI
 - *2026.09*: 🎉 🔥“Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validation”  [Project Page](https://github.com/JetAstra/Arche-Harness) [Paper Link](https://arxiv.org/pdf/2609.11147)
 - *2026.09*: 🎉 “NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction” [Project Page](https://huggingface.co/collections/ArchSpace-Collection/ncp-archpreview) [Paper Link](https://arxiv.org/pdf/2609.10715)
 - *2026.08*: 🎉 Three papers are accepted by EMNLP 2026 (One Findings)

@@ -25,10 +25,12 @@ author:
   avatar           : "images/biqingqi.jpeg"
   bio              : "Shanghai AI Lab"
   location         : "Shanghai, China"
+  email            : "qibiqing7@gmail.com"
+  github           : "Biqing-Qi"
+  redbook          : "https://www.xiaohongshu.com/user/profile/583a400e7fc5b869b7a71cfc"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KQ5dLfYAAAAJ&hl=zh-CN"
-  email            : "qibiqing7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +39,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Biqing-Qi"
   google_plus      :
   keybase          :
   instagram        : 
@@ -57,7 +58,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  redbook          : "https://www.xiaohongshu.com/user/profile/583a400e7fc5b869b7a71cfc"
+
 
 
 # Reading Files

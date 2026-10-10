@@ -9,11 +9,13 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Teams"
+    url: "/#-teams"
+
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Teams"
-    url: "/#-teams"
+
 
  # - title: "Honors and Awards"
  #   url: "/#-honors-and-awards"

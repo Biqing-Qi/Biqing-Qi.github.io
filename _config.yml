@@ -40,7 +40,7 @@ author:
   github           : "Biqing-Qi"
   google_plus      :
   keybase          :
-  instagram        : "https://www.xiaohongshu.com/user/profile/583a400e7fc5b869b7a71cfc"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   #linkedin         : ""
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  redbook          : "https://www.xiaohongshu.com/user/profile/583a400e7fc5b869b7a71cfc"
 
 
 # Reading Files

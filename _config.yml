@@ -27,7 +27,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  #googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=KQ5dLfYAAAAJ&hl=zh-CN"
   email            : "qibiqing7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -40,7 +40,7 @@ author:
   github           : "Biqing-Qi"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.xiaohongshu.com/user/profile/583a400e7fc5b869b7a71cfc"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   #linkedin         : ""

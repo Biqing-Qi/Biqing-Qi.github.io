@@ -27,12 +27,12 @@ author:
   location         : "Shanghai, China"
   email            : "qibiqing7@gmail.com"
   github           : "Biqing-Qi"
-  redbook          : "https://www.xiaohongshu.com/user/profile/583a400e7fc5b869b7a71cfc"
+  redbook          : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KQ5dLfYAAAAJ&hl=zh-CN"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.xiaohongshu.com/user/profile/583a400e7fc5b869b7a71cfc"
   bitbucket        :
   codepen          :
   dribbble         :
